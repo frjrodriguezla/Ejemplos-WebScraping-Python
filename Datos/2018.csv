@@ -1,0 +1,1135 @@
+Year,Continent ID,Continent,Country ID,Country,ISO 3,Trade Value,id,id_3char,name
+2018,af,Africa,afzaf,South Africa,zaf,1173111793.85754,afago,ago,Angola
+2018,as,Asia,asare,United Arab Emirates,are,550977917,afago,ago,Angola
+2018,as,Asia,aschn,China,chn,21989016448.593803,afago,ago,Angola
+2018,as,Asia,asidn,Indonesia,idn,577649813.7628859,afago,ago,Angola
+2018,as,Asia,asind,India,ind,3190161288.4440303,afago,ago,Angola
+2018,as,Asia,asisr,Israel,isr,281473038.305851,afago,ago,Angola
+2018,as,Asia,asjpn,Japan,jpn,191641016.34063601,afago,ago,Angola
+2018,as,Asia,asmys,Malaysia,mys,216473721.44203398,afago,ago,Angola
+2018,as,Asia,assgp,Singapore,sgp,379210162.99999994,afago,ago,Angola
+2018,as,Asia,astha,Thailand,tha,704631284.579424,afago,ago,Angola
+2018,as,Asia,asxxb,Chinese Taipei,,192115991.303601,afago,ago,Angola
+2018,eu,Europe,eudeu,Germany,deu,44451065.8541022,afago,ago,Angola
+2018,eu,Europe,euesp,Spain,esp,1208869219.5725498,afago,ago,Angola
+2018,eu,Europe,eufra,France,fra,574435022.1758851,afago,ago,Angola
+2018,eu,Europe,eugbr,United Kingdom,gbr,63925706.3571261,afago,ago,Angola
+2018,eu,Europe,euita,Italy,ita,443053172.049795,afago,ago,Angola
+2018,eu,Europe,eunld,Netherlands,nld,55576896.3729989,afago,ago,Angola
+2018,eu,Europe,euprt,Portugal,prt,1098645087.05041,afago,ago,Angola
+2018,na,North America,nacan,Canada,can,682789431,afago,ago,Angola
+2018,na,North America,napan,Panama,pan,129360980,afago,ago,Angola
+2018,na,North America,nausa,United States,usa,1336539768.3240302,afago,ago,Angola
+2018,oc,Oceania,ocaus,Australia,aus,23234357.8225629,afago,ago,Angola
+2018,sa,South America,saury,Uruguay,ury,355356780.562936,afago,ago,Angola
+2018,af,Africa,afzaf,South Africa,zaf,53462770.2654185,afciv,civ,Cote d'Ivoire
+2018,eu,Europe,eudeu,Germany,deu,276667969.625085,afciv,civ,Cote d'Ivoire
+2018,eu,Europe,euesp,Spain,esp,48871983.8483907,afciv,civ,Cote d'Ivoire
+2018,eu,Europe,eufra,France,fra,82854366.1857914,afciv,civ,Cote d'Ivoire
+2018,eu,Europe,eugbr,United Kingdom,gbr,9085,afciv,civ,Cote d'Ivoire
+2018,eu,Europe,eunld,Netherlands,nld,31725036.7709409,afciv,civ,Cote d'Ivoire
+2018,na,North America,nacan,Canada,can,130541322.60822901,afciv,civ,Cote d'Ivoire
+2018,na,North America,nausa,United States,usa,87362952.6632233,afciv,civ,Cote d'Ivoire
+2018,as,Asia,aschn,China,chn,563532625.2481179,afcmr,cmr,Cameroon
+2018,as,Asia,asind,India,ind,145077880.715058,afcmr,cmr,Cameroon
+2018,as,Asia,assgp,Singapore,sgp,23330993.3196887,afcmr,cmr,Cameroon
+2018,eu,Europe,eudeu,Germany,deu,44558394.5229442,afcmr,cmr,Cameroon
+2018,eu,Europe,euesp,Spain,esp,163830856.35357198,afcmr,cmr,Cameroon
+2018,eu,Europe,eufra,France,fra,122995726.31768401,afcmr,cmr,Cameroon
+2018,eu,Europe,euita,Italy,ita,331074967.918412,afcmr,cmr,Cameroon
+2018,eu,Europe,eunld,Netherlands,nld,60257806.200345,afcmr,cmr,Cameroon
+2018,na,North America,nausa,United States,usa,43343414.5470327,afcmr,cmr,Cameroon
+2018,as,Asia,aschn,China,chn,211653265.42799103,afcod,cod,Democratic Republic of the Congo
+2018,as,Asia,asidn,Indonesia,idn,153877260.540462,afcod,cod,Democratic Republic of the Congo
+2018,as,Asia,askor,South Korea,kor,20692674.0561429,afcod,cod,Democratic Republic of the Congo
+2018,eu,Europe,eufra,France,fra,1050.76743075117,afcod,cod,Democratic Republic of the Congo
+2018,as,Asia,aschn,China,chn,5545539792.99306,afcog,cog,Republic of the Congo
+2018,as,Asia,asind,India,ind,278004489.011579,afcog,cog,Republic of the Congo
+2018,as,Asia,askor,South Korea,kor,56298059.7520363,afcog,cog,Republic of the Congo
+2018,as,Asia,asmys,Malaysia,mys,18629027.0841749,afcog,cog,Republic of the Congo
+2018,as,Asia,assgp,Singapore,sgp,190746103.60581103,afcog,cog,Republic of the Congo
+2018,eu,Europe,euesp,Spain,esp,128420859.92654501,afcog,cog,Republic of the Congo
+2018,eu,Europe,eufra,France,fra,2123.2415026529397,afcog,cog,Republic of the Congo
+2018,na,North America,nausa,United States,usa,249480524.74532,afcog,cog,Republic of the Congo
+2018,oc,Oceania,ocaus,Australia,aus,349261045.733067,afcog,cog,Republic of the Congo
+2018,af,Africa,afegy,Egypt,egy,129416335.501284,afdza,dza,Algeria
+2018,as,Asia,asare,United Arab Emirates,are,49422087.7832567,afdza,dza,Algeria
+2018,as,Asia,aschn,China,chn,366792710.834544,afdza,dza,Algeria
+2018,as,Asia,asidn,Indonesia,idn,321444216.513869,afdza,dza,Algeria
+2018,as,Asia,asind,India,ind,895952489.485987,afdza,dza,Algeria
+2018,as,Asia,asjpn,Japan,jpn,86780277.0503965,afdza,dza,Algeria
+2018,as,Asia,askor,South Korea,kor,1007417357.69187,afdza,dza,Algeria
+2018,as,Asia,asmys,Malaysia,mys,42074283.682585806,afdza,dza,Algeria
+2018,as,Asia,astha,Thailand,tha,280701941.599946,afdza,dza,Algeria
+2018,as,Asia,asxxb,Chinese Taipei,,78631692.07368821,afdza,dza,Algeria
+2018,eu,Europe,euaut,Austria,aut,85446805.51663192,afdza,dza,Algeria
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,923880562,afdza,dza,Algeria
+2018,eu,Europe,euche,Switzerland,che,14190268.4415766,afdza,dza,Algeria
+2018,eu,Europe,eucze,Czechia,cze,38554763.19279049,afdza,dza,Algeria
+2018,eu,Europe,eudeu,Germany,deu,416393640.674103,afdza,dza,Algeria
+2018,eu,Europe,euesp,Spain,esp,598570317.188696,afdza,dza,Algeria
+2018,eu,Europe,eufra,France,fra,2648584128.85773,afdza,dza,Algeria
+2018,eu,Europe,eugbr,United Kingdom,gbr,2521879549.0831203,afdza,dza,Algeria
+2018,eu,Europe,eugrc,Greece,grc,31991441.009662002,afdza,dza,Algeria
+2018,eu,Europe,euirl,Ireland,irl,89942719.25551221,afdza,dza,Algeria
+2018,eu,Europe,euita,Italy,ita,816050746.8118199,afdza,dza,Algeria
+2018,eu,Europe,eunld,Netherlands,nld,734001916.5199721,afdza,dza,Algeria
+2018,eu,Europe,euprt,Portugal,prt,460089579.75685495,afdza,dza,Algeria
+2018,eu,Europe,euukr,Ukraine,ukr,6651558.39991037,afdza,dza,Algeria
+2018,na,North America,nausa,United States,usa,1939095395.8646202,afdza,dza,Algeria
+2018,oc,Oceania,ocaus,Australia,aus,479593220.798044,afdza,dza,Algeria
+2018,sa,South America,sabra,Brazil,bra,883304469.688206,afdza,dza,Algeria
+2018,af,Africa,afuga,Uganda,uga,4230.25176956995,afegy,egy,Egypt
+2018,as,Asia,aschn,China,chn,732692691.723393,afegy,egy,Egypt
+2018,as,Asia,asind,India,ind,800147140.2091858,afegy,egy,Egypt
+2018,as,Asia,asisr,Israel,isr,231477784.35324898,afegy,egy,Egypt
+2018,as,Asia,asmys,Malaysia,mys,170219659,afegy,egy,Egypt
+2018,eu,Europe,eubgr,Bulgaria,bgr,484145806.436179,afegy,egy,Egypt
+2018,eu,Europe,euche,Switzerland,che,66417315.99999999,afegy,egy,Egypt
+2018,eu,Europe,eudeu,Germany,deu,559355861.579463,afegy,egy,Egypt
+2018,eu,Europe,euesp,Spain,esp,122077181.805142,afegy,egy,Egypt
+2018,eu,Europe,eufra,France,fra,34247454.8238024,afegy,egy,Egypt
+2018,eu,Europe,eugbr,United Kingdom,gbr,54287524.124957,afegy,egy,Egypt
+2018,eu,Europe,eugrc,Greece,grc,480425113.978624,afegy,egy,Egypt
+2018,eu,Europe,euita,Italy,ita,663774862.736522,afegy,egy,Egypt
+2018,eu,Europe,eunld,Netherlands,nld,55724468.086850196,afegy,egy,Egypt
+2018,eu,Europe,eurou,Romania,rou,575579.8973091211,afegy,egy,Egypt
+2018,eu,Europe,euswe,Sweden,swe,62637789.2432359,afegy,egy,Egypt
+2018,na,North America,nausa,United States,usa,409127720.71746105,afegy,egy,Egypt
+2018,as,Asia,aschn,China,chn,1687836849.5350301,afgab,gab,Gabon
+2018,as,Asia,asidn,Indonesia,idn,105067192.341187,afgab,gab,Gabon
+2018,as,Asia,asind,India,ind,418628556.444944,afgab,gab,Gabon
+2018,as,Asia,askor,South Korea,kor,475780919.3691279,afgab,gab,Gabon
+2018,as,Asia,asmys,Malaysia,mys,44757107.0315624,afgab,gab,Gabon
+2018,as,Asia,assgp,Singapore,sgp,30079369.5831947,afgab,gab,Gabon
+2018,as,Asia,astha,Thailand,tha,44460954.8749221,afgab,gab,Gabon
+2018,eu,Europe,eufra,France,fra,1880.50678331546,afgab,gab,Gabon
+2018,eu,Europe,euita,Italy,ita,138212613.171362,afgab,gab,Gabon
+2018,eu,Europe,eunld,Netherlands,nld,100326538.43378198,afgab,gab,Gabon
+2018,eu,Europe,euprt,Portugal,prt,49028191.4306057,afgab,gab,Gabon
+2018,na,North America,nausa,United States,usa,162440556.998028,afgab,gab,Gabon
+2018,oc,Oceania,ocaus,Australia,aus,317509814.09226996,afgab,gab,Gabon
+2018,af,Africa,aftgo,Togo,tgo,55249495,afgha,gha,Ghana
+2018,af,Africa,afzaf,South Africa,zaf,659338587.201911,afgha,gha,Ghana
+2018,as,Asia,aschn,China,chn,1755745350.3795102,afgha,gha,Ghana
+2018,as,Asia,ashkg,Hong Kong,hkg,42165801,afgha,gha,Ghana
+2018,as,Asia,asind,India,ind,294855157.936759,afgha,gha,Ghana
+2018,as,Asia,asjpn,Japan,jpn,36376321,afgha,gha,Ghana
+2018,as,Asia,assgp,Singapore,sgp,11118471.6725836,afgha,gha,Ghana
+2018,eu,Europe,eudeu,Germany,deu,136416728.76647902,afgha,gha,Ghana
+2018,eu,Europe,euesp,Spain,esp,275544562.454548,afgha,gha,Ghana
+2018,eu,Europe,eufra,France,fra,207207461.96501002,afgha,gha,Ghana
+2018,eu,Europe,eugbr,United Kingdom,gbr,264392921.85180396,afgha,gha,Ghana
+2018,eu,Europe,euita,Italy,ita,55737186.287180305,afgha,gha,Ghana
+2018,eu,Europe,eumlt,Malta,mlt,71503987.00000001,afgha,gha,Ghana
+2018,eu,Europe,eunld,Netherlands,nld,305345258.516201,afgha,gha,Ghana
+2018,eu,Europe,euprt,Portugal,prt,69771584.73032309,afgha,gha,Ghana
+2018,eu,Europe,eurou,Romania,rou,24224125.5869011,afgha,gha,Ghana
+2018,na,North America,nacan,Canada,can,67838000.99999999,afgha,gha,Ghana
+2018,na,North America,napan,Panama,pan,41294727,afgha,gha,Ghana
+2018,na,North America,nausa,United States,usa,277166700.591894,afgha,gha,Ghana
+2018,as,Asia,astha,Thailand,tha,2638282.13295781,afgin,gin,Guinea
+2018,as,Asia,asare,United Arab Emirates,are,35181367.3685502,afgnq,gnq,Equatorial Guinea
+2018,as,Asia,aschn,China,chn,1168540386.39921,afgnq,gnq,Equatorial Guinea
+2018,as,Asia,asidn,Indonesia,idn,102632955.98110099,afgnq,gnq,Equatorial Guinea
+2018,as,Asia,asind,India,ind,208411177.046715,afgnq,gnq,Equatorial Guinea
+2018,as,Asia,askor,South Korea,kor,201451805.19254303,afgnq,gnq,Equatorial Guinea
+2018,as,Asia,assgp,Singapore,sgp,286408510.48903,afgnq,gnq,Equatorial Guinea
+2018,as,Asia,astha,Thailand,tha,64410834.25074089,afgnq,gnq,Equatorial Guinea
+2018,eu,Europe,eudeu,Germany,deu,52596236.761728495,afgnq,gnq,Equatorial Guinea
+2018,eu,Europe,euesp,Spain,esp,381382107.7130529,afgnq,gnq,Equatorial Guinea
+2018,eu,Europe,euita,Italy,ita,174498262.94070402,afgnq,gnq,Equatorial Guinea
+2018,eu,Europe,eunld,Netherlands,nld,1855.5098832068702,afgnq,gnq,Equatorial Guinea
+2018,eu,Europe,euprt,Portugal,prt,575405363.5047491,afgnq,gnq,Equatorial Guinea
+2018,na,North America,nausa,United States,usa,403341304.51476204,afgnq,gnq,Equatorial Guinea
+2018,af,Africa,afuga,Uganda,uga,6038.314609869929,afken,ken,Kenya
+2018,as,Asia,asind,India,ind,110824986.479455,aflbr,lbr,Liberia
+2018,eu,Europe,eugbr,United Kingdom,gbr,79420155.54145071,aflbr,lbr,Liberia
+2018,as,Asia,aschn,China,chn,4169498372.54257,aflby,lby,Libya
+2018,as,Asia,asidn,Indonesia,idn,144431495.232052,aflby,lby,Libya
+2018,as,Asia,asind,India,ind,126870150.54865599,aflby,lby,Libya
+2018,as,Asia,askor,South Korea,kor,251373173.90020603,aflby,lby,Libya
+2018,as,Asia,asmys,Malaysia,mys,448110684.870116,aflby,lby,Libya
+2018,as,Asia,assgp,Singapore,sgp,569839516.988778,aflby,lby,Libya
+2018,as,Asia,astha,Thailand,tha,341879357.83554,aflby,lby,Libya
+2018,eu,Europe,euaut,Austria,aut,956703725.029451,aflby,lby,Libya
+2018,eu,Europe,euche,Switzerland,che,356502368.05479705,aflby,lby,Libya
+2018,eu,Europe,eucze,Czechia,cze,38614376.3666386,aflby,lby,Libya
+2018,eu,Europe,eudeu,Germany,deu,3687283300.99909,aflby,lby,Libya
+2018,eu,Europe,eudnk,Denmark,dnk,40759070.9704678,aflby,lby,Libya
+2018,eu,Europe,euesp,Spain,esp,3451167916.04208,aflby,lby,Libya
+2018,eu,Europe,eufra,France,fra,2306584399.3597503,aflby,lby,Libya
+2018,eu,Europe,eugbr,United Kingdom,gbr,757140082.35087,aflby,lby,Libya
+2018,eu,Europe,eugrc,Greece,grc,888950613.13506,aflby,lby,Libya
+2018,eu,Europe,euhrv,Croatia,hrv,78431047.4439892,aflby,lby,Libya
+2018,eu,Europe,euhun,Hungary,hun,73772732.8033518,aflby,lby,Libya
+2018,eu,Europe,euita,Italy,ita,2985783266.2343698,aflby,lby,Libya
+2018,eu,Europe,eunld,Netherlands,nld,306786633.90933305,aflby,lby,Libya
+2018,eu,Europe,eusvk,Slovakia,svk,9029553.13975408,aflby,lby,Libya
+2018,eu,Europe,euswe,Sweden,swe,486879043.94907,aflby,lby,Libya
+2018,na,North America,nausa,United States,usa,1190932793.72576,aflby,lby,Libya
+2018,oc,Oceania,ocaus,Australia,aus,489615696.192529,aflby,lby,Libya
+2018,sa,South America,sabra,Brazil,bra,18221023.8651492,aflby,lby,Libya
+2018,af,Africa,afmrt,Mauritania,mrt,1470.9999999999998,afmar,mar,Morocco
+2018,eu,Europe,eugbr,United Kingdom,gbr,3357274.0814193496,afmar,mar,Morocco
+2018,as,Asia,asjpn,Japan,jpn,7155460.046927571,afmoz,moz,Mozambique
+2018,eu,Europe,euita,Italy,ita,13218648.2850003,afmrt,mrt,Mauritania
+2018,af,Africa,afben,Benin,ben,182896.41368771702,afnga,nga,Nigeria
+2018,af,Africa,afciv,Cote d'Ivoire,civ,1197581489.46232,afnga,nga,Nigeria
+2018,af,Africa,afsen,Senegal,sen,622636708.8203679,afnga,nga,Nigeria
+2018,af,Africa,afzaf,South Africa,zaf,3816638693.82302,afnga,nga,Nigeria
+2018,as,Asia,aschn,China,chn,236642211.742425,afnga,nga,Nigeria
+2018,as,Asia,asidn,Indonesia,idn,2087132432.3993099,afnga,nga,Nigeria
+2018,as,Asia,asind,India,ind,8524328358.56217,afnga,nga,Nigeria
+2018,as,Asia,askor,South Korea,kor,668121556.3894421,afnga,nga,Nigeria
+2018,as,Asia,asmys,Malaysia,mys,89360983.3307575,afnga,nga,Nigeria
+2018,as,Asia,asphl,Philippines,phl,30701737.5397279,afnga,nga,Nigeria
+2018,as,Asia,assgp,Singapore,sgp,70999813.2729948,afnga,nga,Nigeria
+2018,as,Asia,astha,Thailand,tha,384728665.441704,afnga,nga,Nigeria
+2018,as,Asia,asxxb,Chinese Taipei,,69871375.94026269,afnga,nga,Nigeria
+2018,eu,Europe,euaut,Austria,aut,211274858.260885,afnga,nga,Nigeria
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,2277520,afnga,nga,Nigeria
+2018,eu,Europe,euche,Switzerland,che,554654987.806841,afnga,nga,Nigeria
+2018,eu,Europe,eudeu,Germany,deu,2467271300.4402404,afnga,nga,Nigeria
+2018,eu,Europe,eudnk,Denmark,dnk,73052462.215922,afnga,nga,Nigeria
+2018,eu,Europe,euesp,Spain,esp,4995598671.83479,afnga,nga,Nigeria
+2018,eu,Europe,eufra,France,fra,2892408862.6217504,afnga,nga,Nigeria
+2018,eu,Europe,eugbr,United Kingdom,gbr,3031914373.68363,afnga,nga,Nigeria
+2018,eu,Europe,euirl,Ireland,irl,30407472.700417403,afnga,nga,Nigeria
+2018,eu,Europe,euita,Italy,ita,1135719328.0517402,afnga,nga,Nigeria
+2018,eu,Europe,eunld,Netherlands,nld,2095327861.6541998,afnga,nga,Nigeria
+2018,eu,Europe,eupol,Poland,pol,256402234.099792,afnga,nga,Nigeria
+2018,eu,Europe,eurou,Romania,rou,66335781.949198395,afnga,nga,Nigeria
+2018,eu,Europe,euswe,Sweden,swe,1898702813.00138,afnga,nga,Nigeria
+2018,na,North America,nausa,United States,usa,5105315834.43367,afnga,nga,Nigeria
+2018,oc,Oceania,ocaus,Australia,aus,438952272.381318,afnga,nga,Nigeria
+2018,sa,South America,saarg,Argentina,arg,118942694.35437499,afnga,nga,Nigeria
+2018,sa,South America,sabra,Brazil,bra,1221278333.7069,afnga,nga,Nigeria
+2018,sa,South America,saper,Peru,per,70473293.79351401,afnga,nga,Nigeria
+2018,sa,South America,saury,Uruguay,ury,357261528.44984,afnga,nga,Nigeria
+2018,as,Asia,aschn,China,chn,241373699,afsdn,sdn,Sudan
+2018,as,Asia,asidn,Indonesia,idn,194987931,afsdn,sdn,Sudan
+2018,as,Asia,asind,India,ind,528626265,afsdn,sdn,Sudan
+2018,as,Asia,askor,South Korea,kor,39431163,afsdn,sdn,Sudan
+2018,eu,Europe,eunld,Netherlands,nld,41564558,afsdn,sdn,Sudan
+2018,af,Africa,afbfa,Burkina Faso,bfa,2626.0000000000005,afsen,sen,Senegal
+2018,af,Africa,afciv,Cote d'Ivoire,civ,3040,afsen,sen,Senegal
+2018,af,Africa,afgnb,Guinea-Bissau,gnb,345218,afsen,sen,Senegal
+2018,af,Africa,afmli,Mali,mli,1369992.0000000002,afsen,sen,Senegal
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,1523092,afsen,sen,Senegal
+2018,eu,Europe,eunld,Netherlands,nld,21850792,afsen,sen,Senegal
+2018,af,Africa,afuga,Uganda,uga,4144,afssd,ssd,South Sudan
+2018,as,Asia,aschn,China,chn,1588401199,afssd,ssd,South Sudan
+2018,as,Asia,asind,India,ind,40371372,afssd,ssd,South Sudan
+2018,as,Asia,aschn,China,chn,80726569.34852901,aftcd,tcd,Chad
+2018,as,Asia,asind,India,ind,455644381.12449896,aftcd,tcd,Chad
+2018,eu,Europe,eufra,France,fra,32307782.439848904,aftcd,tcd,Chad
+2018,eu,Europe,eunld,Netherlands,nld,320098913.95812804,aftcd,tcd,Chad
+2018,na,North America,nausa,United States,usa,430803654.98954105,aftcd,tcd,Chad
+2018,af,Africa,afbfa,Burkina Faso,bfa,1488.7120425706796,aftgo,tgo,Togo
+2018,af,Africa,afzaf,South Africa,zaf,70202345.99999999,aftgo,tgo,Togo
+2018,as,Asia,asind,India,ind,60085331.567849,aftgo,tgo,Togo
+2018,as,Asia,assgp,Singapore,sgp,46204814.5111941,aftun,tun,Tunisia
+2018,eu,Europe,eufra,France,fra,197567993.200735,aftun,tun,Tunisia
+2018,eu,Europe,eugrc,Greece,grc,22030908.5175776,aftun,tun,Tunisia
+2018,eu,Europe,euita,Italy,ita,209574471.52939302,aftun,tun,Tunisia
+2018,eu,Europe,eunld,Netherlands,nld,58489287.7763331,aftun,tun,Tunisia
+2018,na,North America,nausa,United States,usa,79787903.79955,aftun,tun,Tunisia
+2018,af,Africa,afcod,Democratic Republic of the Congo,cod,14687.999999999998,aftza,tza,Tanzania
+2018,af,Africa,afmoz,Mozambique,moz,5247.000000000001,aftza,tza,Tanzania
+2018,af,Africa,afzaf,South Africa,zaf,11060,aftza,tza,Tanzania
+2018,as,Asia,asare,United Arab Emirates,are,51499.874102325004,aftza,tza,Tanzania
+2018,as,Asia,asjpn,Japan,jpn,3769937.2830137396,aftza,tza,Tanzania
+2018,eu,Europe,euche,Switzerland,che,654633,afuga,uga,Uganda
+2018,af,Africa,afbdi,Burundi,bdi,2540,afzaf,zaf,South Africa
+2018,af,Africa,afcod,Democratic Republic of the Congo,cod,814755,afzaf,zaf,South Africa
+2018,af,Africa,afken,Kenya,ken,7620.022010121929,afzaf,zaf,South Africa
+2018,af,Africa,afmdg,Madagascar,mdg,2122,afzaf,zaf,South Africa
+2018,af,Africa,afmoz,Mozambique,moz,64101.8710235349,afzaf,zaf,South Africa
+2018,af,Africa,afmwi,Malawi,mwi,3993.0000000000005,afzaf,zaf,South Africa
+2018,af,Africa,afzmb,Zambia,zmb,23362.2697071513,afzaf,zaf,South Africa
+2018,af,Africa,afzwe,Zimbabwe,zwe,28968.4490055001,afzaf,zaf,South Africa
+2018,as,Asia,asare,United Arab Emirates,are,1167,afzaf,zaf,South Africa
+2018,as,Asia,aschn,China,chn,230280638,afzaf,zaf,South Africa
+2018,as,Asia,ascyp,Cyprus,cyp,8658,afzaf,zaf,South Africa
+2018,as,Asia,asind,India,ind,49298,afzaf,zaf,South Africa
+2018,eu,Europe,eudeu,Germany,deu,7702.000000000001,afzaf,zaf,South Africa
+2018,eu,Europe,eudnk,Denmark,dnk,3831.0000000000005,afzaf,zaf,South Africa
+2018,eu,Europe,eugrc,Greece,grc,1331.9999999999998,afzaf,zaf,South Africa
+2018,eu,Europe,eunor,Norway,nor,1307,afzaf,zaf,South Africa
+2018,na,North America,nabmu,Bermuda,bmu,32006.999999999996,afzaf,zaf,South Africa
+2018,na,North America,nacym,Cayman Islands,cym,1134.0000000000002,afzaf,zaf,South Africa
+2018,na,North America,napan,Panama,pan,23256.999999999996,afzaf,zaf,South Africa
+2018,na,North America,nausa,United States,usa,5662.999999999999,afzaf,zaf,South Africa
+2018,af,Africa,afcog,Republic of the Congo,cog,2813.9999999999995,afzmb,zmb,Zambia
+2018,af,Africa,afdji,Djibouti,dji,226210.99999999997,asare,are,United Arab Emirates
+2018,af,Africa,afmoz,Mozambique,moz,4167.06156397977,asare,are,United Arab Emirates
+2018,af,Africa,afzaf,South Africa,zaf,407107825.42848295,asare,are,United Arab Emirates
+2018,af,Africa,afzwe,Zimbabwe,zwe,40221.536583257606,asare,are,United Arab Emirates
+2018,as,Asia,asafg,Afghanistan,afg,3826.83748637146,asare,are,United Arab Emirates
+2018,as,Asia,asbhr,Bahrain,bhr,873572.028076052,asare,are,United Arab Emirates
+2018,as,Asia,aschn,China,chn,5952688741.058041,asare,are,United Arab Emirates
+2018,as,Asia,asind,India,ind,7058268650.90388,asare,are,United Arab Emirates
+2018,as,Asia,asirq,Iraq,irq,157060,asare,are,United Arab Emirates
+2018,as,Asia,asjor,Jordan,jor,53659,asare,are,United Arab Emirates
+2018,as,Asia,asjpn,Japan,jpn,18246785851.075,asare,are,United Arab Emirates
+2018,as,Asia,askor,South Korea,kor,4731518447.91566,asare,are,United Arab Emirates
+2018,as,Asia,askwt,Kuwait,kwt,1547,asare,are,United Arab Emirates
+2018,as,Asia,asmys,Malaysia,mys,257051822.98430398,asare,are,United Arab Emirates
+2018,as,Asia,asomn,Oman,omn,287986,asare,are,United Arab Emirates
+2018,as,Asia,aspak,Pakistan,pak,2370188573.99529,asare,are,United Arab Emirates
+2018,as,Asia,asphl,Philippines,phl,1049681867.87296,asare,are,United Arab Emirates
+2018,as,Asia,assau,Saudi Arabia,sau,5167309,asare,are,United Arab Emirates
+2018,as,Asia,assgp,Singapore,sgp,5175495948.32437,asare,are,United Arab Emirates
+2018,as,Asia,astha,Thailand,tha,7528564938.81179,asare,are,United Arab Emirates
+2018,as,Asia,asxxb,Chinese Taipei,,1828512851.32328,asare,are,United Arab Emirates
+2018,as,Asia,asyem,Yemen,yem,59058,asare,are,United Arab Emirates
+2018,eu,Europe,euaut,Austria,aut,1112.3589929677998,asare,are,United Arab Emirates
+2018,eu,Europe,euita,Italy,ita,270560183.72188395,asare,are,United Arab Emirates
+2018,eu,Europe,eupol,Poland,pol,61926279.7667433,asare,are,United Arab Emirates
+2018,na,North America,nausa,United States,usa,128829452.94219801,asare,are,United Arab Emirates
+2018,oc,Oceania,ocaus,Australia,aus,1349321653.15561,asare,are,United Arab Emirates
+2018,oc,Oceania,ocnzl,New Zealand,nzl,1645673769.275,asare,are,United Arab Emirates
+2018,af,Africa,aftun,Tunisia,tun,191987160,asaze,aze,Azerbaijan
+2018,as,Asia,aschn,China,chn,76788816.5818381,asaze,aze,Azerbaijan
+2018,as,Asia,asidn,Indonesia,idn,593502376.842492,asaze,aze,Azerbaijan
+2018,as,Asia,asind,India,ind,809005721.251982,asaze,aze,Azerbaijan
+2018,as,Asia,asisr,Israel,isr,1307983665,asaze,aze,Azerbaijan
+2018,as,Asia,astha,Thailand,tha,144325766.96268502,asaze,aze,Azerbaijan
+2018,as,Asia,astur,Turkey,tur,227686259,asaze,aze,Azerbaijan
+2018,as,Asia,asvnm,Vietnam,vnm,73638853,asaze,aze,Azerbaijan
+2018,as,Asia,asxxb,Chinese Taipei,,729725253.949568,asaze,aze,Azerbaijan
+2018,eu,Europe,euaut,Austria,aut,332670294.513485,asaze,aze,Azerbaijan
+2018,eu,Europe,eubgr,Bulgaria,bgr,38063441,asaze,aze,Azerbaijan
+2018,eu,Europe,eucze,Czechia,cze,950860834.745402,asaze,aze,Azerbaijan
+2018,eu,Europe,eudeu,Germany,deu,793859766.0727121,asaze,aze,Azerbaijan
+2018,eu,Europe,euesp,Spain,esp,410412452.031526,asaze,aze,Azerbaijan
+2018,eu,Europe,eufra,France,fra,441202057.013162,asaze,aze,Azerbaijan
+2018,eu,Europe,eugbr,United Kingdom,gbr,240938767.58504802,asaze,aze,Azerbaijan
+2018,eu,Europe,eugrc,Greece,grc,169868549.93439403,asaze,aze,Azerbaijan
+2018,eu,Europe,euhrv,Croatia,hrv,264618013.04338104,asaze,aze,Azerbaijan
+2018,eu,Europe,euita,Italy,ita,5937091603.130671,asaze,aze,Azerbaijan
+2018,eu,Europe,eunld,Netherlands,nld,43699193.7917885,asaze,aze,Azerbaijan
+2018,eu,Europe,euprt,Portugal,prt,580761380.9033029,asaze,aze,Azerbaijan
+2018,eu,Europe,eurou,Romania,rou,340303491.717029,asaze,aze,Azerbaijan
+2018,eu,Europe,eurus,Russia,rus,482911,asaze,aze,Azerbaijan
+2018,eu,Europe,euukr,Ukraine,ukr,313321957.07267,asaze,aze,Azerbaijan
+2018,na,North America,nacan,Canada,can,615364807.563512,asaze,aze,Azerbaijan
+2018,na,North America,nausa,United States,usa,314640939.523278,asaze,aze,Azerbaijan
+2018,oc,Oceania,ocaus,Australia,aus,50076558.8634884,asaze,aze,Azerbaijan
+2018,sa,South America,saury,Uruguay,ury,79923653.0314249,asaze,aze,Azerbaijan
+2018,as,Asia,asare,United Arab Emirates,are,2469179.81796642,asbhr,bhr,Bahrain
+2018,as,Asia,asjpn,Japan,jpn,496048166.131984,asbhr,bhr,Bahrain
+2018,as,Asia,asidn,Indonesia,idn,30226174,asbrn,brn,Brunei
+2018,as,Asia,asind,India,ind,441215905.722355,asbrn,brn,Brunei
+2018,as,Asia,asjpn,Japan,jpn,58774048.1517249,asbrn,brn,Brunei
+2018,as,Asia,askor,South Korea,kor,225959885.13800198,asbrn,brn,Brunei
+2018,as,Asia,asmys,Malaysia,mys,175202142.900696,asbrn,brn,Brunei
+2018,as,Asia,asphl,Philippines,phl,21515512.4670067,asbrn,brn,Brunei
+2018,as,Asia,assgp,Singapore,sgp,460809927.138843,asbrn,brn,Brunei
+2018,as,Asia,astha,Thailand,tha,731702817.5628129,asbrn,brn,Brunei
+2018,na,North America,nausa,United States,usa,62469351.0239939,asbrn,brn,Brunei
+2018,oc,Oceania,ocaus,Australia,aus,528276249.4704711,asbrn,brn,Brunei
+2018,af,Africa,afken,Kenya,ken,1270.80817037736,aschn,chn,China
+2018,af,Africa,afmoz,Mozambique,moz,9742.520294782778,aschn,chn,China
+2018,af,Africa,afuga,Uganda,uga,1505.26964572521,aschn,chn,China
+2018,af,Africa,afzmb,Zambia,zmb,23691.9968398552,aschn,chn,China
+2018,as,Asia,ashkg,Hong Kong,hkg,65097431,aschn,chn,China
+2018,as,Asia,asidn,Indonesia,idn,181611.686961296,aschn,chn,China
+2018,as,Asia,asjpn,Japan,jpn,721135595.9999999,aschn,chn,China
+2018,as,Asia,askor,South Korea,kor,110790658.531504,aschn,chn,China
+2018,as,Asia,asmmr,Burma,mmr,129886782.144925,aschn,chn,China
+2018,as,Asia,asmys,Malaysia,mys,16901820,aschn,chn,China
+2018,as,Asia,aspak,Pakistan,pak,9182679.603706859,aschn,chn,China
+2018,as,Asia,asphl,Philippines,phl,52444255.787758,aschn,chn,China
+2018,as,Asia,assgp,Singapore,sgp,52366184.75282191,aschn,chn,China
+2018,na,North America,nacri,Costa Rica,cri,4084.8290599850293,aschn,chn,China
+2018,eu,Europe,eubgr,Bulgaria,bgr,109815197.857811,ascyp,cyp,Cyprus
+2018,eu,Europe,eubgr,Bulgaria,bgr,34457355.0465729,asgeo,geo,Georgia
+2018,eu,Europe,eugbr,United Kingdom,gbr,89176,asgeo,geo,Georgia
+2018,eu,Europe,euita,Italy,ita,3273836,asgeo,geo,Georgia
+2018,as,Asia,asidn,Indonesia,idn,34802103.5557988,ashkg,hkg,Hong Kong
+2018,oc,Oceania,ocslb,Solomon Islands,slb,1782.2508972019198,ashkg,hkg,Hong Kong
+2018,as,Asia,aschn,China,chn,211118626.44113103,asidn,idn,Indonesia
+2018,as,Asia,asjpn,Japan,jpn,613524385.169159,asidn,idn,Indonesia
+2018,as,Asia,askor,South Korea,kor,531563189.830835,asidn,idn,Indonesia
+2018,as,Asia,asmys,Malaysia,mys,508138129.145,asidn,idn,Indonesia
+2018,as,Asia,asphl,Philippines,phl,16117377.653017601,asidn,idn,Indonesia
+2018,as,Asia,assgp,Singapore,sgp,464445806.165475,asidn,idn,Indonesia
+2018,as,Asia,astha,Thailand,tha,1067010340.6805601,asidn,idn,Indonesia
+2018,as,Asia,asvnm,Vietnam,vnm,29498582.000000004,asidn,idn,Indonesia
+2018,as,Asia,asxxb,Chinese Taipei,,433050707.173073,asidn,idn,Indonesia
+2018,na,North America,nausa,United States,usa,903593889.3497059,asidn,idn,Indonesia
+2018,oc,Oceania,ocaus,Australia,aus,724403011.073646,asidn,idn,Indonesia
+2018,oc,Oceania,ocnzl,New Zealand,nzl,19877894.7886164,asidn,idn,Indonesia
+2018,oc,Oceania,ocslb,Solomon Islands,slb,3904.28338922261,asidn,idn,Indonesia
+2018,af,Africa,afuga,Uganda,uga,4564.50259397238,asind,ind,India
+2018,as,Asia,asare,United Arab Emirates,are,18342.315080755998,asind,ind,India
+2018,as,Asia,asidn,Indonesia,idn,13651.395496474302,asind,ind,India
+2018,as,Asia,assgp,Singapore,sgp,87632.6008277975,asind,ind,India
+2018,na,North America,naslv,El Salvador,slv,36484.637763943,asind,ind,India
+2018,na,North America,nausa,United States,usa,239860242.66486102,asind,ind,India
+2018,as,Asia,asafg,Afghanistan,afg,12328813.9569369,asirn,irn,Iran
+2018,as,Asia,asare,United Arab Emirates,are,2071352937.8174398,asirn,irn,Iran
+2018,as,Asia,aschn,China,chn,13372564784.767698,asirn,irn,Iran
+2018,as,Asia,asind,India,ind,11751130022.3631,asirn,irn,Iran
+2018,as,Asia,asjpn,Japan,jpn,2968292543.3294296,asirn,irn,Iran
+2018,as,Asia,askor,South Korea,kor,3487989694.1076202,asirn,irn,Iran
+2018,as,Asia,asmys,Malaysia,mys,28020554.686377097,asirn,irn,Iran
+2018,as,Asia,asxxb,Chinese Taipei,,397931241.618468,asirn,irn,Iran
+2018,eu,Europe,euaut,Austria,aut,452552494.468256,asirn,irn,Iran
+2018,eu,Europe,eubih,Bosnia and Herzegovina,bih,73708129.7250585,asirn,irn,Iran
+2018,eu,Europe,eudeu,Germany,deu,123822135.539065,asirn,irn,Iran
+2018,eu,Europe,euesp,Spain,esp,2032250089.14622,asirn,irn,Iran
+2018,eu,Europe,eufra,France,fra,1562633108.30621,asirn,irn,Iran
+2018,eu,Europe,eugrc,Greece,grc,1311758199.8188,asirn,irn,Iran
+2018,eu,Europe,euhrv,Croatia,hrv,66288233.5022973,asirn,irn,Iran
+2018,eu,Europe,euhun,Hungary,hun,130004965.851503,asirn,irn,Iran
+2018,eu,Europe,euita,Italy,ita,2742228918.02146,asirn,irn,Iran
+2018,eu,Europe,eunld,Netherlands,nld,193663772.18924698,asirn,irn,Iran
+2018,eu,Europe,eupol,Poland,pol,110063360.82435,asirn,irn,Iran
+2018,eu,Europe,eusrb,Serbia,srb,10293483,asirn,irn,Iran
+2018,eu,Europe,eusvk,Slovakia,svk,9237916.7011259,asirn,irn,Iran
+2018,eu,Europe,euukr,Ukraine,ukr,13269971.6001048,asirn,irn,Iran
+2018,sa,South America,sachl,Chile,chl,59267254.2736955,asirn,irn,Iran
+2018,af,Africa,afegy,Egypt,egy,1116586222.39737,asirq,irq,Iraq
+2018,as,Asia,asare,United Arab Emirates,are,3638.04181819104,asirq,irq,Iraq
+2018,as,Asia,aschn,China,chn,19913704601.217804,asirq,irq,Iraq
+2018,as,Asia,asgeo,Georgia,geo,593406,asirq,irq,Iraq
+2018,as,Asia,asind,India,ind,20769446673.745003,asirq,irq,Iraq
+2018,as,Asia,asjpn,Japan,jpn,1155230479.80049,asirq,irq,Iraq
+2018,as,Asia,askor,South Korea,kor,8411661509.23608,asirq,irq,Iraq
+2018,as,Asia,asmys,Malaysia,mys,156428379.537487,asirq,irq,Iraq
+2018,as,Asia,assgp,Singapore,sgp,528130721.10769606,asirq,irq,Iraq
+2018,as,Asia,astha,Thailand,tha,36779969.1221575,asirq,irq,Iraq
+2018,as,Asia,asxxb,Chinese Taipei,,1564976110.74278,asirq,irq,Iraq
+2018,eu,Europe,euaut,Austria,aut,290018223.157107,asirq,irq,Iraq
+2018,eu,Europe,eubgr,Bulgaria,bgr,65171946.20453929,asirq,irq,Iraq
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,10740640,asirq,irq,Iraq
+2018,eu,Europe,eudeu,Germany,deu,1134761365.76959,asirq,irq,Iraq
+2018,eu,Europe,euesp,Spain,esp,1931662614.5002198,asirq,irq,Iraq
+2018,eu,Europe,eufra,France,fra,511721243.446944,asirq,irq,Iraq
+2018,eu,Europe,eugrc,Greece,grc,4917917224.94912,asirq,irq,Iraq
+2018,eu,Europe,euhrv,Croatia,hrv,425958454.83919895,asirq,irq,Iraq
+2018,eu,Europe,euhun,Hungary,hun,330281917.295169,asirq,irq,Iraq
+2018,eu,Europe,euita,Italy,ita,4104759586.0609703,asirq,irq,Iraq
+2018,eu,Europe,eunld,Netherlands,nld,2391917065.2213397,asirq,irq,Iraq
+2018,eu,Europe,eupol,Poland,pol,214165011.240572,asirq,irq,Iraq
+2018,eu,Europe,euprt,Portugal,prt,240322716.480315,asirq,irq,Iraq
+2018,eu,Europe,eurou,Romania,rou,339437268.746596,asirq,irq,Iraq
+2018,eu,Europe,eurus,Russia,rus,3341.33965760776,asirq,irq,Iraq
+2018,eu,Europe,eusrb,Serbia,srb,683737864,asirq,irq,Iraq
+2018,eu,Europe,eusvk,Slovakia,svk,9660105.29337651,asirq,irq,Iraq
+2018,eu,Europe,euswe,Sweden,swe,47404802.1762867,asirq,irq,Iraq
+2018,na,North America,nausa,United States,usa,10529732270.5804,asirq,irq,Iraq
+2018,sa,South America,sabra,Brazil,bra,285414071.077573,asirq,irq,Iraq
+2018,af,Africa,afciv,Cote d'Ivoire,civ,111000,asisr,isr,Israel
+2018,af,Africa,afgha,Ghana,gha,124000,asisr,isr,Israel
+2018,af,Africa,afuga,Uganda,uga,228000,asisr,isr,Israel
+2018,as,Asia,ascyp,Cyprus,cyp,22000,asisr,isr,Israel
+2018,as,Asia,asgeo,Georgia,geo,31000,asisr,isr,Israel
+2018,as,Asia,aspse,Palestine,pse,769669,asisr,isr,Israel
+2018,eu,Europe,eugrc,Greece,grc,323000,asisr,isr,Israel
+2018,eu,Europe,euhun,Hungary,hun,39000,asisr,isr,Israel
+2018,eu,Europe,eumlt,Malta,mlt,42000,asisr,isr,Israel
+2018,eu,Europe,euprt,Portugal,prt,902000,asisr,isr,Israel
+2018,na,North America,nausa,United States,usa,323036.767333316,asisr,isr,Israel
+2018,as,Asia,asphl,Philippines,phl,4517.03515895806,asjpn,jpn,Japan
+2018,as,Asia,assgp,Singapore,sgp,46609.7949571505,asjpn,jpn,Japan
+2018,na,North America,nausa,United States,usa,12091.0549701082,asjpn,jpn,Japan
+2018,as,Asia,asafg,Afghanistan,afg,337823.930919259,askaz,kaz,Kazakhstan
+2018,as,Asia,asaze,Azerbaijan,aze,20274865.2197906,askaz,kaz,Kazakhstan
+2018,as,Asia,aschn,China,chn,831278276.4433941,askaz,kaz,Kazakhstan
+2018,as,Asia,asind,India,ind,735757925.224144,askaz,kaz,Kazakhstan
+2018,as,Asia,asisr,Israel,isr,358168210,askaz,kaz,Kazakhstan
+2018,as,Asia,asjpn,Japan,jpn,918720609.955122,askaz,kaz,Kazakhstan
+2018,as,Asia,askgz,Kyrgyzstan,kgz,91997.23050890621,askaz,kaz,Kazakhstan
+2018,as,Asia,askor,South Korea,kor,2724294466.0464,askaz,kaz,Kazakhstan
+2018,as,Asia,asmys,Malaysia,mys,351326156,askaz,kaz,Kazakhstan
+2018,as,Asia,asphl,Philippines,phl,63251524.00000001,askaz,kaz,Kazakhstan
+2018,as,Asia,assgp,Singapore,sgp,472699606.459154,askaz,kaz,Kazakhstan
+2018,as,Asia,astur,Turkey,tur,463265432,askaz,kaz,Kazakhstan
+2018,as,Asia,asuzb,Uzbekistan,uzb,109187459.72105199,askaz,kaz,Kazakhstan
+2018,eu,Europe,euaut,Austria,aut,1526322147.88147,askaz,kaz,Kazakhstan
+2018,eu,Europe,eubgr,Bulgaria,bgr,140673832,askaz,kaz,Kazakhstan
+2018,eu,Europe,eublr,Belarus,blr,2136766,askaz,kaz,Kazakhstan
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,167404950.667856,askaz,kaz,Kazakhstan
+2018,eu,Europe,euche,Switzerland,che,2080087635.20704,askaz,kaz,Kazakhstan
+2018,eu,Europe,eucze,Czechia,cze,507733050.34536207,askaz,kaz,Kazakhstan
+2018,eu,Europe,eudeu,Germany,deu,272837106.738374,askaz,kaz,Kazakhstan
+2018,eu,Europe,euesp,Spain,esp,1812863294.91903,askaz,kaz,Kazakhstan
+2018,eu,Europe,eufin,Finland,fin,105812883.475444,askaz,kaz,Kazakhstan
+2018,eu,Europe,eufra,France,fra,3663920536.23365,askaz,kaz,Kazakhstan
+2018,eu,Europe,eugbr,United Kingdom,gbr,1231290.0745044502,askaz,kaz,Kazakhstan
+2018,eu,Europe,eugrc,Greece,grc,1219128979.10202,askaz,kaz,Kazakhstan
+2018,eu,Europe,euhrv,Croatia,hrv,287050113.771129,askaz,kaz,Kazakhstan
+2018,eu,Europe,euhun,Hungary,hun,463992665.96624106,askaz,kaz,Kazakhstan
+2018,eu,Europe,euita,Italy,ita,9680503399.630909,askaz,kaz,Kazakhstan
+2018,eu,Europe,eultu,Lithuania,ltu,667450455.973156,askaz,kaz,Kazakhstan
+2018,eu,Europe,eumlt,Malta,mlt,16571092,askaz,kaz,Kazakhstan
+2018,eu,Europe,eunld,Netherlands,nld,5034359429.606859,askaz,kaz,Kazakhstan
+2018,eu,Europe,eupol,Poland,pol,741835042.51759,askaz,kaz,Kazakhstan
+2018,eu,Europe,euprt,Portugal,prt,463923914.59408706,askaz,kaz,Kazakhstan
+2018,eu,Europe,eurou,Romania,rou,1458235676.9438,askaz,kaz,Kazakhstan
+2018,eu,Europe,eurus,Russia,rus,24480468.443113197,askaz,kaz,Kazakhstan
+2018,eu,Europe,eusvk,Slovakia,svk,62332520.8552617,askaz,kaz,Kazakhstan
+2018,eu,Europe,euswe,Sweden,swe,255814438,askaz,kaz,Kazakhstan
+2018,eu,Europe,euukr,Ukraine,ukr,31112,askaz,kaz,Kazakhstan
+2018,na,North America,nausa,United States,usa,598090638.661153,askaz,kaz,Kazakhstan
+2018,as,Asia,astjk,Tajikistan,tjk,6591350,askgz,kgz,Kyrgyzstan
+2018,as,Asia,asuzb,Uzbekistan,uzb,10721043.0301511,askgz,kgz,Kyrgyzstan
+2018,as,Asia,asidn,Indonesia,idn,2038.0000000000002,askor,kor,South Korea
+2018,as,Asia,asphl,Philippines,phl,259833608.78025803,askor,kor,South Korea
+2018,oc,Oceania,ocnzl,New Zealand,nzl,67351.1382341987,askor,kor,South Korea
+2018,af,Africa,afegy,Egypt,egy,1655090015.10006,askwt,kwt,Kuwait
+2018,af,Africa,afzmb,Zambia,zmb,382675195.760172,askwt,kwt,Kuwait
+2018,as,Asia,asare,United Arab Emirates,are,5853.62602843369,askwt,kwt,Kuwait
+2018,as,Asia,aschn,China,chn,10561185080.9253,askwt,kwt,Kuwait
+2018,as,Asia,asind,India,ind,5153394920.92054,askwt,kwt,Kuwait
+2018,as,Asia,asjpn,Japan,jpn,5321063273.24767,askwt,kwt,Kuwait
+2018,as,Asia,askor,South Korea,kor,10225214858.1389,askwt,kwt,Kuwait
+2018,as,Asia,asmys,Malaysia,mys,173570771.78069,askwt,kwt,Kuwait
+2018,as,Asia,asphl,Philippines,phl,1211650104.3180099,askwt,kwt,Kuwait
+2018,as,Asia,assgp,Singapore,sgp,3109250697.69885,askwt,kwt,Kuwait
+2018,as,Asia,astha,Thailand,tha,232684782.670467,askwt,kwt,Kuwait
+2018,as,Asia,asxxb,Chinese Taipei,,4227638686.83054,askwt,kwt,Kuwait
+2018,eu,Europe,eufra,France,fra,116973442.54357599,askwt,kwt,Kuwait
+2018,eu,Europe,euita,Italy,ita,347469349.507771,askwt,kwt,Kuwait
+2018,eu,Europe,eunld,Netherlands,nld,1390878004.79842,askwt,kwt,Kuwait
+2018,eu,Europe,euprt,Portugal,prt,83470767.77734861,askwt,kwt,Kuwait
+2018,na,North America,nausa,United States,usa,1632375864.7819202,askwt,kwt,Kuwait
+2018,as,Asia,asare,United Arab Emirates,are,3137,aslbn,lbn,Lebanon
+2018,as,Asia,asirq,Iraq,irq,30031,aslbn,lbn,Lebanon
+2018,eu,Europe,eusvk,Slovakia,svk,9139453.64367002,aslbn,lbn,Lebanon
+2018,as,Asia,asmys,Malaysia,mys,14158961.250729399,asmmr,mmr,Burma
+2018,as,Asia,assgp,Singapore,sgp,48977059.6010612,asmmr,mmr,Burma
+2018,as,Asia,astha,Thailand,tha,16254742.351085,asmmr,mmr,Burma
+2018,as,Asia,aschn,China,chn,391174674.618428,asmng,mng,Mongolia
+2018,as,Asia,asbrn,Brunei,brn,2169836.8770801104,asmys,mys,Malaysia
+2018,as,Asia,aschn,China,chn,506710694.536257,asmys,mys,Malaysia
+2018,as,Asia,asidn,Indonesia,idn,443266070.49603295,asmys,mys,Malaysia
+2018,as,Asia,asind,India,ind,2071155672.1127799,asmys,mys,Malaysia
+2018,as,Asia,asjpn,Japan,jpn,307279682.53695697,asmys,mys,Malaysia
+2018,as,Asia,askor,South Korea,kor,173696925.837566,asmys,mys,Malaysia
+2018,as,Asia,asphl,Philippines,phl,247331923.897849,asmys,mys,Malaysia
+2018,as,Asia,assgp,Singapore,sgp,1192139094.67764,asmys,mys,Malaysia
+2018,as,Asia,astha,Thailand,tha,1656033877.32206,asmys,mys,Malaysia
+2018,as,Asia,asvnm,Vietnam,vnm,45583789.00000001,asmys,mys,Malaysia
+2018,eu,Europe,euita,Italy,ita,24356497.000000004,asmys,mys,Malaysia
+2018,na,North America,nausa,United States,usa,22335586,asmys,mys,Malaysia
+2018,oc,Oceania,ocaus,Australia,aus,3210638972.48257,asmys,mys,Malaysia
+2018,oc,Oceania,ocnzl,New Zealand,nzl,496599419.107836,asmys,mys,Malaysia
+2018,oc,Oceania,ocpng,Papua New Guinea,png,46272418,asmys,mys,Malaysia
+2018,as,Asia,aschn,China,chn,15443864235.416101,asomn,omn,Oman
+2018,as,Asia,asind,India,ind,1487851137.6303499,asomn,omn,Oman
+2018,as,Asia,asjpn,Japan,jpn,1216235064.5145001,asomn,omn,Oman
+2018,as,Asia,askor,South Korea,kor,86978978.5954009,asomn,omn,Oman
+2018,as,Asia,asmys,Malaysia,mys,128659598.43997501,asomn,omn,Oman
+2018,as,Asia,asphl,Philippines,phl,61629010.2118992,asomn,omn,Oman
+2018,as,Asia,asqat,Qatar,qat,388621.71494499396,asomn,omn,Oman
+2018,as,Asia,assgp,Singapore,sgp,52485293.596632905,asomn,omn,Oman
+2018,as,Asia,astha,Thailand,tha,53965405.3633742,asomn,omn,Oman
+2018,as,Asia,asxxb,Chinese Taipei,,1443365762.7869198,asomn,omn,Oman
+2018,oc,Oceania,ocnzl,New Zealand,nzl,10216674.9014046,asomn,omn,Oman
+2018,af,Africa,afgin,Guinea,gin,26693546.000000004,aspak,pak,Pakistan
+2018,as,Asia,asare,United Arab Emirates,are,59769632.5121488,aspak,pak,Pakistan
+2018,as,Asia,astha,Thailand,tha,22885241,aspak,pak,Pakistan
+2018,oc,Oceania,ocaus,Australia,aus,23909558.944867298,aspak,pak,Pakistan
+2018,oc,Oceania,ocpng,Papua New Guinea,png,29952530,aspak,pak,Pakistan
+2018,as,Asia,asind,India,ind,2180.73442042424,asphl,phl,Philippines
+2018,as,Asia,askor,South Korea,kor,69709537.7669497,asphl,phl,Philippines
+2018,as,Asia,assgp,Singapore,sgp,88126340.14588301,asphl,phl,Philippines
+2018,as,Asia,astha,Thailand,tha,204208575.16185898,asphl,phl,Philippines
+2018,af,Africa,aftcd,Chad,tcd,33427917.999999996,asqat,qat,Qatar
+2018,af,Africa,afzaf,South Africa,zaf,71943062,asqat,qat,Qatar
+2018,as,Asia,aschn,China,chn,327543185.27629805,asqat,qat,Qatar
+2018,as,Asia,asidn,Indonesia,idn,35420178.169308,asqat,qat,Qatar
+2018,as,Asia,asind,India,ind,1184265264.08354,asqat,qat,Qatar
+2018,as,Asia,asjpn,Japan,jpn,6036321646.258881,asqat,qat,Qatar
+2018,as,Asia,askor,South Korea,kor,2845631457.36229,asqat,qat,Qatar
+2018,as,Asia,asmmr,Burma,mmr,243542243.00000003,asqat,qat,Qatar
+2018,as,Asia,asmys,Malaysia,mys,261309203.44306302,asqat,qat,Qatar
+2018,as,Asia,aspak,Pakistan,pak,55654938.2541227,asqat,qat,Qatar
+2018,as,Asia,asphl,Philippines,phl,218022095.900513,asqat,qat,Qatar
+2018,as,Asia,assgp,Singapore,sgp,4719370649.20104,asqat,qat,Qatar
+2018,as,Asia,astha,Thailand,tha,1573024076.14939,asqat,qat,Qatar
+2018,as,Asia,asxxb,Chinese Taipei,,68183372.2341894,asqat,qat,Qatar
+2018,eu,Europe,eufra,France,fra,7353.861567984701,asqat,qat,Qatar
+2018,eu,Europe,eunld,Netherlands,nld,28088.5432134632,asqat,qat,Qatar
+2018,oc,Oceania,ocnzl,New Zealand,nzl,29373063.5777892,asqat,qat,Qatar
+2018,af,Africa,afegy,Egypt,egy,376333036.84292394,assau,sau,Saudi Arabia
+2018,af,Africa,afzaf,South Africa,zaf,4602175670,assau,sau,Saudi Arabia
+2018,as,Asia,asare,United Arab Emirates,are,48303004.5047139,assau,sau,Saudi Arabia
+2018,as,Asia,asbhr,Bahrain,bhr,5311410080.07525,assau,sau,Saudi Arabia
+2018,as,Asia,aschn,China,chn,26281050238.664803,assau,sau,Saudi Arabia
+2018,as,Asia,asidn,Indonesia,idn,2401339959.06639,assau,sau,Saudi Arabia
+2018,as,Asia,asind,India,ind,19211478143.903698,assau,sau,Saudi Arabia
+2018,as,Asia,asjor,Jordan,jor,1120074446.56231,assau,sau,Saudi Arabia
+2018,as,Asia,asjpn,Japan,jpn,27451135908.357502,assau,sau,Saudi Arabia
+2018,as,Asia,askor,South Korea,kor,20701186830.4991,assau,sau,Saudi Arabia
+2018,as,Asia,asmys,Malaysia,mys,1547580348.5604699,assau,sau,Saudi Arabia
+2018,as,Asia,aspak,Pakistan,pak,1722512313.71947,assau,sau,Saudi Arabia
+2018,as,Asia,asphl,Philippines,phl,1438250917.58453,assau,sau,Saudi Arabia
+2018,as,Asia,assgp,Singapore,sgp,5082371483.64301,assau,sau,Saudi Arabia
+2018,as,Asia,astha,Thailand,tha,4943363615.74125,assau,sau,Saudi Arabia
+2018,as,Asia,asxxb,Chinese Taipei,,6179151093.21116,assau,sau,Saudi Arabia
+2018,eu,Europe,euaut,Austria,aut,34512252.8950625,assau,sau,Saudi Arabia
+2018,eu,Europe,eucze,Czechia,cze,44146596.62085321,assau,sau,Saudi Arabia
+2018,eu,Europe,eudeu,Germany,deu,664251255.690082,assau,sau,Saudi Arabia
+2018,eu,Europe,euesp,Spain,esp,3487182671.99009,assau,sau,Saudi Arabia
+2018,eu,Europe,eufra,France,fra,3643982026.5701303,assau,sau,Saudi Arabia
+2018,eu,Europe,eugbr,United Kingdom,gbr,567818999.786461,assau,sau,Saudi Arabia
+2018,eu,Europe,eugrc,Greece,grc,885143130.393215,assau,sau,Saudi Arabia
+2018,eu,Europe,euhrv,Croatia,hrv,24071899.672842503,assau,sau,Saudi Arabia
+2018,eu,Europe,euita,Italy,ita,3302381523.7628503,assau,sau,Saudi Arabia
+2018,eu,Europe,eultu,Lithuania,ltu,523737377.39139605,assau,sau,Saudi Arabia
+2018,eu,Europe,eunld,Netherlands,nld,915063130.805558,assau,sau,Saudi Arabia
+2018,eu,Europe,eupol,Poland,pol,944157743.970934,assau,sau,Saudi Arabia
+2018,eu,Europe,euprt,Portugal,prt,603494155.132956,assau,sau,Saudi Arabia
+2018,eu,Europe,euswe,Sweden,swe,39940995.1530537,assau,sau,Saudi Arabia
+2018,na,North America,nausa,United States,usa,19043152380.2607,assau,sau,Saudi Arabia
+2018,oc,Oceania,ocnzl,New Zealand,nzl,185549140.628937,assau,sau,Saudi Arabia
+2018,sa,South America,sabra,Brazil,bra,1434490169.22751,assau,sau,Saudi Arabia
+2018,sa,South America,saper,Peru,per,59134433.926108606,assau,sau,Saudi Arabia
+2018,as,Asia,asbrn,Brunei,brn,2591.07094102922,assgp,sgp,Singapore
+2018,as,Asia,aschn,China,chn,43303052,assgp,sgp,Singapore
+2018,as,Asia,asidn,Indonesia,idn,146263134.065619,assgp,sgp,Singapore
+2018,as,Asia,asind,India,ind,1337.5254651130301,assgp,sgp,Singapore
+2018,as,Asia,asmdv,Maldives,mdv,1740.9999999999998,assgp,sgp,Singapore
+2018,as,Asia,asmys,Malaysia,mys,21576,assgp,sgp,Singapore
+2018,eu,Europe,eudnk,Denmark,dnk,42170536.5399657,assgp,sgp,Singapore
+2018,oc,Oceania,ocfji,Fiji,fji,1563241.86027531,assgp,sgp,Singapore
+2018,oc,Oceania,ocnzl,New Zealand,nzl,6588471,assgp,sgp,Singapore
+2018,sa,South America,sacol,Colombia,col,443883.35775792605,assgp,sgp,Singapore
+2018,as,Asia,asbgd,Bangladesh,bgd,24026.999999999996,astha,tha,Thailand
+2018,as,Asia,aschn,China,chn,334914611.356926,astha,tha,Thailand
+2018,as,Asia,ashkg,Hong Kong,hkg,3670,astha,tha,Thailand
+2018,as,Asia,asidn,Indonesia,idn,7629985.91190669,astha,tha,Thailand
+2018,as,Asia,askor,South Korea,kor,22367744.765196,astha,tha,Thailand
+2018,as,Asia,aslao,Laos,lao,7858,astha,tha,Thailand
+2018,as,Asia,asmys,Malaysia,mys,328161041,astha,tha,Thailand
+2018,as,Asia,assgp,Singapore,sgp,86206704.1836844,astha,tha,Thailand
+2018,eu,Europe,euswe,Sweden,swe,2229.67297375105,astha,tha,Thailand
+2018,na,North America,nausa,United States,usa,18063997.007135503,astha,tha,Thailand
+2018,oc,Oceania,ocaus,Australia,aus,22356406.367665898,astha,tha,Thailand
+2018,oc,Oceania,ocfji,Fiji,fji,59216.128765864196,astha,tha,Thailand
+2018,oc,Oceania,ocnzl,New Zealand,nzl,65351.450099063695,astha,tha,Thailand
+2018,as,Asia,asafg,Afghanistan,afg,38460463.3399922,astkm,tkm,Turkmenistan
+2018,as,Asia,asare,United Arab Emirates,are,11378.158137947701,astkm,tkm,Turkmenistan
+2018,as,Asia,asuzb,Uzbekistan,uzb,65403548.62698309,astkm,tkm,Turkmenistan
+2018,as,Asia,assgp,Singapore,sgp,39778742.4085765,astls,tls,Timor-Leste
+2018,as,Asia,asidn,Indonesia,idn,222347140.827153,astur,tur,Turkey
+2018,as,Asia,asind,India,ind,673946026.3934151,astur,tur,Turkey
+2018,as,Asia,asisr,Israel,isr,2496145203.3698997,astur,tur,Turkey
+2018,as,Asia,aspse,Palestine,pse,1261,astur,tur,Turkey
+2018,eu,Europe,euesp,Spain,esp,43180716.2589438,astur,tur,Turkey
+2018,eu,Europe,eugbr,United Kingdom,gbr,83777477.9222275,astur,tur,Turkey
+2018,eu,Europe,euita,Italy,ita,130067182.474313,astur,tur,Turkey
+2018,eu,Europe,eunld,Netherlands,nld,1502.23165101377,astur,tur,Turkey
+2018,eu,Europe,eurou,Romania,rou,1265.18459528998,astur,tur,Turkey
+2018,as,Asia,aschn,China,chn,651056060.0155339,asvnm,vnm,Vietnam
+2018,as,Asia,asjpn,Japan,jpn,235364704.15341398,asvnm,vnm,Vietnam
+2018,as,Asia,askor,South Korea,kor,121391921.54262301,asvnm,vnm,Vietnam
+2018,as,Asia,asmys,Malaysia,mys,38134367.7557357,asvnm,vnm,Vietnam
+2018,as,Asia,assgp,Singapore,sgp,133039903.019185,asvnm,vnm,Vietnam
+2018,as,Asia,astha,Thailand,tha,504266896.920511,asvnm,vnm,Vietnam
+2018,na,North America,nausa,United States,usa,60997364.205315895,asvnm,vnm,Vietnam
+2018,oc,Oceania,ocaus,Australia,aus,483718356.754663,asvnm,vnm,Vietnam
+2018,as,Asia,aschn,China,chn,623104127.9536979,asyem,yem,Yemen
+2018,as,Asia,asind,India,ind,55488977.9327246,asyem,yem,Yemen
+2018,as,Asia,asjpn,Japan,jpn,34625244.911519,asyem,yem,Yemen
+2018,as,Asia,asmys,Malaysia,mys,76849242.56560999,asyem,yem,Yemen
+2018,as,Asia,astha,Thailand,tha,57858882.2623211,asyem,yem,Yemen
+2018,as,Asia,aschn,China,chn,1963.2465472567599,eualb,alb,Albania
+2018,eu,Europe,euesp,Spain,esp,161377134.57741,eualb,alb,Albania
+2018,eu,Europe,euita,Italy,ita,23861283.846683703,eualb,alb,Albania
+2018,eu,Europe,eusrb,Serbia,srb,117201.00000000001,eualb,alb,Albania
+2018,eu,Europe,eunld,Netherlands,nld,1949.05894230272,euaut,aut,Austria
+2018,eu,Europe,eumda,Moldova,mda,15388.742669773199,eubgr,bgr,Bulgaria
+2018,eu,Europe,eumkd,North Macedonia,mkd,13024,eubgr,bgr,Bulgaria
+2018,eu,Europe,eunld,Netherlands,nld,8276.23649903642,eubgr,bgr,Bulgaria
+2018,eu,Europe,eusrb,Serbia,srb,387907.902256153,eubgr,bgr,Bulgaria
+2018,as,Asia,askaz,Kazakhstan,kaz,1761133.41694648,eublr,blr,Belarus
+2018,eu,Europe,eudeu,Germany,deu,809895200,eublr,blr,Belarus
+2018,eu,Europe,eurus,Russia,rus,1475.5102155292,eublr,blr,Belarus
+2018,af,Africa,afgha,Ghana,gha,1709,eublx,blx,Belgium-Luxembourg
+2018,af,Africa,afnga,Nigeria,nga,1044175,eublx,blx,Belgium-Luxembourg
+2018,as,Asia,asare,United Arab Emirates,are,1958.0000000000002,eublx,blx,Belgium-Luxembourg
+2018,eu,Europe,eudeu,Germany,deu,1099,eublx,blx,Belgium-Luxembourg
+2018,eu,Europe,eufra,France,fra,4838998.67937968,eublx,blx,Belgium-Luxembourg
+2018,eu,Europe,eugbr,United Kingdom,gbr,21631667,eublx,blx,Belgium-Luxembourg
+2018,eu,Europe,euirl,Ireland,irl,1986,eublx,blx,Belgium-Luxembourg
+2018,eu,Europe,euisl,Iceland,isl,1484,eublx,blx,Belgium-Luxembourg
+2018,eu,Europe,eunld,Netherlands,nld,983501974.7393309,eublx,blx,Belgium-Luxembourg
+2018,as,Asia,asind,India,ind,69591846.317398,euche,che,Switzerland
+2018,as,Asia,asisr,Israel,isr,69594021.2886212,euche,che,Switzerland
+2018,as,Asia,astha,Thailand,tha,1008,euche,che,Switzerland
+2018,eu,Europe,euaut,Austria,aut,5871,euche,che,Switzerland
+2018,eu,Europe,eudeu,Germany,deu,7421,euche,che,Switzerland
+2018,eu,Europe,euest,Estonia,est,2017,euche,che,Switzerland
+2018,eu,Europe,euswe,Sweden,swe,1183.42298836896,euche,che,Switzerland
+2018,eu,Europe,euaut,Austria,aut,10891901.9717894,eucze,cze,Czech Republic
+2018,eu,Europe,eudeu,Germany,deu,2275,eucze,cze,Czech Republic
+2018,eu,Europe,eunld,Netherlands,nld,3808.71539719082,eucze,cze,Czech Republic
+2018,eu,Europe,eusvk,Slovakia,svk,5743.399744032071,eucze,cze,Czech Republic
+2018,af,Africa,afzaf,South Africa,zaf,1173,eudeu,deu,Germany
+2018,as,Asia,asaze,Azerbaijan,aze,1479.7010990406102,eudeu,deu,Germany
+2018,as,Asia,asbhr,Bahrain,bhr,10854.3081326111,eudeu,deu,Germany
+2018,as,Asia,asidn,Indonesia,idn,1131.69586224823,eudeu,deu,Germany
+2018,as,Asia,assgp,Singapore,sgp,4506.730591476121,eudeu,deu,Germany
+2018,eu,Europe,euaut,Austria,aut,1161442.4449687402,eudeu,deu,Germany
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,2884329.71165773,eudeu,deu,Germany
+2018,eu,Europe,eucze,Czechia,cze,5351.078257162139,eudeu,deu,Germany
+2018,eu,Europe,eudnk,Denmark,dnk,31551.5536839441,eudeu,deu,Germany
+2018,eu,Europe,euesp,Spain,esp,872859.5496751489,eudeu,deu,Germany
+2018,eu,Europe,eufra,France,fra,16698.8799459606,eudeu,deu,Germany
+2018,eu,Europe,eugrc,Greece,grc,1253.2417684581299,eudeu,deu,Germany
+2018,eu,Europe,euirl,Ireland,irl,934701.781645708,eudeu,deu,Germany
+2018,eu,Europe,euita,Italy,ita,101120.41351728901,eudeu,deu,Germany
+2018,eu,Europe,eunld,Netherlands,nld,24401567.3381841,eudeu,deu,Germany
+2018,eu,Europe,euswe,Sweden,swe,35622615.58877,eudeu,deu,Germany
+2018,sa,South America,saper,Peru,per,17699.883019927303,eudeu,deu,Germany
+2018,sa,South America,sapry,Paraguay,pry,1613.02169565076,eudeu,deu,Germany
+2018,eu,Europe,eudeu,Germany,deu,217205311.728844,eudnk,dnk,Denmark
+2018,eu,Europe,eufin,Finland,fin,121871277.00937699,eudnk,dnk,Denmark
+2018,eu,Europe,eunld,Netherlands,nld,175424310.177301,eudnk,dnk,Denmark
+2018,eu,Europe,eunor,Norway,nor,40088749.3097816,eudnk,dnk,Denmark
+2018,eu,Europe,euswe,Sweden,swe,482091414.956923,eudnk,dnk,Denmark
+2018,af,Africa,afgha,Ghana,gha,1802.3220455043797,euesp,esp,Spain
+2018,eu,Europe,eufra,France,fra,244087055.201412,euesp,esp,Spain
+2018,eu,Europe,euirl,Ireland,irl,15397.655827595401,euesp,esp,Spain
+2018,eu,Europe,euita,Italy,ita,145765317.22151,euesp,esp,Spain
+2018,eu,Europe,eumlt,Malta,mlt,13703604,euesp,esp,Spain
+2018,eu,Europe,eunld,Netherlands,nld,18620313.7583328,euesp,esp,Spain
+2018,eu,Europe,euprt,Portugal,prt,57097813.5536583,euesp,esp,Spain
+2018,eu,Europe,eusvn,Slovenia,svn,22491444,euesp,esp,Spain
+2018,na,North America,nacri,Costa Rica,cri,8948.553934960319,euesp,esp,Spain
+2018,na,North America,nacub,Cuba,cub,5423.999999999999,euesp,esp,Spain
+2018,na,North America,nahnd,Honduras,hnd,3484,euesp,esp,Spain
+2018,na,North America,namex,Mexico,mex,46081,euesp,esp,Spain
+2018,sa,South America,sachl,Chile,chl,1333.23584623605,euesp,esp,Spain
+2018,sa,South America,sacol,Colombia,col,8023.549105898161,euesp,esp,Spain
+2018,as,Asia,assau,Saudi Arabia,sau,241675,euest,est,Estonia
+2018,eu,Europe,eultu,Lithuania,ltu,173355.923158555,euest,est,Estonia
+2018,eu,Europe,eulva,Latvia,lva,57449.366464770894,euest,est,Estonia
+2018,na,North America,nausa,United States,usa,72223,euest,est,Estonia
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,57942,eufin,fin,Finland
+2018,eu,Europe,euest,Estonia,est,80976.40812428191,eufin,fin,Finland
+2018,eu,Europe,eulva,Latvia,lva,4432.7915760418,eufin,fin,Finland
+2018,eu,Europe,eunld,Netherlands,nld,1926.1498114570202,eufin,fin,Finland
+2018,eu,Europe,euaut,Austria,aut,575360.897774072,eufra,fra,France
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,2441657.25417778,eufra,fra,France
+2018,eu,Europe,eucze,Czechia,cze,9362.87862841449,eufra,fra,France
+2018,eu,Europe,eudeu,Germany,deu,1728677.58898603,eufra,fra,France
+2018,eu,Europe,euesp,Spain,esp,105202.144795151,eufra,fra,France
+2018,eu,Europe,eugbr,United Kingdom,gbr,13814,eufra,fra,France
+2018,eu,Europe,euita,Italy,ita,5663.582085454871,eufra,fra,France
+2018,eu,Europe,eunld,Netherlands,nld,12429.667577316,eufra,fra,France
+2018,eu,Europe,eunor,Norway,nor,1830,eufra,fra,France
+2018,af,Africa,afeth,Ethiopia,eth,9648,eugbr,gbr,United Kingdom
+2018,af,Africa,afnga,Nigeria,nga,19125,eugbr,gbr,United Kingdom
+2018,af,Africa,afsyc,Seychelles,syc,23834106.4797687,eugbr,gbr,United Kingdom
+2018,as,Asia,asare,United Arab Emirates,are,134080.840523609,eugbr,gbr,United Kingdom
+2018,as,Asia,asbhr,Bahrain,bhr,1182.58323892015,eugbr,gbr,United Kingdom
+2018,as,Asia,aschn,China,chn,4829376622.39881,eugbr,gbr,United Kingdom
+2018,as,Asia,asidn,Indonesia,idn,1353.98324445666,eugbr,gbr,United Kingdom
+2018,as,Asia,asind,India,ind,45861777.668565005,eugbr,gbr,United Kingdom
+2018,as,Asia,asisr,Israel,isr,221730837.223426,eugbr,gbr,United Kingdom
+2018,as,Asia,asjpn,Japan,jpn,2587.63023945304,eugbr,gbr,United Kingdom
+2018,as,Asia,askor,South Korea,kor,2444952664.59032,eugbr,gbr,United Kingdom
+2018,as,Asia,asomn,Oman,omn,1572.72724289693,eugbr,gbr,United Kingdom
+2018,as,Asia,aspak,Pakistan,pak,3820,eugbr,gbr,United Kingdom
+2018,as,Asia,assau,Saudi Arabia,sau,1521,eugbr,gbr,United Kingdom
+2018,as,Asia,assgp,Singapore,sgp,5516.08992896044,eugbr,gbr,United Kingdom
+2018,as,Asia,astha,Thailand,tha,216369364.750533,eugbr,gbr,United Kingdom
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,46640145.5100141,eugbr,gbr,United Kingdom
+2018,eu,Europe,eudeu,Germany,deu,2573383112.1371202,eugbr,gbr,United Kingdom
+2018,eu,Europe,eudnk,Denmark,dnk,76564131.4604235,eugbr,gbr,United Kingdom
+2018,eu,Europe,euesp,Spain,esp,347712821.61770195,eugbr,gbr,United Kingdom
+2018,eu,Europe,eufin,Finland,fin,90906139.00000001,eugbr,gbr,United Kingdom
+2018,eu,Europe,eufra,France,fra,961134047.6071999,eugbr,gbr,United Kingdom
+2018,eu,Europe,eugrc,Greece,grc,136983451.15368602,eugbr,gbr,United Kingdom
+2018,eu,Europe,euhrv,Croatia,hrv,46539178.41689559,eugbr,gbr,United Kingdom
+2018,eu,Europe,euirl,Ireland,irl,455486439.5709621,eugbr,gbr,United Kingdom
+2018,eu,Europe,euita,Italy,ita,262564562.001928,eugbr,gbr,United Kingdom
+2018,eu,Europe,eulva,Latvia,lva,256192.56630163602,eugbr,gbr,United Kingdom
+2018,eu,Europe,eunld,Netherlands,nld,9874243720.13372,eugbr,gbr,United Kingdom
+2018,eu,Europe,eunor,Norway,nor,594375325.905398,eugbr,gbr,United Kingdom
+2018,eu,Europe,eupol,Poland,pol,330727867.549119,eugbr,gbr,United Kingdom
+2018,eu,Europe,euswe,Sweden,swe,971902634.599655,eugbr,gbr,United Kingdom
+2018,na,North America,nacan,Canada,can,279778625.00309896,eugbr,gbr,United Kingdom
+2018,na,North America,nausa,United States,usa,1479139372.9065,eugbr,gbr,United Kingdom
+2018,sa,South America,sachl,Chile,chl,67235185.00359821,eugbr,gbr,United Kingdom
+2018,sa,South America,saven,Venezuela,ven,47746742.99999999,eugbr,gbr,United Kingdom
+2018,as,Asia,astur,Turkey,tur,39209797,eugrc,grc,Greece
+2018,eu,Europe,euita,Italy,ita,22017553,eugrc,grc,Greece
+2018,eu,Europe,eusrb,Serbia,srb,27051,euhrv,hrv,Croatia
+2018,eu,Europe,eubih,Bosnia and Herzegovina,bih,16262,euhun,hun,Hungary
+2018,eu,Europe,eucze,Czechia,cze,4725810.27497601,euhun,hun,Hungary
+2018,eu,Europe,eunld,Netherlands,nld,289956.78808243695,euhun,hun,Hungary
+2018,eu,Europe,eupol,Poland,pol,806192.556134361,euhun,hun,Hungary
+2018,eu,Europe,eusrb,Serbia,srb,43623.8594902298,euhun,hun,Hungary
+2018,eu,Europe,eusvk,Slovakia,svk,92711185,euhun,hun,Hungary
+2018,eu,Europe,euukr,Ukraine,ukr,2391214.8527301704,euhun,hun,Hungary
+2018,eu,Europe,eunld,Netherlands,nld,130016.99924356799,euirl,irl,Ireland
+2018,eu,Europe,eupol,Poland,pol,1851.9999999999998,euirl,irl,Ireland
+2018,as,Asia,asisr,Israel,isr,133902722.90366,euita,ita,Italy
+2018,as,Asia,astur,Turkey,tur,38073477,euita,ita,Italy
+2018,eu,Europe,eubgr,Bulgaria,bgr,13616678.287485199,euita,ita,Italy
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,1236.51266762075,euita,ita,Italy
+2018,eu,Europe,eucze,Czechia,cze,4467.5567981672,euita,ita,Italy
+2018,eu,Europe,eudeu,Germany,deu,56680497.7235103,euita,ita,Italy
+2018,eu,Europe,euesp,Spain,esp,27815595.1537162,euita,ita,Italy
+2018,eu,Europe,eufra,France,fra,76408000.88987091,euita,ita,Italy
+2018,eu,Europe,eugbr,United Kingdom,gbr,25400,euita,ita,Italy
+2018,eu,Europe,eugib,Gibraltar,gib,3910087,euita,ita,Italy
+2018,eu,Europe,euhrv,Croatia,hrv,563977.8828762099,euita,ita,Italy
+2018,eu,Europe,euhun,Hungary,hun,2367046.1952084503,euita,ita,Italy
+2018,eu,Europe,euisl,Iceland,isl,1508.83151557265,euita,ita,Italy
+2018,eu,Europe,eunld,Netherlands,nld,99354288.76605222,euita,ita,Italy
+2018,eu,Europe,eupol,Poland,pol,3019.0837869640695,euita,ita,Italy
+2018,eu,Europe,eurou,Romania,rou,17143,euita,ita,Italy
+2018,eu,Europe,eusvk,Slovakia,svk,407401.87012392306,euita,ita,Italy
+2018,eu,Europe,eusvn,Slovenia,svn,35705,euita,ita,Italy
+2018,na,North America,nausa,United States,usa,14130573.3817759,euita,ita,Italy
+2018,eu,Europe,euest,Estonia,est,866275.1145751269,eultu,ltu,Lithuania
+2018,eu,Europe,eulva,Latvia,lva,164942.278168322,eultu,ltu,Lithuania
+2018,eu,Europe,eupol,Poland,pol,23224409.3973994,eultu,ltu,Lithuania
+2018,eu,Europe,euukr,Ukraine,ukr,809685.9974611481,eultu,ltu,Lithuania
+2018,eu,Europe,euesp,Spain,esp,37522061.4695195,eulva,lva,Latvia
+2018,eu,Europe,euest,Estonia,est,35734.63072044389,eulva,lva,Latvia
+2018,eu,Europe,eultu,Lithuania,ltu,2377617.5634314,eulva,lva,Latvia
+2018,eu,Europe,eupol,Poland,pol,176612,eulva,lva,Latvia
+2018,eu,Europe,euukr,Ukraine,ukr,584381.720824061,eulva,lva,Latvia
+2018,eu,Europe,eurou,Romania,rou,36440.9687801403,eumda,mda,Moldova
+2018,as,Asia,assgp,Singapore,sgp,4072853.53482291,eumlt,mlt,Malta
+2018,eu,Europe,eubgr,Bulgaria,bgr,115574672.32788001,eumlt,mlt,Malta
+2018,eu,Europe,euesp,Spain,esp,7241091.625361229,eumlt,mlt,Malta
+2018,as,Asia,asare,United Arab Emirates,are,12179.4608207937,eunld,nld,Netherlands
+2018,as,Asia,asbhr,Bahrain,bhr,2515.54006050783,eunld,nld,Netherlands
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,7637098480.34359,eunld,nld,Netherlands
+2018,eu,Europe,eucze,Czechia,cze,1826.4488583095801,eunld,nld,Netherlands
+2018,eu,Europe,eudeu,Germany,deu,1903294581.01139,eunld,nld,Netherlands
+2018,eu,Europe,eudnk,Denmark,dnk,19284555.7281302,eunld,nld,Netherlands
+2018,eu,Europe,euesp,Spain,esp,118143969.620514,eunld,nld,Netherlands
+2018,eu,Europe,eufra,France,fra,23254.7902028896,eunld,nld,Netherlands
+2018,eu,Europe,eugbr,United Kingdom,gbr,43211176.916813605,eunld,nld,Netherlands
+2018,eu,Europe,euirl,Ireland,irl,77741.798821223,eunld,nld,Netherlands
+2018,eu,Europe,eupol,Poland,pol,33373.6920194386,eunld,nld,Netherlands
+2018,na,North America,nacan,Canada,can,7013689.3973758295,eunld,nld,Netherlands
+2018,af,Africa,afzaf,South Africa,zaf,46737445.5053505,eunor,nor,Norway
+2018,as,Asia,aschn,China,chn,133843117.078526,eunor,nor,Norway
+2018,as,Asia,asidn,Indonesia,idn,44690497.3944403,eunor,nor,Norway
+2018,as,Asia,asjpn,Japan,jpn,22560481,eunor,nor,Norway
+2018,as,Asia,askor,South Korea,kor,401618996.49199706,eunor,nor,Norway
+2018,as,Asia,astha,Thailand,tha,24536362.9895801,eunor,nor,Norway
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,218194637.74261898,eunor,nor,Norway
+2018,eu,Europe,eudeu,Germany,deu,3358151687.6680703,eunor,nor,Norway
+2018,eu,Europe,eudnk,Denmark,dnk,1661389914.34527,eunor,nor,Norway
+2018,eu,Europe,euesp,Spain,esp,652215396.111768,eunor,nor,Norway
+2018,eu,Europe,eufin,Finland,fin,1067821369.12654,eunor,nor,Norway
+2018,eu,Europe,eufra,France,fra,1137146927.54775,eunor,nor,Norway
+2018,eu,Europe,eugbr,United Kingdom,gbr,11997260720.1974,eunor,nor,Norway
+2018,eu,Europe,euhrv,Croatia,hrv,45783148.8801696,eunor,nor,Norway
+2018,eu,Europe,euirl,Ireland,irl,770382006.8396659,eunor,nor,Norway
+2018,eu,Europe,euita,Italy,ita,517596782.398617,eunor,nor,Norway
+2018,eu,Europe,eultu,Lithuania,ltu,51303516.639485195,eunor,nor,Norway
+2018,eu,Europe,eunld,Netherlands,nld,5982581794.65281,eunor,nor,Norway
+2018,eu,Europe,eupol,Poland,pol,431445651.14996296,eunor,nor,Norway
+2018,eu,Europe,euprt,Portugal,prt,88284482.3705248,eunor,nor,Norway
+2018,eu,Europe,euswe,Sweden,swe,2434872217.45271,eunor,nor,Norway
+2018,na,North America,nacan,Canada,can,446626996.837063,eunor,nor,Norway
+2018,na,North America,nausa,United States,usa,1378366168.5287302,eunor,nor,Norway
+2018,sa,South America,saury,Uruguay,ury,73414195.8270358,eunor,nor,Norway
+2018,eu,Europe,eucze,Czechia,cze,1175.1987506011,eupol,pol,Poland
+2018,eu,Europe,eudeu,Germany,deu,124682797.27307999,eupol,pol,Poland
+2018,eu,Europe,eudnk,Denmark,dnk,1284,eupol,pol,Poland
+2018,eu,Europe,euhun,Hungary,hun,1118.3278317321399,eupol,pol,Poland
+2018,eu,Europe,eultu,Lithuania,ltu,25874139.2263204,eupol,pol,Poland
+2018,eu,Europe,eunld,Netherlands,nld,1354.2142029536296,eupol,pol,Poland
+2018,eu,Europe,euswe,Sweden,swe,6808,eupol,pol,Poland
+2018,af,Africa,afmoz,Mozambique,moz,1129.76841153762,euprt,prt,Portugal
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,1148.80978706149,euprt,prt,Portugal
+2018,eu,Europe,eudnk,Denmark,dnk,8647.96017705144,euprt,prt,Portugal
+2018,eu,Europe,euesp,Spain,esp,21919999.5840433,euprt,prt,Portugal
+2018,eu,Europe,eumda,Moldova,mda,33240.8712097291,eurou,rou,Romania
+2018,eu,Europe,eunld,Netherlands,nld,77129.22774354681,eurou,rou,Romania
+2018,eu,Europe,eusrb,Serbia,srb,7456368,eurou,rou,Romania
+2018,eu,Europe,euukr,Ukraine,ukr,246033.28251236,eurou,rou,Romania
+2018,as,Asia,asafg,Afghanistan,afg,228130.9255361,eurus,rus,Russia
+2018,as,Asia,asaze,Azerbaijan,aze,31392135.362738397,eurus,rus,Russia
+2018,as,Asia,aschn,China,chn,35132827449.409996,eurus,rus,Russia
+2018,as,Asia,asind,India,ind,1173204137.632,eurus,rus,Russia
+2018,as,Asia,asisr,Israel,isr,2125689001.8722699,eurus,rus,Russia
+2018,as,Asia,asjor,Jordan,jor,38356727.5571871,eurus,rus,Russia
+2018,as,Asia,asjpn,Japan,jpn,3782988961.3460298,eurus,rus,Russia
+2018,as,Asia,askaz,Kazakhstan,kaz,7840483.9237687215,eurus,rus,Russia
+2018,as,Asia,askgz,Kyrgyzstan,kgz,639649.487358495,eurus,rus,Russia
+2018,as,Asia,askor,South Korea,kor,8083110705.86727,eurus,rus,Russia
+2018,as,Asia,asmng,Mongolia,mng,25565.139148322,eurus,rus,Russia
+2018,as,Asia,asmys,Malaysia,mys,336481415.86347395,eurus,rus,Russia
+2018,as,Asia,asphl,Philippines,phl,114747625.77193698,eurus,rus,Russia
+2018,as,Asia,assgp,Singapore,sgp,319878639.146352,eurus,rus,Russia
+2018,as,Asia,astha,Thailand,tha,225442779.237938,eurus,rus,Russia
+2018,as,Asia,astur,Turkey,tur,1052811945.0000001,eurus,rus,Russia
+2018,as,Asia,asuzb,Uzbekistan,uzb,46520449.361368895,eurus,rus,Russia
+2018,eu,Europe,euaut,Austria,aut,113228854.934743,eurus,rus,Russia
+2018,eu,Europe,eubgr,Bulgaria,bgr,1643494636.4553502,eurus,rus,Russia
+2018,eu,Europe,eubih,Bosnia and Herzegovina,bih,257502825.90609103,eurus,rus,Russia
+2018,eu,Europe,eublr,Belarus,blr,6765770335.5584,eurus,rus,Russia
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,1318426065,eurus,rus,Russia
+2018,eu,Europe,eucze,Czechia,cze,1964568310.07411,eurus,rus,Russia
+2018,eu,Europe,eudeu,Germany,deu,11686953593.4159,eurus,rus,Russia
+2018,eu,Europe,eudnk,Denmark,dnk,290494527.318102,eurus,rus,Russia
+2018,eu,Europe,euesp,Spain,esp,596418151.708035,eurus,rus,Russia
+2018,eu,Europe,euest,Estonia,est,912283.750117914,eurus,rus,Russia
+2018,eu,Europe,eufin,Finland,fin,4948357205.15216,eurus,rus,Russia
+2018,eu,Europe,eufra,France,fra,1049176652.46547,eurus,rus,Russia
+2018,eu,Europe,eugbr,United Kingdom,gbr,559327415.942316,eurus,rus,Russia
+2018,eu,Europe,eugrc,Greece,grc,568141410.645596,eurus,rus,Russia
+2018,eu,Europe,euhrv,Croatia,hrv,908567782.93209,eurus,rus,Russia
+2018,eu,Europe,euhun,Hungary,hun,1966083661.51446,eurus,rus,Russia
+2018,eu,Europe,euita,Italy,ita,5765682001.67449,eurus,rus,Russia
+2018,eu,Europe,eultu,Lithuania,ltu,2254260560.84821,eurus,rus,Russia
+2018,eu,Europe,eulva,Latvia,lva,50693850,eurus,rus,Russia
+2018,eu,Europe,eumlt,Malta,mlt,77399777.99999999,eurus,rus,Russia
+2018,eu,Europe,eunld,Netherlands,nld,20323556199.9608,eurus,rus,Russia
+2018,eu,Europe,eunor,Norway,nor,120103881.460097,eurus,rus,Russia
+2018,eu,Europe,eupol,Poland,pol,8685166335.3584,eurus,rus,Russia
+2018,eu,Europe,euprt,Portugal,prt,765546415.8770729,eurus,rus,Russia
+2018,eu,Europe,eurou,Romania,rou,1457063823.2422302,eurus,rus,Russia
+2018,eu,Europe,eusrb,Serbia,srb,724244183,eurus,rus,Russia
+2018,eu,Europe,eusvk,Slovakia,svk,2490810273.79708,eurus,rus,Russia
+2018,eu,Europe,euswe,Sweden,swe,1691336548.47513,eurus,rus,Russia
+2018,eu,Europe,euukr,Ukraine,ukr,347114.253780118,eurus,rus,Russia
+2018,na,North America,nacan,Canada,can,98835437.0557788,eurus,rus,Russia
+2018,na,North America,nacub,Cuba,cub,55805597,eurus,rus,Russia
+2018,na,North America,nacuw,Curaçao,cuw,490861332.00000006,eurus,rus,Russia
+2018,na,North America,natto,Trinidad and Tobago,tto,552880259,eurus,rus,Russia
+2018,na,North America,nausa,United States,usa,986834359.700493,eurus,rus,Russia
+2018,oc,Oceania,ocnzl,New Zealand,nzl,31770353.675291497,eurus,rus,Russia
+2018,sa,South America,sacol,Colombia,col,108499778,eurus,rus,Russia
+2018,eu,Europe,eubih,Bosnia and Herzegovina,bih,316076.704250113,eusrb,srb,Serbia
+2018,eu,Europe,eumkd,North Macedonia,mkd,15261,eusrb,srb,Serbia
+2018,eu,Europe,eumne,Montenegro,mne,15309.000000000002,eusrb,srb,Serbia
+2018,eu,Europe,euukr,Ukraine,ukr,27095,eusrb,srb,Serbia
+2018,eu,Europe,euaut,Austria,aut,2665612.17285469,eusvk,svk,Slovakia
+2018,eu,Europe,eubih,Bosnia and Herzegovina,bih,21757.219326034196,eusvn,svn,Slovenia
+2018,eu,Europe,euhun,Hungary,hun,119775.025754397,eusvn,svn,Slovenia
+2018,eu,Europe,eunld,Netherlands,nld,9101.28684688929,eusvn,svn,Slovenia
+2018,as,Asia,asjpn,Japan,jpn,12661,euswe,swe,Sweden
+2018,eu,Europe,eudnk,Denmark,dnk,6791,euswe,swe,Sweden
+2018,eu,Europe,eufin,Finland,fin,4164.94890795238,euswe,swe,Sweden
+2018,eu,Europe,eufra,France,fra,5456.350578562371,euswe,swe,Sweden
+2018,eu,Europe,eugbr,United Kingdom,gbr,1151,euswe,swe,Sweden
+2018,eu,Europe,eunld,Netherlands,nld,13352.1819020649,euswe,swe,Sweden
+2018,eu,Europe,eupol,Poland,pol,11197.788018309098,euswe,swe,Sweden
+2018,oc,Oceania,ocaus,Australia,aus,6676,euswe,swe,Sweden
+2018,na,North America,nanic,Nicaragua,nic,29039026.351197,naabw,abw,Aruba
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,33913232,nabes,bes,Bonaire
+2018,na,North America,nabrb,Barbados,brb,8204995.000000001,nablz,blz,Belize
+2018,na,North America,nausa,United States,usa,4611284.26878239,nablz,blz,Belize
+2018,na,North America,natto,Trinidad and Tobago,tto,11098570,nabrb,brb,Barbados
+2018,na,North America,nausa,United States,usa,3592712.8877559,nabrb,brb,Barbados
+2018,as,Asia,aschn,China,chn,413811660.02547204,nacan,can,Canada
+2018,as,Asia,ashkg,Hong Kong,hkg,35507505,nacan,can,Canada
+2018,as,Asia,asind,India,ind,177063950.156257,nacan,can,Canada
+2018,as,Asia,askor,South Korea,kor,41862303.4225046,nacan,can,Canada
+2018,as,Asia,asqat,Qatar,qat,41548.01405070879,nacan,can,Canada
+2018,as,Asia,astha,Thailand,tha,1332227.95411163,nacan,can,Canada
+2018,eu,Europe,eudeu,Germany,deu,36929742.1905855,nacan,can,Canada
+2018,eu,Europe,euesp,Spain,esp,357647011.503038,nacan,can,Canada
+2018,eu,Europe,eufra,France,fra,38352179.9971313,nacan,can,Canada
+2018,eu,Europe,eugbr,United Kingdom,gbr,837159080.056476,nacan,can,Canada
+2018,eu,Europe,euhrv,Croatia,hrv,81746129.86436,nacan,can,Canada
+2018,eu,Europe,euirl,Ireland,irl,50325452.838802405,nacan,can,Canada
+2018,eu,Europe,euita,Italy,ita,385539940.60096,nacan,can,Canada
+2018,eu,Europe,eunld,Netherlands,nld,256148228.656296,nacan,can,Canada
+2018,eu,Europe,eunor,Norway,nor,53020836.786073,nacan,can,Canada
+2018,eu,Europe,euprt,Portugal,prt,83287174.7359896,nacan,can,Canada
+2018,eu,Europe,euswe,Sweden,swe,4809.109573749281,nacan,can,Canada
+2018,na,North America,nabes,Bonaire,bes,63036775,nacan,can,Canada
+2018,na,North America,natto,Trinidad and Tobago,tto,88282758,nacan,can,Canada
+2018,na,North America,nausa,United States,usa,63514167615.459206,nacan,can,Canada
+2018,sa,South America,sachl,Chile,chl,47506462.2702581,nacan,can,Canada
+2018,sa,South America,sacol,Colombia,col,55579770.24576611,nacan,can,Canada
+2018,na,North America,naslv,El Salvador,slv,23802.674491590602,nagtm,gtm,Guatemala
+2018,na,North America,nausa,United States,usa,131906044.11466801,nagtm,gtm,Guatemala
+2018,sa,South America,saper,Peru,per,18132742.9161201,nalca,lca,Saint Lucia
+2018,as,Asia,asare,United Arab Emirates,are,39289556.00000001,namex,mex,Mexico
+2018,as,Asia,aschn,China,chn,40690588.5719148,namex,mex,Mexico
+2018,as,Asia,asind,India,ind,790962564.727608,namex,mex,Mexico
+2018,as,Asia,asjpn,Japan,jpn,696494324.427487,namex,mex,Mexico
+2018,as,Asia,askor,South Korea,kor,715959567.691953,namex,mex,Mexico
+2018,as,Asia,astha,Thailand,tha,1491.2899206330499,namex,mex,Mexico
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,96241377,namex,mex,Mexico
+2018,eu,Europe,eudeu,Germany,deu,24214059.8064024,namex,mex,Mexico
+2018,eu,Europe,euesp,Spain,esp,1625220477.20608,namex,mex,Mexico
+2018,eu,Europe,eunld,Netherlands,nld,628251320.725663,namex,mex,Mexico
+2018,eu,Europe,euprt,Portugal,prt,65293079.1501793,namex,mex,Mexico
+2018,na,North America,najam,Jamaica,jam,21312216,namex,mex,Mexico
+2018,na,North America,nanic,Nicaragua,nic,24300706.3517952,namex,mex,Mexico
+2018,na,North America,nausa,United States,usa,5009585280.871059,namex,mex,Mexico
+2018,as,Asia,asmys,Malaysia,mys,38109209.7307821,napan,pan,Panama
+2018,na,North America,nacri,Costa Rica,cri,6470.06706388356,napan,pan,Panama
+2018,na,North America,nausa,United States,usa,199543705.08115697,natto,tto,Trinidad and Tobago
+2018,sa,South America,saper,Peru,per,465676097.32014704,natto,tto,Trinidad and Tobago
+2018,af,Africa,afciv,Cote d'Ivoire,civ,1107.25253559436,nausa,usa,United States
+2018,af,Africa,afzaf,South Africa,zaf,52073184.86423589,nausa,usa,United States
+2018,as,Asia,asare,United Arab Emirates,are,542142589.3936471,nausa,usa,United States
+2018,as,Asia,asbhr,Bahrain,bhr,18745.1004667946,nausa,usa,United States
+2018,as,Asia,aschn,China,chn,5506733600.97818,nausa,usa,United States
+2018,as,Asia,asidn,Indonesia,idn,55430065.7531683,nausa,usa,United States
+2018,as,Asia,asind,India,ind,3377148442.59844,nausa,usa,United States
+2018,as,Asia,asisr,Israel,isr,510456.56860247394,nausa,usa,United States
+2018,as,Asia,asjpn,Japan,jpn,1408509097.8983698,nausa,usa,United States
+2018,as,Asia,askor,South Korea,kor,5128706511.58216,nausa,usa,United States
+2018,as,Asia,asmys,Malaysia,mys,403759076.038518,nausa,usa,United States
+2018,as,Asia,asqat,Qatar,qat,12424.543394885599,nausa,usa,United States
+2018,as,Asia,assgp,Singapore,sgp,825890925.686828,nausa,usa,United States
+2018,as,Asia,astha,Thailand,tha,949726612.992972,nausa,usa,United States
+2018,as,Asia,asxxb,Chinese Taipei,,3180407904.96636,nausa,usa,United States
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,2787,nausa,usa,United States
+2018,eu,Europe,euche,Switzerland,che,105288315.99999999,nausa,usa,United States
+2018,eu,Europe,eudeu,Germany,deu,731148439.360258,nausa,usa,United States
+2018,eu,Europe,eudnk,Denmark,dnk,364482274.711721,nausa,usa,United States
+2018,eu,Europe,euesp,Spain,esp,574602957.5803679,nausa,usa,United States
+2018,eu,Europe,eufin,Finland,fin,1489.9237447800401,nausa,usa,United States
+2018,eu,Europe,eufra,France,fra,757376240.7885729,nausa,usa,United States
+2018,eu,Europe,eugbr,United Kingdom,gbr,3706051867.95542,nausa,usa,United States
+2018,eu,Europe,eugib,Gibraltar,gib,31954536,nausa,usa,United States
+2018,eu,Europe,eugrc,Greece,grc,130612124.137388,nausa,usa,United States
+2018,eu,Europe,euhrv,Croatia,hrv,72892500,nausa,usa,United States
+2018,eu,Europe,euirl,Ireland,irl,326418995.702988,nausa,usa,United States
+2018,eu,Europe,euita,Italy,ita,1251619877.60411,nausa,usa,United States
+2018,eu,Europe,eunld,Netherlands,nld,2793568892.79079,nausa,usa,United States
+2018,eu,Europe,eunor,Norway,nor,757225919.789693,nausa,usa,United States
+2018,eu,Europe,eupol,Poland,pol,286364858.48167497,nausa,usa,United States
+2018,eu,Europe,euprt,Portugal,prt,96825661.33559449,nausa,usa,United States
+2018,eu,Europe,euswe,Sweden,swe,36499912.2625559,nausa,usa,United States
+2018,na,North America,nabhs,Bahamas,bhs,54918383,nausa,usa,United States
+2018,na,North America,nacan,Canada,can,9738768512.66552,nausa,usa,United States
+2018,na,North America,nacri,Costa Rica,cri,6495.8571467987895,nausa,usa,United States
+2018,na,North America,nacuw,Curaçao,cuw,168229263,nausa,usa,United States
+2018,na,North America,nadom,Dominican Republic,dom,230280742,nausa,usa,United States
+2018,na,North America,namex,Mexico,mex,69856003.5595143,nausa,usa,United States
+2018,na,North America,nanic,Nicaragua,nic,144494722.91740802,nausa,usa,United States
+2018,na,North America,napan,Panama,pan,40677349,nausa,usa,United States
+2018,oc,Oceania,ocaus,Australia,aus,70474718.74684991,nausa,usa,United States
+2018,oc,Oceania,ocnzl,New Zealand,nzl,11957.197466386398,nausa,usa,United States
+2018,sa,South America,saarg,Argentina,arg,43921911.0308621,nausa,usa,United States
+2018,sa,South America,sabra,Brazil,bra,656768807.9121389,nausa,usa,United States
+2018,sa,South America,sachl,Chile,chl,226501381.044768,nausa,usa,United States
+2018,sa,South America,sacol,Colombia,col,313724646.63947296,nausa,usa,United States
+2018,sa,South America,saecu,Ecuador,ecu,3993.32901622184,nausa,usa,United States
+2018,sa,South America,saguy,Guyana,guy,2560.6800942975497,nausa,usa,United States
+2018,sa,South America,saper,Peru,per,143430457.276716,nausa,usa,United States
+2018,sa,South America,saury,Uruguay,ury,137116594.402359,nausa,usa,United States
+2018,af,Africa,afzaf,South Africa,zaf,99820,ocaus,aus,Australia
+2018,as,Asia,asare,United Arab Emirates,are,83957669.00000001,ocaus,aus,Australia
+2018,as,Asia,aschn,China,chn,596818027.747344,ocaus,aus,Australia
+2018,as,Asia,asidn,Indonesia,idn,616144862.327811,ocaus,aus,Australia
+2018,as,Asia,asind,India,ind,122254540.143751,ocaus,aus,Australia
+2018,as,Asia,asjpn,Japan,jpn,180640345.567634,ocaus,aus,Australia
+2018,as,Asia,askor,South Korea,kor,672753226.3384739,ocaus,aus,Australia
+2018,as,Asia,asmys,Malaysia,mys,678608619.510819,ocaus,aus,Australia
+2018,as,Asia,assgp,Singapore,sgp,1040101114.08407,ocaus,aus,Australia
+2018,as,Asia,astha,Thailand,tha,1531959788.49249,ocaus,aus,Australia
+2018,na,North America,nausa,United States,usa,36197816.8406615,ocaus,aus,Australia
+2018,oc,Oceania,ocfji,Fiji,fji,6556,ocaus,aus,Australia
+2018,oc,Oceania,ocncl,New Caledonia,ncl,148069,ocaus,aus,Australia
+2018,oc,Oceania,ocnzl,New Zealand,nzl,38109626.5007875,ocaus,aus,Australia
+2018,oc,Oceania,ocpng,Papua New Guinea,png,177208018.99999997,ocaus,aus,Australia
+2018,oc,Oceania,ocslb,Solomon Islands,slb,2058.01068192737,ocaus,aus,Australia
+2018,oc,Oceania,ocwsm,Samoa,wsm,91732.55813706579,ocaus,aus,Australia
+2018,oc,Oceania,ockir,Kiribati,kir,9074,ocfji,fji,Fiji
+2018,oc,Oceania,ocmhl,Marshall Islands,mhl,24463,ocfji,fji,Fiji
+2018,oc,Oceania,octon,Tonga,ton,33519,ocfji,fji,Fiji
+2018,oc,Oceania,ocvut,Vanuatu,vut,9377,ocfji,fji,Fiji
+2018,oc,Oceania,ocfji,Fiji,fji,4755.42499383012,ocncl,ncl,New Caledonia
+2018,as,Asia,askor,South Korea,kor,16478596.5043121,ocnzl,nzl,New Zealand
+2018,as,Asia,asmys,Malaysia,mys,10529340.1625321,ocnzl,nzl,New Zealand
+2018,as,Asia,assgp,Singapore,sgp,95177255.38418101,ocnzl,nzl,New Zealand
+2018,oc,Oceania,ocaus,Australia,aus,299646327.918311,ocnzl,nzl,New Zealand
+2018,oc,Oceania,occok,Cook Islands,cok,10994.000000000002,ocnzl,nzl,New Zealand
+2018,as,Asia,askor,South Korea,kor,47884197.1593057,ocpng,png,Papua New Guinea
+2018,as,Asia,asmys,Malaysia,mys,33872916.4168429,ocpng,png,Papua New Guinea
+2018,as,Asia,assgp,Singapore,sgp,70543797.1630636,ocpng,png,Papua New Guinea
+2018,as,Asia,astha,Thailand,tha,126610877.92597301,ocpng,png,Papua New Guinea
+2018,oc,Oceania,ocaus,Australia,aus,389423249.68290204,ocpng,png,Papua New Guinea
+2018,oc,Oceania,ocnzl,New Zealand,nzl,10057492.160861,ocpng,png,Papua New Guinea
+2018,oc,Oceania,octkl,Tokelau,tkl,5742.999999999999,ocwsm,wsm,Samoa
+2018,as,Asia,aschn,China,chn,610214982.954126,saarg,arg,Argentina
+2018,as,Asia,asind,India,ind,40715891.0695733,saarg,arg,Argentina
+2018,eu,Europe,eunld,Netherlands,nld,79758748.6806848,saarg,arg,Argentina
+2018,na,North America,nausa,United States,usa,722338618.5375779,saarg,arg,Argentina
+2018,sa,South America,sachl,Chile,chl,61952578.123880394,saarg,arg,Argentina
+2018,na,North America,nalca,Saint Lucia,lca,35195834,sabol,bol,Bolivia
+2018,na,North America,nausa,United States,usa,36716118.5948855,sabol,bol,Bolivia
+2018,af,Africa,afzaf,South Africa,zaf,63942364,sabra,bra,Brazil
+2018,as,Asia,aschn,China,chn,14342132785.820902,sabra,bra,Brazil
+2018,as,Asia,asind,India,ind,1143837121.55536,sabra,bra,Brazil
+2018,as,Asia,asmys,Malaysia,mys,26860387.383601002,sabra,bra,Brazil
+2018,as,Asia,assgp,Singapore,sgp,54928289.00000001,sabra,bra,Brazil
+2018,as,Asia,asxxb,Chinese Taipei,,117187960.67994499,sabra,bra,Brazil
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,629352,sabra,bra,Brazil
+2018,eu,Europe,euesp,Spain,esp,2010711543.60798,sabra,bra,Brazil
+2018,eu,Europe,eunor,Norway,nor,4550,sabra,bra,Brazil
+2018,eu,Europe,euprt,Portugal,prt,364224305.55105394,sabra,bra,Brazil
+2018,na,North America,nalca,Saint Lucia,lca,400092947.00000006,sabra,bra,Brazil
+2018,na,North America,napan,Panama,pan,181681851.99999997,sabra,bra,Brazil
+2018,na,North America,nausa,United States,usa,3108416467.5141897,sabra,bra,Brazil
+2018,sa,South America,sachl,Chile,chl,2071455125.74721,sabra,bra,Brazil
+2018,sa,South America,sacol,Colombia,col,29792648.999999996,sabra,bra,Brazil
+2018,sa,South America,saper,Peru,per,21990800.8872334,sabra,bra,Brazil
+2018,sa,South America,sapry,Paraguay,pry,5854.7184609674805,sabra,bra,Brazil
+2018,sa,South America,saury,Uruguay,ury,1241396055.9999998,sabra,bra,Brazil
+2018,af,Africa,afciv,Cote d'Ivoire,civ,101693407.08782901,sacol,col,Colombia
+2018,as,Asia,aschn,China,chn,3407525115.49109,sacol,col,Colombia
+2018,as,Asia,asind,India,ind,320982823.63235,sacol,col,Colombia
+2018,as,Asia,asjpn,Japan,jpn,1789202.69679525,sacol,col,Colombia
+2018,as,Asia,askor,South Korea,kor,65126466.85020921,sacol,col,Colombia
+2018,as,Asia,asmys,Malaysia,mys,96844752.2346091,sacol,col,Colombia
+2018,as,Asia,assgp,Singapore,sgp,122416913,sacol,col,Colombia
+2018,eu,Europe,euesp,Spain,esp,336656352.006465,sacol,col,Colombia
+2018,eu,Europe,eunld,Netherlands,nld,30621948.307284303,sacol,col,Colombia
+2018,na,North America,naabw,Aruba,abw,155308605,sacol,col,Colombia
+2018,na,North America,nabhs,Bahamas,bhs,353506435,sacol,col,Colombia
+2018,na,North America,nacan,Canada,can,139623869.379324,sacol,col,Colombia
+2018,na,North America,najam,Jamaica,jam,63418234.00000001,sacol,col,Colombia
+2018,na,North America,nalca,Saint Lucia,lca,797966169.0000001,sacol,col,Colombia
+2018,na,North America,namex,Mexico,mex,4598.62502322801,sacol,col,Colombia
+2018,na,North America,nanic,Nicaragua,nic,62378476.3212689,sacol,col,Colombia
+2018,na,North America,napan,Panama,pan,2675940668,sacol,col,Colombia
+2018,na,North America,natto,Trinidad and Tobago,tto,272572505,sacol,col,Colombia
+2018,na,North America,nausa,United States,usa,4300403359.68195,sacol,col,Colombia
+2018,sa,South America,sachl,Chile,chl,38048093.7328977,sacol,col,Colombia
+2018,sa,South America,saecu,Ecuador,ecu,216811387.50044698,sacol,col,Colombia
+2018,sa,South America,saper,Peru,per,174929386.255511,sacol,col,Colombia
+2018,sa,South America,saury,Uruguay,ury,19789973.1788921,sacol,col,Colombia
+2018,as,Asia,aschn,China,chn,481839389.154143,saecu,ecu,Ecuador
+2018,as,Asia,asind,India,ind,231772192.565525,saecu,ecu,Ecuador
+2018,as,Asia,asjpn,Japan,jpn,150499667.15908998,saecu,ecu,Ecuador
+2018,as,Asia,asmys,Malaysia,mys,17550147.423002303,saecu,ecu,Ecuador
+2018,eu,Europe,euest,Estonia,est,18438468,saecu,ecu,Ecuador
+2018,na,North America,nabhs,Bahamas,bhs,36801958,saecu,ecu,Ecuador
+2018,na,North America,najam,Jamaica,jam,20618332,saecu,ecu,Ecuador
+2018,na,North America,napan,Panama,pan,517758411,saecu,ecu,Ecuador
+2018,na,North America,nausa,United States,usa,4021976735.69421,saecu,ecu,Ecuador
+2018,sa,South America,sachl,Chile,chl,1170424876.97309,saecu,ecu,Ecuador
+2018,sa,South America,sacol,Colombia,col,2958.20415684548,saecu,ecu,Ecuador
+2018,sa,South America,saper,Peru,per,1299439405.79518,saecu,ecu,Ecuador
+2018,as,Asia,askor,South Korea,kor,35719163,saper,per,Peru
+2018,na,North America,nausa,United States,usa,15373609.1641497,saper,per,Peru
+2018,sa,South America,sachl,Chile,chl,87633596.0367796,saper,per,Peru
+2018,sa,South America,sacol,Colombia,col,3096.4536322531303,saper,per,Peru
+2018,as,Asia,aschn,China,chn,6016838445.3014,saven,ven,Venezuela
+2018,as,Asia,asind,India,ind,6404486806.69852,saven,ven,Venezuela
+2018,as,Asia,asmys,Malaysia,mys,237012315.69681898,saven,ven,Venezuela
+2018,eu,Europe,eublx,Belgium-Luxembourg,blx,161091799,saven,ven,Venezuela
+2018,eu,Europe,eudeu,Germany,deu,241034222.27492398,saven,ven,Venezuela
+2018,eu,Europe,euesp,Spain,esp,209324743.95761803,saven,ven,Venezuela
+2018,eu,Europe,eugbr,United Kingdom,gbr,39158672.40757,saven,ven,Venezuela
+2018,eu,Europe,euita,Italy,ita,24669838.886869,saven,ven,Venezuela
+2018,eu,Europe,euswe,Sweden,swe,304671224.049156,saven,ven,Venezuela
+2018,na,North America,nausa,United States,usa,9564893882.16171,saven,ven,Venezuela

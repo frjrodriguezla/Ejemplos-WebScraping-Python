@@ -1,0 +1,930 @@
+Year,Continent ID,Continent,Country ID,Country,ISO 3,Trade Value,id,id_3char,name
+2001,as,Asia,aschn,China,chn,629791710.4,afago,ago,Angola
+2001,as,Asia,asjpn,Japan,jpn,17424314.217,afago,ago,Angola
+2001,as,Asia,askor,South Korea,kor,191494996.44000003,afago,ago,Angola
+2001,as,Asia,astha,Thailand,tha,34656793.487,afago,ago,Angola
+2001,eu,Europe,eudeu,Germany,deu,47009224.592,afago,ago,Angola
+2001,eu,Europe,euesp,Spain,esp,100862752.96,afago,ago,Angola
+2001,eu,Europe,eufra,France,fra,579479036.29,afago,ago,Angola
+2001,eu,Europe,eugbr,United Kingdom,gbr,82777491.799,afago,ago,Angola
+2001,eu,Europe,euita,Italy,ita,41927229.336,afago,ago,Angola
+2001,eu,Europe,eunld,Netherlands,nld,87355231.902,afago,ago,Angola
+2001,eu,Europe,euprt,Portugal,prt,98674429.30800001,afago,ago,Angola
+2001,na,North America,nacan,Canada,can,22468935.441,afago,ago,Angola
+2001,na,North America,nausa,United States,usa,2757460684.6,afago,ago,Angola
+2001,sa,South America,sabra,Brazil,bra,133556383.71,afago,ago,Angola
+2001,af,Africa,afgha,Ghana,gha,5594645,afciv,civ,Cote d'Ivoire
+2001,eu,Europe,eugbr,United Kingdom,gbr,14044,afciv,civ,Cote d'Ivoire
+2001,na,North America,nausa,United States,usa,51657825.05899999,afciv,civ,Cote d'Ivoire
+2001,af,Africa,afner,Niger,ner,11135411,afcmr,cmr,Cameroon
+2001,as,Asia,aschn,China,chn,111891697.85999998,afcmr,cmr,Cameroon
+2001,as,Asia,asxxb,Chinese Taipei,,140251654,afcmr,cmr,Cameroon
+2001,eu,Europe,euesp,Spain,esp,192009034.46,afcmr,cmr,Cameroon
+2001,eu,Europe,eufra,France,fra,16529704.859000001,afcmr,cmr,Cameroon
+2001,eu,Europe,euita,Italy,ita,317314965.75,afcmr,cmr,Cameroon
+2001,na,North America,nacan,Canada,can,7018677.0785,afcmr,cmr,Cameroon
+2001,na,North America,nausa,United States,usa,37928270.622,afcmr,cmr,Cameroon
+2001,na,North America,nausa,United States,usa,110555463.47999999,afcod,cod,Democratic Republic of the Congo
+2001,af,Africa,afciv,Cote d'Ivoire,civ,11859826.699,afcog,cog,Republic of the Congo
+2001,as,Asia,aschn,China,chn,103581493.85,afcog,cog,Republic of the Congo
+2001,as,Asia,askor,South Korea,kor,337816071.91999996,afcog,cog,Republic of the Congo
+2001,as,Asia,assgp,Singapore,sgp,17182633.957,afcog,cog,Republic of the Congo
+2001,eu,Europe,eudeu,Germany,deu,123971623.04,afcog,cog,Republic of the Congo
+2001,eu,Europe,eufra,France,fra,40636341.121,afcog,cog,Republic of the Congo
+2001,eu,Europe,euita,Italy,ita,28472549.391000003,afcog,cog,Republic of the Congo
+2001,na,North America,nausa,United States,usa,352944089.78000003,afcog,cog,Republic of the Congo
+2001,sa,South America,sabra,Brazil,bra,59784577.62100001,afcog,cog,Republic of the Congo
+2001,as,Asia,asidn,Indonesia,idn,293190036.59999996,afdza,dza,Algeria
+2001,as,Asia,assau,Saudi Arabia,sau,16065249,afdza,dza,Algeria
+2001,as,Asia,astur,Turkey,tur,13935176.303,afdza,dza,Algeria
+2001,eu,Europe,euaut,Austria,aut,98612126.773,afdza,dza,Algeria
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,31178384.259,afdza,dza,Algeria
+2001,eu,Europe,euche,Switzerland,che,81695862.142,afdza,dza,Algeria
+2001,eu,Europe,eucze,Czechia,cze,44277154.202,afdza,dza,Algeria
+2001,eu,Europe,eudeu,Germany,deu,498405466.59999996,afdza,dza,Algeria
+2001,eu,Europe,euesp,Spain,esp,414935640.94,afdza,dza,Algeria
+2001,eu,Europe,eufra,France,fra,1008034166.1,afdza,dza,Algeria
+2001,eu,Europe,eugbr,United Kingdom,gbr,264398812.98000005,afdza,dza,Algeria
+2001,eu,Europe,euita,Italy,ita,456308414.08000004,afdza,dza,Algeria
+2001,eu,Europe,eumlt,Malta,mlt,459341,afdza,dza,Algeria
+2001,eu,Europe,eunld,Netherlands,nld,1014097259.0000001,afdza,dza,Algeria
+2001,eu,Europe,eunor,Norway,nor,33729901,afdza,dza,Algeria
+2001,eu,Europe,euprt,Portugal,prt,47916780.812,afdza,dza,Algeria
+2001,eu,Europe,eusmr,San Marino,smr,8268804,afdza,dza,Algeria
+2001,na,North America,nacan,Canada,can,638596564.4300001,afdza,dza,Algeria
+2001,na,North America,nausa,United States,usa,821444935.75,afdza,dza,Algeria
+2001,sa,South America,sabra,Brazil,bra,320754574.33000004,afdza,dza,Algeria
+2001,as,Asia,asare,United Arab Emirates,are,20360828.999999996,afegy,egy,Egypt
+2001,as,Asia,asind,India,ind,148872316,afegy,egy,Egypt
+2001,as,Asia,asisr,Israel,isr,101608035,afegy,egy,Egypt
+2001,as,Asia,asomn,Oman,omn,16745.837847,afegy,egy,Egypt
+2001,eu,Europe,eudeu,Germany,deu,3709984.9520999994,afegy,egy,Egypt
+2001,eu,Europe,euesp,Spain,esp,20252709.922,afegy,egy,Egypt
+2001,eu,Europe,eufra,France,fra,7501820,afegy,egy,Egypt
+2001,eu,Europe,eugbr,United Kingdom,gbr,101252579.82,afegy,egy,Egypt
+2001,eu,Europe,eugrc,Greece,grc,13177618.916,afegy,egy,Egypt
+2001,eu,Europe,euita,Italy,ita,407692008.6,afegy,egy,Egypt
+2001,eu,Europe,euprt,Portugal,prt,48670117.081999995,afegy,egy,Egypt
+2001,eu,Europe,eurou,Romania,rou,10206387.545,afegy,egy,Egypt
+2001,eu,Europe,euswe,Sweden,swe,37787083.263000004,afegy,egy,Egypt
+2001,na,North America,nausa,United States,usa,51275620.580000006,afegy,egy,Egypt
+2001,sa,South America,saury,Uruguay,ury,22487263.517,afegy,egy,Egypt
+2001,af,Africa,afzaf,South Africa,zaf,61425802.582,afgab,gab,Gabon
+2001,as,Asia,aschn,China,chn,22464130.702999998,afgab,gab,Gabon
+2001,as,Asia,askor,South Korea,kor,104172459.96000001,afgab,gab,Gabon
+2001,eu,Europe,euche,Switzerland,che,95855925.99999999,afgab,gab,Gabon
+2001,eu,Europe,euesp,Spain,esp,28806213.262000002,afgab,gab,Gabon
+2001,eu,Europe,eufra,France,fra,195103059.07000002,afgab,gab,Gabon
+2001,eu,Europe,euisl,Iceland,isl,50147835.99999999,afgab,gab,Gabon
+2001,eu,Europe,eunld,Netherlands,nld,6063700,afgab,gab,Gabon
+2001,eu,Europe,euprt,Portugal,prt,22672250.376,afgab,gab,Gabon
+2001,na,North America,natto,Trinidad and Tobago,tto,60300164.798999995,afgab,gab,Gabon
+2001,na,North America,nausa,United States,usa,1481664657,afgab,gab,Gabon
+2001,sa,South America,sabra,Brazil,bra,62301836.991,afgab,gab,Gabon
+2001,eu,Europe,eugbr,United Kingdom,gbr,403169.00000000006,afgha,gha,Ghana
+2001,as,Asia,askor,South Korea,kor,27815427.641000003,afgin,gin,Guinea
+2001,as,Asia,astha,Thailand,tha,37016219.69,afgnb,gnb,Guinea-Bissau
+2001,sa,South America,saury,Uruguay,ury,20359194.279,afgnb,gnb,Guinea-Bissau
+2001,af,Africa,afcmr,Cameroon,cmr,35883559.479,afgnq,gnq,Equatorial Guinea
+2001,as,Asia,aschn,China,chn,375257858.34000003,afgnq,gnq,Equatorial Guinea
+2001,eu,Europe,euesp,Spain,esp,511297021.97,afgnq,gnq,Equatorial Guinea
+2001,eu,Europe,eufra,France,fra,25687864.058000002,afgnq,gnq,Equatorial Guinea
+2001,eu,Europe,eunld,Netherlands,nld,7635881.786900001,afgnq,gnq,Equatorial Guinea
+2001,na,North America,nacan,Canada,can,62018635.153,afgnq,gnq,Equatorial Guinea
+2001,na,North America,nausa,United States,usa,350176066.42,afgnq,gnq,Equatorial Guinea
+2001,sa,South America,sachl,Chile,chl,4960672.6588,afgnq,gnq,Equatorial Guinea
+2001,sa,South America,saury,Uruguay,ury,9638603.1731,afgnq,gnq,Equatorial Guinea
+2001,af,Africa,aftun,Tunisia,tun,174921034.98,aflby,lby,Libya
+2001,as,Asia,aschn,China,chn,45654355.658,aflby,lby,Libya
+2001,as,Asia,astur,Turkey,tur,730361506.9000001,aflby,lby,Libya
+2001,eu,Europe,euaut,Austria,aut,221674275.53,aflby,lby,Libya
+2001,eu,Europe,euche,Switzerland,che,409450246.3,aflby,lby,Libya
+2001,eu,Europe,eucze,Czechia,cze,87458233.716,aflby,lby,Libya
+2001,eu,Europe,eudeu,Germany,deu,1692611052.9,aflby,lby,Libya
+2001,eu,Europe,euesp,Spain,esp,1406612202.6,aflby,lby,Libya
+2001,eu,Europe,eufra,France,fra,522819599.34999996,aflby,lby,Libya
+2001,eu,Europe,eugbr,United Kingdom,gbr,18122915.596,aflby,lby,Libya
+2001,eu,Europe,eugrc,Greece,grc,202280015.31,aflby,lby,Libya
+2001,eu,Europe,euhrv,Croatia,hrv,58206862.125,aflby,lby,Libya
+2001,eu,Europe,euita,Italy,ita,3455359298.2000003,aflby,lby,Libya
+2001,eu,Europe,eunld,Netherlands,nld,5241004.2554,aflby,lby,Libya
+2001,eu,Europe,euprt,Portugal,prt,15777879.991,aflby,lby,Libya
+2001,na,North America,nausa,United States,usa,7442836.2237,afmar,mar,Morocco
+2001,as,Asia,askor,South Korea,kor,44127733.864,afner,ner,Niger
+2001,eu,Europe,eufra,France,fra,20828758.330000002,afner,ner,Niger
+2001,af,Africa,afciv,Cote d'Ivoire,civ,407671233.42,afnga,nga,Nigeria
+2001,af,Africa,afcmr,Cameroon,cmr,235226708.13000003,afnga,nga,Nigeria
+2001,af,Africa,afgab,Gabon,gab,1023840.7588,afnga,nga,Nigeria
+2001,af,Africa,afgha,Ghana,gha,258924762.96999997,afnga,nga,Nigeria
+2001,af,Africa,afsen,Senegal,sen,168068819.27,afnga,nga,Nigeria
+2001,af,Africa,afzaf,South Africa,zaf,231983976.89000002,afnga,nga,Nigeria
+2001,as,Asia,aschn,China,chn,140947183.23,afnga,nga,Nigeria
+2001,as,Asia,asidn,Indonesia,idn,444727626.92,afnga,nga,Nigeria
+2001,as,Asia,asind,India,ind,2083096311,afnga,nga,Nigeria
+2001,as,Asia,asjpn,Japan,jpn,160057127.07000002,afnga,nga,Nigeria
+2001,as,Asia,askor,South Korea,kor,27679142.624,afnga,nga,Nigeria
+2001,as,Asia,asprk,North Korea,prk,25758277,afnga,nga,Nigeria
+2001,as,Asia,astha,Thailand,tha,18539803.97,afnga,nga,Nigeria
+2001,as,Asia,asxxb,Chinese Taipei,,225238476.00000003,afnga,nga,Nigeria
+2001,eu,Europe,euaut,Austria,aut,244336394.5,afnga,nga,Nigeria
+2001,eu,Europe,euche,Switzerland,che,263576840.31,afnga,nga,Nigeria
+2001,eu,Europe,eudeu,Germany,deu,532484685.28,afnga,nga,Nigeria
+2001,eu,Europe,euesp,Spain,esp,1381874737.9,afnga,nga,Nigeria
+2001,eu,Europe,eufra,France,fra,963626812.97,afnga,nga,Nigeria
+2001,eu,Europe,eugbr,United Kingdom,gbr,29660309.241000004,afnga,nga,Nigeria
+2001,eu,Europe,euita,Italy,ita,303862069.9,afnga,nga,Nigeria
+2001,eu,Europe,eunld,Netherlands,nld,269680102.55,afnga,nga,Nigeria
+2001,eu,Europe,euprt,Portugal,prt,631825682.77,afnga,nga,Nigeria
+2001,eu,Europe,euswe,Sweden,swe,52318617.979,afnga,nga,Nigeria
+2001,na,North America,nacan,Canada,can,113201710.99000001,afnga,nga,Nigeria
+2001,na,North America,nausa,United States,usa,7391372764.4,afnga,nga,Nigeria
+2001,sa,South America,saarg,Argentina,arg,100371518.03999999,afnga,nga,Nigeria
+2001,sa,South America,sabra,Brazil,bra,1083200006.8999999,afnga,nga,Nigeria
+2001,sa,South America,sachl,Chile,chl,113916882.89000002,afnga,nga,Nigeria
+2001,sa,South America,sacol,Colombia,col,7219341.3308999995,afnga,nga,Nigeria
+2001,sa,South America,saper,Peru,per,106138273.7,afnga,nga,Nigeria
+2001,sa,South America,saury,Uruguay,ury,32386017.207999997,afnga,nga,Nigeria
+2001,sa,South America,saven,Venezuela,ven,135213843.28,afnga,nga,Nigeria
+2001,as,Asia,aschn,China,chn,822317567.99,afsdn,sdn,Sudan
+2001,as,Asia,asidn,Indonesia,idn,29503239.594,afsdn,sdn,Sudan
+2001,as,Asia,asjpn,Japan,jpn,250628029.38000003,afsdn,sdn,Sudan
+2001,as,Asia,askor,South Korea,kor,80593864.292,afsdn,sdn,Sudan
+2001,eu,Europe,eufra,France,fra,23670008.316,afsdn,sdn,Sudan
+2001,eu,Europe,euita,Italy,ita,10502176.033,afsdn,sdn,Sudan
+2001,af,Africa,afgin,Guinea,gin,1056723,afsen,sen,Senegal
+2001,af,Africa,afgmb,Gambia,gmb,1180659.8601000002,afsen,sen,Senegal
+2001,af,Africa,afgnb,Guinea-Bissau,gnb,754437,afsen,sen,Senegal
+2001,af,Africa,aflbr,Liberia,lbr,242194.00000000003,afsen,sen,Senegal
+2001,af,Africa,afmli,Mali,mli,4042428,afsen,sen,Senegal
+2001,af,Africa,afmrt,Mauritania,mrt,8950,afsen,sen,Senegal
+2001,af,Africa,afsle,Sierra Leone,sle,47482,afsen,sen,Senegal
+2001,as,Asia,astur,Turkey,tur,11903523.798,aftun,tun,Tunisia
+2001,eu,Europe,eudeu,Germany,deu,17894338.599999998,aftun,tun,Tunisia
+2001,eu,Europe,euesp,Spain,esp,133071719.59000002,aftun,tun,Tunisia
+2001,eu,Europe,eufra,France,fra,64984838.086,aftun,tun,Tunisia
+2001,eu,Europe,eugbr,United Kingdom,gbr,11517537,aftun,tun,Tunisia
+2001,eu,Europe,euita,Italy,ita,171929081.37,aftun,tun,Tunisia
+2001,eu,Europe,eunld,Netherlands,nld,4602593.4558,aftun,tun,Tunisia
+2001,af,Africa,afago,Angola,ago,21434,afzaf,zaf,South Africa
+2001,af,Africa,afcod,Democratic Republic of the Congo,cod,27468.000000000004,afzaf,zaf,South Africa
+2001,af,Africa,afcog,Republic of the Congo,cog,2948,afzaf,zaf,South Africa
+2001,af,Africa,afgha,Ghana,gha,1378,afzaf,zaf,South Africa
+2001,af,Africa,afken,Kenya,ken,1057,afzaf,zaf,South Africa
+2001,af,Africa,afmdg,Madagascar,mdg,5969.1718475,afzaf,zaf,South Africa
+2001,af,Africa,afmoz,Mozambique,moz,16200,afzaf,zaf,South Africa
+2001,af,Africa,afmwi,Malawi,mwi,3368.699419,afzaf,zaf,South Africa
+2001,af,Africa,afshn,Saint Helena,shn,6199,afzaf,zaf,South Africa
+2001,af,Africa,aftza,Tanzania,tza,1070,afzaf,zaf,South Africa
+2001,af,Africa,afzmb,Zambia,zmb,74315.274556,afzaf,zaf,South Africa
+2001,af,Africa,afzwe,Zimbabwe,zwe,24748.200650000002,afzaf,zaf,South Africa
+2001,as,Asia,askor,South Korea,kor,5341229.674600001,afzaf,zaf,South Africa
+2001,as,Asia,assgp,Singapore,sgp,1464,afzaf,zaf,South Africa
+2001,as,Asia,astha,Thailand,tha,1521.9999999999998,afzaf,zaf,South Africa
+2001,eu,Europe,eufra,France,fra,2958.9999999999995,afzaf,zaf,South Africa
+2001,eu,Europe,eugbr,United Kingdom,gbr,1484,afzaf,zaf,South Africa
+2001,na,North America,nausa,United States,usa,32051630,afzaf,zaf,South Africa
+2001,sa,South America,saarg,Argentina,arg,45808334.964,afzaf,zaf,South Africa
+2001,af,Africa,afzaf,South Africa,zaf,119365,afzmb,zmb,Zambia
+2001,eu,Europe,euesp,Spain,esp,799983.23825,asafg,afg,Afghanistan
+2001,af,Africa,afken,Kenya,ken,344915938.59000003,asare,are,United Arab Emirates
+2001,af,Africa,afmdg,Madagascar,mdg,43114830.956,asare,are,United Arab Emirates
+2001,af,Africa,afmrt,Mauritania,mrt,5762.8323835,asare,are,United Arab Emirates
+2001,as,Asia,asbgd,Bangladesh,bgd,17121.054221,asare,are,United Arab Emirates
+2001,as,Asia,aschn,China,chn,120952411.7,asare,are,United Arab Emirates
+2001,as,Asia,asjpn,Japan,jpn,8501633136.499999,asare,are,United Arab Emirates
+2001,as,Asia,askor,South Korea,kor,2986945067.3,asare,are,United Arab Emirates
+2001,as,Asia,aslka,Sri Lanka,lka,24121665.884999998,asare,are,United Arab Emirates
+2001,as,Asia,asmys,Malaysia,mys,52983308.338,asare,are,United Arab Emirates
+2001,as,Asia,asomn,Oman,omn,1235241.9744000002,asare,are,United Arab Emirates
+2001,as,Asia,asphl,Philippines,phl,502007056.27,asare,are,United Arab Emirates
+2001,as,Asia,assgp,Singapore,sgp,620548255.39,asare,are,United Arab Emirates
+2001,as,Asia,astha,Thailand,tha,1234035492.2,asare,are,United Arab Emirates
+2001,eu,Europe,eufra,France,fra,39534390.578,asare,are,United Arab Emirates
+2001,na,North America,nacan,Canada,can,8775996.3388,asare,are,United Arab Emirates
+2001,na,North America,nausa,United States,usa,136539741.17999998,asare,are,United Arab Emirates
+2001,oc,Oceania,ocaus,Australia,aus,389440727.51,asare,are,United Arab Emirates
+2001,oc,Oceania,ocnzl,New Zealand,nzl,94093859.40599999,asare,are,United Arab Emirates
+2001,as,Asia,asgeo,Georgia,geo,9033.999999999998,asarm,arm,Armenia
+2001,af,Africa,afmar,Morocco,mar,24282481,asaze,aze,Azerbaijan
+2001,as,Asia,asgeo,Georgia,geo,481610.79984999995,asaze,aze,Azerbaijan
+2001,as,Asia,asisr,Israel,isr,153891920,asaze,aze,Azerbaijan
+2001,as,Asia,asjpn,Japan,jpn,2985678.3124,asaze,aze,Azerbaijan
+2001,as,Asia,astur,Turkey,tur,33352,asaze,aze,Azerbaijan
+2001,eu,Europe,euaut,Austria,aut,37760547.75,asaze,aze,Azerbaijan
+2001,eu,Europe,eubgr,Bulgaria,bgr,31514,asaze,aze,Azerbaijan
+2001,eu,Europe,euche,Switzerland,che,7269781.999999999,asaze,aze,Azerbaijan
+2001,eu,Europe,eucze,Czechia,cze,95194529.08500001,asaze,aze,Azerbaijan
+2001,eu,Europe,eudeu,Germany,deu,201754433.76,asaze,aze,Azerbaijan
+2001,eu,Europe,euesp,Spain,esp,95418995,asaze,aze,Azerbaijan
+2001,eu,Europe,eufra,France,fra,65606776.65700001,asaze,aze,Azerbaijan
+2001,eu,Europe,eugbr,United Kingdom,gbr,28082023.999999996,asaze,aze,Azerbaijan
+2001,eu,Europe,eugrc,Greece,grc,7556614.735699999,asaze,aze,Azerbaijan
+2001,eu,Europe,euhrv,Croatia,hrv,18646026,asaze,aze,Azerbaijan
+2001,eu,Europe,euisl,Iceland,isl,85853599,asaze,aze,Azerbaijan
+2001,eu,Europe,euita,Italy,ita,550166934.39,asaze,aze,Azerbaijan
+2001,eu,Europe,eurus,Russia,rus,13738.290102,asaze,aze,Azerbaijan
+2001,as,Asia,asjpn,Japan,jpn,11720134.899999999,asbhr,bhr,Bahrain
+2001,as,Asia,aschn,China,chn,146159637.32000002,asbrn,brn,Brunei
+2001,as,Asia,asidn,Indonesia,idn,36108294.287999995,asbrn,brn,Brunei
+2001,as,Asia,asind,India,ind,50088973,asbrn,brn,Brunei
+2001,as,Asia,asjpn,Japan,jpn,231034219.94,asbrn,brn,Brunei
+2001,as,Asia,askor,South Korea,kor,239727537.20999998,asbrn,brn,Brunei
+2001,as,Asia,assgp,Singapore,sgp,20700707.294,asbrn,brn,Brunei
+2001,as,Asia,astha,Thailand,tha,387341321.21999997,asbrn,brn,Brunei
+2001,na,North America,nausa,United States,usa,195248253.01,asbrn,brn,Brunei
+2001,oc,Oceania,ocaus,Australia,aus,185509422.22,asbrn,brn,Brunei
+2001,oc,Oceania,ocnzl,New Zealand,nzl,21898247.681,asbrn,brn,Brunei
+2001,af,Africa,afnga,Nigeria,nga,4233.4970769,aschn,chn,China
+2001,as,Asia,asidn,Indonesia,idn,229261827.2,aschn,chn,China
+2001,as,Asia,asind,India,ind,10945508,aschn,chn,China
+2001,as,Asia,asjpn,Japan,jpn,708664342.33,aschn,chn,China
+2001,as,Asia,askor,South Korea,kor,47937862.669,aschn,chn,China
+2001,as,Asia,asmys,Malaysia,mys,12332722.361,aschn,chn,China
+2001,as,Asia,asprk,North Korea,prk,108756927,aschn,chn,China
+2001,as,Asia,assgp,Singapore,sgp,24440135.912,aschn,chn,China
+2001,as,Asia,astha,Thailand,tha,13352062.327,aschn,chn,China
+2001,eu,Europe,eurus,Russia,rus,12190.834017000001,aschn,chn,China
+2001,na,North America,nacan,Canada,can,3392.0575579,aschn,chn,China
+2001,na,North America,nausa,United States,usa,131376915.85,aschn,chn,China
+2001,oc,Oceania,ocaus,Australia,aus,15538612.171999998,aschn,chn,China
+2001,eu,Europe,eupol,Poland,pol,9985027.8041,ascyp,cyp,Cyprus
+2001,as,Asia,asarm,Armenia,arm,76657.08861600001,asgeo,geo,Georgia
+2001,as,Asia,astur,Turkey,tur,5007307,asgeo,geo,Georgia
+2001,eu,Europe,euche,Switzerland,che,3768011,asgeo,geo,Georgia
+2001,eu,Europe,euesp,Spain,esp,90362858.108,asgeo,geo,Georgia
+2001,eu,Europe,eugbr,United Kingdom,gbr,575358.0000000001,asgeo,geo,Georgia
+2001,eu,Europe,eugrc,Greece,grc,8370.4161852,asgeo,geo,Georgia
+2001,as,Asia,asmmr,Burma,mmr,1103.2708234,ashkg,hkg,Hong Kong
+2001,as,Asia,aschn,China,chn,455513189.26,asidn,idn,Indonesia
+2001,as,Asia,ashkg,Hong Kong,hkg,9719332,asidn,idn,Indonesia
+2001,as,Asia,asind,India,ind,71176518,asidn,idn,Indonesia
+2001,as,Asia,asjpn,Japan,jpn,1663503387.6,asidn,idn,Indonesia
+2001,as,Asia,askor,South Korea,kor,1104994483.3,asidn,idn,Indonesia
+2001,as,Asia,asmys,Malaysia,mys,67235927.828,asidn,idn,Indonesia
+2001,as,Asia,asphl,Philippines,phl,31032062.745,asidn,idn,Indonesia
+2001,as,Asia,assgp,Singapore,sgp,479038012.00000006,asidn,idn,Indonesia
+2001,as,Asia,astha,Thailand,tha,33986420.662,asidn,idn,Indonesia
+2001,as,Asia,asvnm,Vietnam,vnm,13485195,asidn,idn,Indonesia
+2001,as,Asia,asxxb,Chinese Taipei,,187153595,asidn,idn,Indonesia
+2001,na,North America,nausa,United States,usa,363360538.36999995,asidn,idn,Indonesia
+2001,oc,Oceania,ocaus,Australia,aus,874924804.5200001,asidn,idn,Indonesia
+2001,oc,Oceania,ocnzl,New Zealand,nzl,30078742.849000003,asidn,idn,Indonesia
+2001,as,Asia,asomn,Oman,omn,7503.7172208,asind,ind,India
+2001,eu,Europe,eugbr,United Kingdom,gbr,31883998.577999998,asind,ind,India
+2001,eu,Europe,eusvn,Slovenia,svn,6981,asind,ind,India
+2001,af,Africa,afmar,Morocco,mar,244748814.83,asirn,irn,Iran
+2001,af,Africa,afzaf,South Africa,zaf,1030322950.9999999,asirn,irn,Iran
+2001,as,Asia,aschn,China,chn,1828240588.7,asirn,irn,Iran
+2001,as,Asia,asidn,Indonesia,idn,85476102.67,asirn,irn,Iran
+2001,as,Asia,asjpn,Japan,jpn,4760671345.599999,asirn,irn,Iran
+2001,as,Asia,askor,South Korea,kor,1750566434.6000001,asirn,irn,Iran
+2001,as,Asia,aslka,Sri Lanka,lka,204746965.70999998,asirn,irn,Iran
+2001,as,Asia,asmys,Malaysia,mys,95975165.37799999,asirn,irn,Iran
+2001,as,Asia,asphl,Philippines,phl,694694758.9100001,asirn,irn,Iran
+2001,as,Asia,assgp,Singapore,sgp,58995735.510000005,asirn,irn,Iran
+2001,as,Asia,astur,Turkey,tur,707255281.55,asirn,irn,Iran
+2001,as,Asia,asxxb,Chinese Taipei,,5121886709,asirn,irn,Iran
+2001,eu,Europe,euche,Switzerland,che,65596399.416,asirn,irn,Iran
+2001,eu,Europe,eudeu,Germany,deu,44793151.559,asirn,irn,Iran
+2001,eu,Europe,euesp,Spain,esp,611764548.58,asirn,irn,Iran
+2001,eu,Europe,eufra,France,fra,637292940.7800001,asirn,irn,Iran
+2001,eu,Europe,eugrc,Greece,grc,843608482.79,asirn,irn,Iran
+2001,eu,Europe,euita,Italy,ita,1827463556.2,asirn,irn,Iran
+2001,eu,Europe,eunld,Netherlands,nld,192433946.15,asirn,irn,Iran
+2001,eu,Europe,euprt,Portugal,prt,72690476.948,asirn,irn,Iran
+2001,eu,Europe,euswe,Sweden,swe,495499085.68,asirn,irn,Iran
+2001,oc,Oceania,ocnzl,New Zealand,nzl,10371378.513,asirn,irn,Iran
+2001,af,Africa,afmar,Morocco,mar,363988934.91999996,asirq,irq,Iraq
+2001,af,Africa,aftun,Tunisia,tun,11551705.104999999,asirq,irq,Iraq
+2001,af,Africa,afzaf,South Africa,zaf,63807937.00000001,asirq,irq,Iraq
+2001,as,Asia,aschn,China,chn,64409574.341,asirq,irq,Iraq
+2001,as,Asia,asjor,Jordan,jor,491998891.23999995,asirq,irq,Iraq
+2001,as,Asia,asjpn,Japan,jpn,120345092.98,asirq,irq,Iraq
+2001,as,Asia,askor,South Korea,kor,24639172.851999998,asirq,irq,Iraq
+2001,as,Asia,assgp,Singapore,sgp,45473313.344000004,asirq,irq,Iraq
+2001,as,Asia,astha,Thailand,tha,69095762.62200001,asirq,irq,Iraq
+2001,eu,Europe,euaut,Austria,aut,152233070.67000002,asirq,irq,Iraq
+2001,eu,Europe,euesp,Spain,esp,388817269.15000004,asirq,irq,Iraq
+2001,eu,Europe,eufra,France,fra,787599682.62,asirq,irq,Iraq
+2001,eu,Europe,eugrc,Greece,grc,205981161.74,asirq,irq,Iraq
+2001,eu,Europe,euhrv,Croatia,hrv,65267766.81599999,asirq,irq,Iraq
+2001,eu,Europe,euita,Italy,ita,540052286.9499999,asirq,irq,Iraq
+2001,eu,Europe,eunld,Netherlands,nld,707835999.8100001,asirq,irq,Iraq
+2001,eu,Europe,euprt,Portugal,prt,46746507.345,asirq,irq,Iraq
+2001,eu,Europe,eurou,Romania,rou,46744137.34,asirq,irq,Iraq
+2001,eu,Europe,euyug,Yugoslavia,yug,12180404.059999999,asirq,irq,Iraq
+2001,na,North America,nacan,Canada,can,494567900.51000005,asirq,irq,Iraq
+2001,na,North America,nausa,United States,usa,5502209591.2,asirq,irq,Iraq
+2001,sa,South America,sabra,Brazil,bra,22353907.251000002,asirq,irq,Iraq
+2001,as,Asia,aslbn,Lebanon,lbn,6000,asisr,isr,Israel
+2001,eu,Europe,eurou,Romania,rou,127000,asisr,isr,Israel
+2001,as,Asia,askor,South Korea,kor,13541723,asjpn,jpn,Japan
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,16184.104352999999,asjpn,jpn,Japan
+2001,eu,Europe,eufra,France,fra,3138.4997277999996,asjpn,jpn,Japan
+2001,oc,Oceania,ocaus,Australia,aus,10303.090407000002,asjpn,jpn,Japan
+2001,as,Asia,asare,United Arab Emirates,are,301026500,askaz,kaz,Kazakhstan
+2001,as,Asia,aschn,China,chn,100453684.38,askaz,kaz,Kazakhstan
+2001,as,Asia,assgp,Singapore,sgp,25511900,askaz,kaz,Kazakhstan
+2001,as,Asia,astur,Turkey,tur,14902900,askaz,kaz,Kazakhstan
+2001,eu,Europe,euaut,Austria,aut,71705826.73500001,askaz,kaz,Kazakhstan
+2001,eu,Europe,euche,Switzerland,che,58825600,askaz,kaz,Kazakhstan
+2001,eu,Europe,eucze,Czechia,cze,75091612.334,askaz,kaz,Kazakhstan
+2001,eu,Europe,eudeu,Germany,deu,449508333.09999996,askaz,kaz,Kazakhstan
+2001,eu,Europe,euesp,Spain,esp,9627814.2105,askaz,kaz,Kazakhstan
+2001,eu,Europe,eufin,Finland,fin,91744263.863,askaz,kaz,Kazakhstan
+2001,eu,Europe,eufra,France,fra,210339936.2,askaz,kaz,Kazakhstan
+2001,eu,Europe,eugbr,United Kingdom,gbr,185304300,askaz,kaz,Kazakhstan
+2001,eu,Europe,eugrc,Greece,grc,36270434.776,askaz,kaz,Kazakhstan
+2001,eu,Europe,euita,Italy,ita,335049054.40000004,askaz,kaz,Kazakhstan
+2001,eu,Europe,eunld,Netherlands,nld,3031.2929774,askaz,kaz,Kazakhstan
+2001,eu,Europe,eupol,Poland,pol,97922697.579,askaz,kaz,Kazakhstan
+2001,eu,Europe,eurou,Romania,rou,110961818.16,askaz,kaz,Kazakhstan
+2001,eu,Europe,eurus,Russia,rus,504987258.26000005,askaz,kaz,Kazakhstan
+2001,eu,Europe,eusvk,Slovakia,svk,2949173.4983,askaz,kaz,Kazakhstan
+2001,eu,Europe,euukr,Ukraine,ukr,480410750.15,askaz,kaz,Kazakhstan
+2001,eu,Europe,euyug,Yugoslavia,yug,5785825.8245,askaz,kaz,Kazakhstan
+2001,na,North America,nabmu,Bermuda,bmu,1221211600,askaz,kaz,Kazakhstan
+2001,na,North America,napan,Panama,pan,10063500,askaz,kaz,Kazakhstan
+2001,na,North America,nausa,United States,usa,7683700,askaz,kaz,Kazakhstan
+2001,na,North America,navgb,British Virgin Islands,vgb,440747800,askaz,kaz,Kazakhstan
+2001,as,Asia,asjpn,Japan,jpn,23312828.16,askor,kor,South Korea
+2001,as,Asia,asmmr,Burma,mmr,17904076.85,askor,kor,South Korea
+2001,af,Africa,afzaf,South Africa,zaf,73295219,askwt,kwt,Kuwait
+2001,as,Asia,aschn,China,chn,236346629.05999997,askwt,kwt,Kuwait
+2001,as,Asia,asjpn,Japan,jpn,2717440730.2000003,askwt,kwt,Kuwait
+2001,as,Asia,askor,South Korea,kor,1333186224.3,askwt,kwt,Kuwait
+2001,as,Asia,assgp,Singapore,sgp,861017003.56,askwt,kwt,Kuwait
+2001,as,Asia,astha,Thailand,tha,208996623.96,askwt,kwt,Kuwait
+2001,eu,Europe,eudeu,Germany,deu,17835495.154,askwt,kwt,Kuwait
+2001,eu,Europe,eufra,France,fra,182206325.15999997,askwt,kwt,Kuwait
+2001,eu,Europe,euita,Italy,ita,90590855.626,askwt,kwt,Kuwait
+2001,eu,Europe,eunld,Netherlands,nld,847778759.46,askwt,kwt,Kuwait
+2001,na,North America,nausa,United States,usa,1645546870.3999999,askwt,kwt,Kuwait
+2001,oc,Oceania,ocnzl,New Zealand,nzl,72837711.047,askwt,kwt,Kuwait
+2001,as,Asia,assyr,Syria,syr,19158,aslbn,lbn,Lebanon
+2001,eu,Europe,eufra,France,fra,4145,aslbn,lbn,Lebanon
+2001,as,Asia,askor,South Korea,kor,26520641.499,asmmr,mmr,Burma
+2001,as,Asia,astha,Thailand,tha,6249390.3642,asmmr,mmr,Burma
+2001,as,Asia,aschn,China,chn,1708377.7524999997,asmng,mng,Mongolia
+2001,as,Asia,asbrn,Brunei,brn,7056179.009199999,asmys,mys,Malaysia
+2001,as,Asia,aschn,China,chn,166090949.48,asmys,mys,Malaysia
+2001,as,Asia,asidn,Indonesia,idn,183728694.31,asmys,mys,Malaysia
+2001,as,Asia,asind,India,ind,319999852,asmys,mys,Malaysia
+2001,as,Asia,asjpn,Japan,jpn,291541614.2,asmys,mys,Malaysia
+2001,as,Asia,askor,South Korea,kor,492643142.19,asmys,mys,Malaysia
+2001,as,Asia,aslka,Sri Lanka,lka,82064475.49900001,asmys,mys,Malaysia
+2001,as,Asia,asmmr,Burma,mmr,91749813.99900001,asmys,mys,Malaysia
+2001,as,Asia,asphl,Philippines,phl,102004663.95,asmys,mys,Malaysia
+2001,as,Asia,assgp,Singapore,sgp,44242265.102,asmys,mys,Malaysia
+2001,as,Asia,astha,Thailand,tha,294987016.65999997,asmys,mys,Malaysia
+2001,as,Asia,asxxb,Chinese Taipei,,45199879,asmys,mys,Malaysia
+2001,eu,Europe,euche,Switzerland,che,43729829.00000001,asmys,mys,Malaysia
+2001,na,North America,nausa,United States,usa,135878960.22,asmys,mys,Malaysia
+2001,oc,Oceania,ocaus,Australia,aus,344707828.41,asmys,mys,Malaysia
+2001,oc,Oceania,ocnzl,New Zealand,nzl,132682552.86,asmys,mys,Malaysia
+2001,sa,South America,sachl,Chile,chl,40786253.69100001,asmys,mys,Malaysia
+2001,af,Africa,afzaf,South Africa,zaf,20337942,asomn,omn,Oman
+2001,as,Asia,aschn,China,chn,1413678596.8,asomn,omn,Oman
+2001,as,Asia,asjpn,Japan,jpn,1933816545,asomn,omn,Oman
+2001,as,Asia,askor,South Korea,kor,1156572925,asomn,omn,Oman
+2001,as,Asia,asmys,Malaysia,mys,317149123.94,asomn,omn,Oman
+2001,as,Asia,asphl,Philippines,phl,226551103.44,asomn,omn,Oman
+2001,as,Asia,assgp,Singapore,sgp,458718824.51000005,asomn,omn,Oman
+2001,as,Asia,astha,Thailand,tha,1124345982.8999999,asomn,omn,Oman
+2001,na,North America,nausa,United States,usa,145392306.02,asomn,omn,Oman
+2001,oc,Oceania,ocnzl,New Zealand,nzl,111906882.83,asomn,omn,Oman
+2001,as,Asia,asidn,Indonesia,idn,95208973.744,aspak,pak,Pakistan
+2001,as,Asia,assgp,Singapore,sgp,5564531.9811,aspak,pak,Pakistan
+2001,as,Asia,astha,Thailand,tha,5244305.729800001,aspak,pak,Pakistan
+2001,oc,Oceania,ocaus,Australia,aus,5917328.1602,asphl,phl,Philippines
+2001,af,Africa,afmdg,Madagascar,mdg,24998703.047,asqat,qat,Qatar
+2001,af,Africa,afzaf,South Africa,zaf,23220130,asqat,qat,Qatar
+2001,as,Asia,aschn,China,chn,228948030.39,asqat,qat,Qatar
+2001,as,Asia,asind,India,ind,71380320,asqat,qat,Qatar
+2001,as,Asia,asjpn,Japan,jpn,3676275068.2000003,asqat,qat,Qatar
+2001,as,Asia,askor,South Korea,kor,930263784.32,asqat,qat,Qatar
+2001,as,Asia,asmys,Malaysia,mys,36031156.841000006,asqat,qat,Qatar
+2001,as,Asia,asphl,Philippines,phl,136405257.34,asqat,qat,Qatar
+2001,as,Asia,assgp,Singapore,sgp,603229705.92,asqat,qat,Qatar
+2001,as,Asia,astha,Thailand,tha,224687283.85,asqat,qat,Qatar
+2001,eu,Europe,eunld,Netherlands,nld,3415199,asqat,qat,Qatar
+2001,na,North America,nausa,United States,usa,12918010.826,asqat,qat,Qatar
+2001,oc,Oceania,ocaus,Australia,aus,116294693.66,asqat,qat,Qatar
+2001,oc,Oceania,ocnzl,New Zealand,nzl,41602859.416,asqat,qat,Qatar
+2001,af,Africa,afken,Kenya,ken,13577991.763,assau,sau,Saudi Arabia
+2001,af,Africa,afmar,Morocco,mar,335823463.59,assau,sau,Saudi Arabia
+2001,af,Africa,aftza,Tanzania,tza,172510.49235,assau,sau,Saudi Arabia
+2001,af,Africa,afzaf,South Africa,zaf,1576346368,assau,sau,Saudi Arabia
+2001,as,Asia,asbgd,Bangladesh,bgd,52593463.769,assau,sau,Saudi Arabia
+2001,as,Asia,aschn,China,chn,1435409703.5,assau,sau,Saudi Arabia
+2001,as,Asia,asidn,Indonesia,idn,915431637.1700001,assau,sau,Saudi Arabia
+2001,as,Asia,asjpn,Japan,jpn,8563329666.8,assau,sau,Saudi Arabia
+2001,as,Asia,askor,South Korea,kor,5972490975.700001,assau,sau,Saudi Arabia
+2001,as,Asia,aslka,Sri Lanka,lka,14854401.590000002,assau,sau,Saudi Arabia
+2001,as,Asia,asmys,Malaysia,mys,430493627.6600001,assau,sau,Saudi Arabia
+2001,as,Asia,asomn,Oman,omn,764466.41696,assau,sau,Saudi Arabia
+2001,as,Asia,asphl,Philippines,phl,742556782.8499999,assau,sau,Saudi Arabia
+2001,as,Asia,assgp,Singapore,sgp,2304317017.9,assau,sau,Saudi Arabia
+2001,as,Asia,astha,Thailand,tha,809064370.9100001,assau,sau,Saudi Arabia
+2001,as,Asia,astur,Turkey,tur,540679645.71,assau,sau,Saudi Arabia
+2001,as,Asia,asxxb,Chinese Taipei,,21930869799.000004,assau,sau,Saudi Arabia
+2001,eu,Europe,euaut,Austria,aut,98409708.95,assau,sau,Saudi Arabia
+2001,eu,Europe,eudeu,Germany,deu,652186572.76,assau,sau,Saudi Arabia
+2001,eu,Europe,euesp,Spain,esp,1001934392.9999999,assau,sau,Saudi Arabia
+2001,eu,Europe,eufra,France,fra,1916947857.8999999,assau,sau,Saudi Arabia
+2001,eu,Europe,eugbr,United Kingdom,gbr,155034530.6,assau,sau,Saudi Arabia
+2001,eu,Europe,eugrc,Greece,grc,920308829.89,assau,sau,Saudi Arabia
+2001,eu,Europe,euita,Italy,ita,1595896619.6999998,assau,sau,Saudi Arabia
+2001,eu,Europe,eunld,Netherlands,nld,1881257461.6000001,assau,sau,Saudi Arabia
+2001,eu,Europe,euprt,Portugal,prt,314541789.95,assau,sau,Saudi Arabia
+2001,eu,Europe,euswe,Sweden,swe,119100289.13,assau,sau,Saudi Arabia
+2001,na,North America,nacan,Canada,can,387629401.76,assau,sau,Saudi Arabia
+2001,na,North America,napan,Panama,pan,7702667.7195,assau,sau,Saudi Arabia
+2001,na,North America,nausa,United States,usa,13082380357,assau,sau,Saudi Arabia
+2001,oc,Oceania,ocaus,Australia,aus,282318777.40000004,assau,sau,Saudi Arabia
+2001,oc,Oceania,ocnzl,New Zealand,nzl,74757699.058,assau,sau,Saudi Arabia
+2001,sa,South America,sabra,Brazil,bra,526050627.18999994,assau,sau,Saudi Arabia
+2001,af,Africa,afken,Kenya,ken,13318771.338,assgp,sgp,Singapore
+2001,as,Asia,asbgd,Bangladesh,bgd,1484435.9804999998,assgp,sgp,Singapore
+2001,as,Asia,asidn,Indonesia,idn,18049196.838,assgp,sgp,Singapore
+2001,as,Asia,asmmr,Burma,mmr,11075131.582,assgp,sgp,Singapore
+2001,as,Asia,asomn,Oman,omn,9590.7008276,assgp,sgp,Singapore
+2001,eu,Europe,euhrv,Croatia,hrv,2578.234914,assgp,sgp,Singapore
+2001,na,North America,nausa,United States,usa,3446.5146357,assgp,sgp,Singapore
+2001,oc,Oceania,ocaus,Australia,aus,7883485.451899999,assgp,sgp,Singapore
+2001,as,Asia,ascyp,Cyprus,cyp,113703569.25,assyr,syr,Syria
+2001,as,Asia,astur,Turkey,tur,384646681.64000005,assyr,syr,Syria
+2001,eu,Europe,euaut,Austria,aut,163056273.04999998,assyr,syr,Syria
+2001,eu,Europe,eucze,Czechia,cze,8849323.031200001,assyr,syr,Syria
+2001,eu,Europe,eudeu,Germany,deu,1049877399.3,assyr,syr,Syria
+2001,eu,Europe,euesp,Spain,esp,204455685.65,assyr,syr,Syria
+2001,eu,Europe,eufra,France,fra,538401408.28,assyr,syr,Syria
+2001,eu,Europe,eugbr,United Kingdom,gbr,72240443.559,assyr,syr,Syria
+2001,eu,Europe,euhrv,Croatia,hrv,143333536.02,assyr,syr,Syria
+2001,eu,Europe,euita,Italy,ita,857565429.51,assyr,syr,Syria
+2001,eu,Europe,eunld,Netherlands,nld,30930505.932,assyr,syr,Syria
+2001,eu,Europe,euprt,Portugal,prt,12903473.734000001,assyr,syr,Syria
+2001,eu,Europe,eurou,Romania,rou,11281078.970999999,assyr,syr,Syria
+2001,eu,Europe,euukr,Ukraine,ukr,12331523.000000002,assyr,syr,Syria
+2001,eu,Europe,euyug,Yugoslavia,yug,8700221.1638,assyr,syr,Syria
+2001,na,North America,nacan,Canada,can,22740007.56,assyr,syr,Syria
+2001,as,Asia,aschn,China,chn,35562303.14700001,astha,tha,Thailand
+2001,as,Asia,asidn,Indonesia,idn,77101989.701,astha,tha,Thailand
+2001,as,Asia,asjpn,Japan,jpn,25710194.417999998,astha,tha,Thailand
+2001,as,Asia,aslao,Laos,lao,280399,astha,tha,Thailand
+2001,as,Asia,asmmr,Burma,mmr,53088,astha,tha,Thailand
+2001,as,Asia,assgp,Singapore,sgp,3882467,astha,tha,Thailand
+2001,eu,Europe,euisl,Iceland,isl,4608397,astha,tha,Thailand
+2001,na,North America,nausa,United States,usa,44779012.565,astha,tha,Thailand
+2001,oc,Oceania,ocaus,Australia,aus,90017358.84899999,astha,tha,Thailand
+2001,oc,Oceania,ocnzl,New Zealand,nzl,10447789,astha,tha,Thailand
+2001,as,Asia,asgeo,Georgia,geo,192412,astkm,tkm,Turkmenistan
+2001,eu,Europe,euaut,Austria,aut,15090127.512,astkm,tkm,Turkmenistan
+2001,eu,Europe,eudnk,Denmark,dnk,1550814.7206,astkm,tkm,Turkmenistan
+2001,eu,Europe,eurou,Romania,rou,45019783.56600001,astkm,tkm,Turkmenistan
+2001,as,Asia,askaz,Kazakhstan,kaz,57740.007415,astur,tur,Turkey
+2001,as,Asia,askor,South Korea,kor,46543755.868,astur,tur,Turkey
+2001,eu,Europe,eugrc,Greece,grc,13898963.066999998,astur,tur,Turkey
+2001,eu,Europe,euita,Italy,ita,828449.2895,astur,tur,Turkey
+2001,na,North America,nacan,Canada,can,813197.92879,astur,tur,Turkey
+2001,na,North America,nausa,United States,usa,2928434,astur,tur,Turkey
+2001,as,Asia,aschn,China,chn,621735954.3299999,asvnm,vnm,Vietnam
+2001,as,Asia,asidn,Indonesia,idn,120284891.33,asvnm,vnm,Vietnam
+2001,as,Asia,asind,India,ind,17545638,asvnm,vnm,Vietnam
+2001,as,Asia,asjpn,Japan,jpn,384697585.13,asvnm,vnm,Vietnam
+2001,as,Asia,askhm,Cambodia,khm,13484.735950999999,asvnm,vnm,Vietnam
+2001,as,Asia,askor,South Korea,kor,12399056.178000001,asvnm,vnm,Vietnam
+2001,as,Asia,asmys,Malaysia,mys,122314646.99000001,asvnm,vnm,Vietnam
+2001,as,Asia,assgp,Singapore,sgp,639856518.02,asvnm,vnm,Vietnam
+2001,as,Asia,astha,Thailand,tha,37799157.461,asvnm,vnm,Vietnam
+2001,as,Asia,asxxb,Chinese Taipei,,3322564.0000000005,asvnm,vnm,Vietnam
+2001,na,North America,nausa,United States,usa,203014365.82999998,asvnm,vnm,Vietnam
+2001,oc,Oceania,ocaus,Australia,aus,920821045.4200001,asvnm,vnm,Vietnam
+2001,as,Asia,aschn,China,chn,395763173.93000007,asyem,yem,Yemen
+2001,as,Asia,asjpn,Japan,jpn,44371602.73,asyem,yem,Yemen
+2001,as,Asia,askor,South Korea,kor,356142988.73,asyem,yem,Yemen
+2001,as,Asia,asmys,Malaysia,mys,259390028.88000003,asyem,yem,Yemen
+2001,as,Asia,asphl,Philippines,phl,19125099.336000003,asyem,yem,Yemen
+2001,as,Asia,assgp,Singapore,sgp,270899747.46,asyem,yem,Yemen
+2001,as,Asia,astha,Thailand,tha,587202661.48,asyem,yem,Yemen
+2001,eu,Europe,eufra,France,fra,22665167.542,asyem,yem,Yemen
+2001,na,North America,nausa,United States,usa,188414252.47,asyem,yem,Yemen
+2001,sa,South America,sabra,Brazil,bra,31417774.513,asyem,yem,Yemen
+2001,eu,Europe,euyug,Yugoslavia,yug,36326,eualb,alb,Albania
+2001,eu,Europe,eudeu,Germany,deu,7675743.8719,euaut,aut,Austria
+2001,eu,Europe,eusvn,Slovenia,svn,2537.5562077000004,euaut,aut,Austria
+2001,eu,Europe,eunld,Netherlands,nld,926324.2376199999,eubih,bih,Bosnia and Herzegovina
+2001,eu,Europe,euyug,Yugoslavia,yug,15611.128416,eubih,bih,Bosnia and Herzegovina
+2001,eu,Europe,eupol,Poland,pol,70519100,eublr,blr,Belarus
+2001,af,Africa,afciv,Cote d'Ivoire,civ,3196,eublx,blx,Belgium-Luxembourg
+2001,af,Africa,afmdg,Madagascar,mdg,31426.698949999998,eublx,blx,Belgium-Luxembourg
+2001,as,Asia,asaze,Azerbaijan,aze,10255,eublx,blx,Belgium-Luxembourg
+2001,as,Asia,askaz,Kazakhstan,kaz,4753,eublx,blx,Belgium-Luxembourg
+2001,eu,Europe,eufra,France,fra,57649.489459,eublx,blx,Belgium-Luxembourg
+2001,eu,Europe,eugib,Gibraltar,gib,4270225,eublx,blx,Belgium-Luxembourg
+2001,eu,Europe,eunld,Netherlands,nld,8592763.7412,eublx,blx,Belgium-Luxembourg
+2001,eu,Europe,euswe,Sweden,swe,1656.9999999999998,eublx,blx,Belgium-Luxembourg
+2001,af,Africa,afzaf,South Africa,zaf,7570525,euche,che,Switzerland
+2001,eu,Europe,eucze,Czechia,cze,1142.8610016,euche,che,Switzerland
+2001,eu,Europe,eudeu,Germany,deu,2668,euche,che,Switzerland
+2001,eu,Europe,euswe,Sweden,swe,1545,euche,che,Switzerland
+2001,sa,South America,sabra,Brazil,bra,26612548.133,euche,che,Switzerland
+2001,eu,Europe,euand,Andorra,and,5358,eucze,cze,Czech Republic
+2001,eu,Europe,euaut,Austria,aut,8674346.986499999,eucze,cze,Czech Republic
+2001,eu,Europe,eupol,Poland,pol,2492778.2785,eucze,cze,Czech Republic
+2001,eu,Europe,eusvk,Slovakia,svk,6699633.1192,eucze,cze,Czech Republic
+2001,af,Africa,afnga,Nigeria,nga,437849.73641,eudeu,deu,Germany
+2001,as,Asia,aschn,China,chn,24415705.803,eudeu,deu,Germany
+2001,eu,Europe,eualb,Albania,alb,2084.2617852999997,eudeu,deu,Germany
+2001,eu,Europe,euaut,Austria,aut,490000,eudeu,deu,Germany
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,11291167.848000001,eudeu,deu,Germany
+2001,eu,Europe,euche,Switzerland,che,14321768.947999999,eudeu,deu,Germany
+2001,eu,Europe,eucze,Czechia,cze,3639.0563660000003,eudeu,deu,Germany
+2001,eu,Europe,euest,Estonia,est,8000,eudeu,deu,Germany
+2001,eu,Europe,eufra,France,fra,9695810.0161,eudeu,deu,Germany
+2001,eu,Europe,eugbr,United Kingdom,gbr,11849859.009,eudeu,deu,Germany
+2001,eu,Europe,eugrc,Greece,grc,60589.36457,eudeu,deu,Germany
+2001,eu,Europe,euita,Italy,ita,2954.9083336000003,eudeu,deu,Germany
+2001,eu,Europe,eultu,Lithuania,ltu,1000,eudeu,deu,Germany
+2001,eu,Europe,eulva,Latvia,lva,5000,eudeu,deu,Germany
+2001,eu,Europe,eunld,Netherlands,nld,56733431.339999996,eudeu,deu,Germany
+2001,eu,Europe,eunor,Norway,nor,4379918.1400999995,eudeu,deu,Germany
+2001,eu,Europe,eupol,Poland,pol,21804708.781,eudeu,deu,Germany
+2001,eu,Europe,euyug,Yugoslavia,yug,4266.384204700001,eudeu,deu,Germany
+2001,sa,South America,sabra,Brazil,bra,16443500.45,eudeu,deu,Germany
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,34114953,eudnk,dnk,Denmark
+2001,eu,Europe,eudeu,Germany,deu,213125747.16,eudnk,dnk,Denmark
+2001,eu,Europe,eufin,Finland,fin,392451128.86999995,eudnk,dnk,Denmark
+2001,eu,Europe,eufra,France,fra,138636434.03,eudnk,dnk,Denmark
+2001,eu,Europe,eugbr,United Kingdom,gbr,281729309.71999997,eudnk,dnk,Denmark
+2001,eu,Europe,euirl,Ireland,irl,28642244,eudnk,dnk,Denmark
+2001,eu,Europe,eunld,Netherlands,nld,284109770.45,eudnk,dnk,Denmark
+2001,eu,Europe,eunor,Norway,nor,11302,eudnk,dnk,Denmark
+2001,eu,Europe,euprt,Portugal,prt,15739064.715,eudnk,dnk,Denmark
+2001,eu,Europe,euswe,Sweden,swe,511106914.28999996,eudnk,dnk,Denmark
+2001,na,North America,nacan,Canada,can,84882861.93699999,eudnk,dnk,Denmark
+2001,na,North America,nausa,United States,usa,119603933,eudnk,dnk,Denmark
+2001,eu,Europe,eufra,France,fra,26508.206691,euesp,esp,Spain
+2001,eu,Europe,eugbr,United Kingdom,gbr,355406.19056,euesp,esp,Spain
+2001,eu,Europe,eugrc,Greece,grc,16914.881954999997,euesp,esp,Spain
+2001,eu,Europe,euprt,Portugal,prt,15526.413237,euesp,esp,Spain
+2001,na,North America,nacub,Cuba,cub,3467.5447603,euesp,esp,Spain
+2001,na,North America,nausa,United States,usa,2586.6189196,euesp,esp,Spain
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,16667213.632,euest,est,Estonia
+2001,eu,Europe,eudnk,Denmark,dnk,10463040.691,euest,est,Estonia
+2001,eu,Europe,euesp,Spain,esp,20503888.573,euest,est,Estonia
+2001,eu,Europe,eufra,France,fra,23873560.534,euest,est,Estonia
+2001,eu,Europe,eulva,Latvia,lva,2425.0623250999997,euest,est,Estonia
+2001,eu,Europe,eunld,Netherlands,nld,13264854.586,euest,est,Estonia
+2001,eu,Europe,eupol,Poland,pol,66874.895815,euest,est,Estonia
+2001,eu,Europe,euswe,Sweden,swe,18535012.224999998,euest,est,Estonia
+2001,na,North America,nacan,Canada,can,5331394.4695999995,eufin,fin,Finland
+2001,af,Africa,afciv,Cote d'Ivoire,civ,722673.62826,eufra,fra,France
+2001,af,Africa,afdza,Algeria,dza,28836,eufra,fra,France
+2001,af,Africa,afgab,Gabon,gab,7257.5568985,eufra,fra,France
+2001,af,Africa,afgmb,Gambia,gmb,4545.7004939,eufra,fra,France
+2001,af,Africa,afmdg,Madagascar,mdg,176888.3495,eufra,fra,France
+2001,eu,Europe,euaut,Austria,aut,194419.71725,eufra,fra,France
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,2783845,eufra,fra,France
+2001,eu,Europe,eucze,Czechia,cze,2127.9140782,eufra,fra,France
+2001,eu,Europe,eudeu,Germany,deu,2778.2970261,eufra,fra,France
+2001,eu,Europe,eugbr,United Kingdom,gbr,2043865.7039,eufra,fra,France
+2001,eu,Europe,euita,Italy,ita,1794.2288862999999,eufra,fra,France
+2001,na,North America,nacan,Canada,can,3867586.212,eufra,fra,France
+2001,sa,South America,saven,Venezuela,ven,43564.825607,eufra,fra,France
+2001,af,Africa,afciv,Cote d'Ivoire,civ,222433.52830000003,eugbr,gbr,United Kingdom
+2001,af,Africa,afken,Kenya,ken,15272772.102,eugbr,gbr,United Kingdom
+2001,af,Africa,afnga,Nigeria,nga,30763.808268,eugbr,gbr,United Kingdom
+2001,af,Africa,afzmb,Zambia,zmb,2199.5890976,eugbr,gbr,United Kingdom
+2001,as,Asia,asbrn,Brunei,brn,6234.4325932,eugbr,gbr,United Kingdom
+2001,as,Asia,aschn,China,chn,69102908.662,eugbr,gbr,United Kingdom
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,47071860.45,eugbr,gbr,United Kingdom
+2001,eu,Europe,eudeu,Germany,deu,2884768636.6,eugbr,gbr,United Kingdom
+2001,eu,Europe,eudnk,Denmark,dnk,14192344,eugbr,gbr,United Kingdom
+2001,eu,Europe,euesp,Spain,esp,380517022.57,eugbr,gbr,United Kingdom
+2001,eu,Europe,eufin,Finland,fin,200243126.72,eugbr,gbr,United Kingdom
+2001,eu,Europe,eufra,France,fra,2079215903.0000002,eugbr,gbr,United Kingdom
+2001,eu,Europe,euirl,Ireland,irl,10597385.468999999,eugbr,gbr,United Kingdom
+2001,eu,Europe,euita,Italy,ita,187473898.79999998,eugbr,gbr,United Kingdom
+2001,eu,Europe,eunld,Netherlands,nld,2450263038.6,eugbr,gbr,United Kingdom
+2001,eu,Europe,eunor,Norway,nor,74113384.974,eugbr,gbr,United Kingdom
+2001,eu,Europe,euprt,Portugal,prt,114803877.32999998,eugbr,gbr,United Kingdom
+2001,eu,Europe,euswe,Sweden,swe,263479157.81999996,eugbr,gbr,United Kingdom
+2001,na,North America,nacan,Canada,can,2383092686.4,eugbr,gbr,United Kingdom
+2001,na,North America,nausa,United States,usa,2648797650.1000004,eugbr,gbr,United Kingdom
+2001,oc,Oceania,ocaus,Australia,aus,1819.3213416,eugbr,gbr,United Kingdom
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,3685222.5132,eugib,gib,Gibraltar
+2001,eu,Europe,eugbr,United Kingdom,gbr,1309.4813426,eugrc,grc,Greece
+2001,eu,Europe,eumkd,North Macedonia,mkd,5466618.1252999995,eugrc,grc,Greece
+2001,eu,Europe,eurus,Russia,rus,13907,eugrc,grc,Greece
+2001,eu,Europe,euukr,Ukraine,ukr,1012728.9999999999,eugrc,grc,Greece
+2001,eu,Europe,euyug,Yugoslavia,yug,4905538.410999999,euhrv,hrv,Croatia
+2001,eu,Europe,eucze,Czechia,cze,30670.669966999998,euhun,hun,Hungary
+2001,eu,Europe,euyug,Yugoslavia,yug,1974162.1379,euhun,hun,Hungary
+2001,na,North America,nausa,United States,usa,13212213,euirl,irl,Ireland
+2001,af,Africa,afdza,Algeria,dza,14866618,euita,ita,Italy
+2001,af,Africa,afzaf,South Africa,zaf,40778492.99999999,euita,ita,Italy
+2001,eu,Europe,eualb,Albania,alb,1466.6993636000002,euita,ita,Italy
+2001,eu,Europe,eudeu,Germany,deu,4655609.4651999995,euita,ita,Italy
+2001,eu,Europe,euesp,Spain,esp,10711296.022,euita,ita,Italy
+2001,eu,Europe,eufra,France,fra,6633.462316900001,euita,ita,Italy
+2001,eu,Europe,eugbr,United Kingdom,gbr,3064075.9999999995,euita,ita,Italy
+2001,na,North America,nacan,Canada,can,5372140.635399999,euita,ita,Italy
+2001,na,North America,nacub,Cuba,cub,1089.7761225,euita,ita,Italy
+2001,oc,Oceania,ocaus,Australia,aus,102887.02239,euita,ita,Italy
+2001,eu,Europe,eucze,Czechia,cze,7842001.999999999,eultu,ltu,Lithuania
+2001,eu,Europe,eufra,France,fra,15018690.713,eultu,ltu,Lithuania
+2001,eu,Europe,eupol,Poland,pol,59267139.70900001,eultu,ltu,Lithuania
+2001,eu,Europe,euswe,Sweden,swe,30651433.830000002,eultu,ltu,Lithuania
+2001,eu,Europe,eudnk,Denmark,dnk,5463246.556600001,eulva,lva,Latvia
+2001,eu,Europe,eufin,Finland,fin,1358411.3016,eulva,lva,Latvia
+2001,eu,Europe,eufra,France,fra,90238199.271,eulva,lva,Latvia
+2001,eu,Europe,eugbr,United Kingdom,gbr,2107047,eulva,lva,Latvia
+2001,eu,Europe,eultu,Lithuania,ltu,193227.77514,eulva,lva,Latvia
+2001,eu,Europe,euswe,Sweden,swe,65528548.778,eulva,lva,Latvia
+2001,af,Africa,afnga,Nigeria,nga,2907.2736201999996,eunld,nld,Netherlands
+2001,af,Africa,aftza,Tanzania,tza,1057.8317841,eunld,nld,Netherlands
+2001,as,Asia,asomn,Oman,omn,1261843.8098,eunld,nld,Netherlands
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,4550686676.599999,eunld,nld,Netherlands
+2001,eu,Europe,eudeu,Germany,deu,10099351.218000002,eunld,nld,Netherlands
+2001,eu,Europe,eugbr,United Kingdom,gbr,1427313.2005999999,eunld,nld,Netherlands
+2001,eu,Europe,eunor,Norway,nor,7695054.5704,eunld,nld,Netherlands
+2001,na,North America,nausa,United States,usa,9640240.9532,eunld,nld,Netherlands
+2001,as,Asia,aschn,China,chn,324639296.95,eunor,nor,Norway
+2001,as,Asia,askor,South Korea,kor,65784396.668,eunor,nor,Norway
+2001,as,Asia,assgp,Singapore,sgp,14618528.999999998,eunor,nor,Norway
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,576892434.73,eunor,nor,Norway
+2001,eu,Europe,eudeu,Germany,deu,3206092878.9999995,eunor,nor,Norway
+2001,eu,Europe,eudnk,Denmark,dnk,545973604.62,eunor,nor,Norway
+2001,eu,Europe,euesp,Spain,esp,8075036,eunor,nor,Norway
+2001,eu,Europe,eufin,Finland,fin,355068855.04,eunor,nor,Norway
+2001,eu,Europe,eufra,France,fra,3132311294.3,eunor,nor,Norway
+2001,eu,Europe,eugbr,United Kingdom,gbr,5628034519.7,eunor,nor,Norway
+2001,eu,Europe,euirl,Ireland,irl,545440669.03,eunor,nor,Norway
+2001,eu,Europe,euita,Italy,ita,405409512.79,eunor,nor,Norway
+2001,eu,Europe,eunld,Netherlands,nld,2556887279.5,eunor,nor,Norway
+2001,eu,Europe,euprt,Portugal,prt,125558265.88,eunor,nor,Norway
+2001,eu,Europe,euswe,Sweden,swe,1595963203.7,eunor,nor,Norway
+2001,na,North America,nabhs,Bahamas,bhs,58083426,eunor,nor,Norway
+2001,na,North America,nacan,Canada,can,2047482182.3,eunor,nor,Norway
+2001,na,North America,nausa,United States,usa,2646431203.6,eunor,nor,Norway
+2001,sa,South America,sacol,Colombia,col,17339457.72,eunor,nor,Norway
+2001,eu,Europe,eudeu,Germany,deu,21524000,eupol,pol,Poland
+2001,eu,Europe,eufin,Finland,fin,5716631.5882,eupol,pol,Poland
+2001,eu,Europe,eunld,Netherlands,nld,20934000,eupol,pol,Poland
+2001,eu,Europe,euswe,Sweden,swe,28785202.398000002,eupol,pol,Poland
+2001,af,Africa,afegy,Egypt,egy,47558971,eurus,rus,Russia
+2001,af,Africa,aflbr,Liberia,lbr,9722905,eurus,rus,Russia
+2001,af,Africa,afmar,Morocco,mar,123407187.99000001,eurus,rus,Russia
+2001,as,Asia,aschn,China,chn,255625133.6,eurus,rus,Russia
+2001,as,Asia,ascyp,Cyprus,cyp,90207943.00400001,eurus,rus,Russia
+2001,as,Asia,asgeo,Georgia,geo,37274,eurus,rus,Russia
+2001,as,Asia,ashkg,Hong Kong,hkg,39704542,eurus,rus,Russia
+2001,as,Asia,asisr,Israel,isr,218939259,eurus,rus,Russia
+2001,as,Asia,asjpn,Japan,jpn,41646073.679,eurus,rus,Russia
+2001,as,Asia,askaz,Kazakhstan,kaz,236625778.08,eurus,rus,Russia
+2001,as,Asia,askor,South Korea,kor,398557456.40000004,eurus,rus,Russia
+2001,as,Asia,aslbn,Lebanon,lbn,526065,eurus,rus,Russia
+2001,as,Asia,asmng,Mongolia,mng,664739.52021,eurus,rus,Russia
+2001,as,Asia,astur,Turkey,tur,503261673.5,eurus,rus,Russia
+2001,eu,Europe,euaut,Austria,aut,142849045.95,eurus,rus,Russia
+2001,eu,Europe,eubgr,Bulgaria,bgr,11570732,eurus,rus,Russia
+2001,eu,Europe,eubih,Bosnia and Herzegovina,bih,20613766,eurus,rus,Russia
+2001,eu,Europe,eublr,Belarus,blr,1245694012.5,eurus,rus,Russia
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,218558117.66,eurus,rus,Russia
+2001,eu,Europe,euche,Switzerland,che,666804255,eurus,rus,Russia
+2001,eu,Europe,eucze,Czechia,cze,614669346.3399999,eurus,rus,Russia
+2001,eu,Europe,eudeu,Germany,deu,3795266942.2,eurus,rus,Russia
+2001,eu,Europe,eudnk,Denmark,dnk,14910377.091,eurus,rus,Russia
+2001,eu,Europe,euesp,Spain,esp,593928326.23,eurus,rus,Russia
+2001,eu,Europe,euest,Estonia,est,119011183.83,eurus,rus,Russia
+2001,eu,Europe,eufin,Finland,fin,699994229.9399999,eurus,rus,Russia
+2001,eu,Europe,eufra,France,fra,882052445.31,eurus,rus,Russia
+2001,eu,Europe,eugbr,United Kingdom,gbr,400080162.01,eurus,rus,Russia
+2001,eu,Europe,eugib,Gibraltar,gib,131417863.00000001,eurus,rus,Russia
+2001,eu,Europe,eugrc,Greece,grc,703895312.68,eurus,rus,Russia
+2001,eu,Europe,euhrv,Croatia,hrv,366576816.06,eurus,rus,Russia
+2001,eu,Europe,euhun,Hungary,hun,953117552,eurus,rus,Russia
+2001,eu,Europe,euirl,Ireland,irl,1870207.9999999998,eurus,rus,Russia
+2001,eu,Europe,euita,Italy,ita,2588261414.7000003,eurus,rus,Russia
+2001,eu,Europe,eultu,Lithuania,ltu,997033954.7,eurus,rus,Russia
+2001,eu,Europe,eulva,Latvia,lva,3517682.2553000003,eurus,rus,Russia
+2001,eu,Europe,eumkd,North Macedonia,mkd,103396165.92,eurus,rus,Russia
+2001,eu,Europe,eunld,Netherlands,nld,1168482986.1999998,eurus,rus,Russia
+2001,eu,Europe,eunor,Norway,nor,54329155.978999995,eurus,rus,Russia
+2001,eu,Europe,eupol,Poland,pol,2785866410.9,eurus,rus,Russia
+2001,eu,Europe,euprt,Portugal,prt,195916232.07999998,eurus,rus,Russia
+2001,eu,Europe,eurou,Romania,rou,438803468.43,eurus,rus,Russia
+2001,eu,Europe,eusvk,Slovakia,svk,865652677.3200002,eurus,rus,Russia
+2001,eu,Europe,euswe,Sweden,swe,32604069.79,eurus,rus,Russia
+2001,eu,Europe,euukr,Ukraine,ukr,1359290092.2,eurus,rus,Russia
+2001,eu,Europe,euyug,Yugoslavia,yug,121311462.84,eurus,rus,Russia
+2001,na,North America,nabhs,Bahamas,bhs,2748039,eurus,rus,Russia
+2001,na,North America,nabmu,Bermuda,bmu,117327279.00000001,eurus,rus,Russia
+2001,na,North America,nacan,Canada,can,21062323.068,eurus,rus,Russia
+2001,na,North America,napan,Panama,pan,666477,eurus,rus,Russia
+2001,na,North America,nausa,United States,usa,13902245,eurus,rus,Russia
+2001,na,North America,navgb,British Virgin Islands,vgb,2324516310,eurus,rus,Russia
+2001,eu,Europe,euaut,Austria,aut,861845.20409,eusvk,svk,Slovakia
+2001,eu,Europe,eupol,Poland,pol,2341741.3384000002,eusvk,svk,Slovakia
+2001,eu,Europe,euhrv,Croatia,hrv,166377.96274,eusvn,svn,Slovenia
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,232182.58234999998,euswe,swe,Sweden
+2001,eu,Europe,eufin,Finland,fin,2534694.7005,euswe,swe,Sweden
+2001,eu,Europe,eunor,Norway,nor,4846,euswe,swe,Sweden
+2001,na,North America,nacan,Canada,can,3565665.7476999997,euswe,swe,Sweden
+2001,as,Asia,ascyp,Cyprus,cyp,8320038.876299999,euukr,ukr,Ukraine
+2001,eu,Europe,eudeu,Germany,deu,54180008.345,euukr,ukr,Ukraine
+2001,eu,Europe,euesp,Spain,esp,62255995.962,euukr,ukr,Ukraine
+2001,eu,Europe,eugbr,United Kingdom,gbr,1136889,euukr,ukr,Ukraine
+2001,eu,Europe,euita,Italy,ita,19845336.062999997,euukr,ukr,Ukraine
+2001,eu,Europe,eupol,Poland,pol,12820363.320999999,euukr,ukr,Ukraine
+2001,eu,Europe,eurou,Romania,rou,2024928.1130999997,euukr,ukr,Ukraine
+2001,eu,Europe,eubih,Bosnia and Herzegovina,bih,8302.999999999998,euyug,yug,Yugoslavia
+2001,eu,Europe,euhun,Hungary,hun,420571.99999999994,euyug,yug,Yugoslavia
+2001,sa,South America,sacol,Colombia,col,9138957.0361,naabw,abw,Aruba
+2001,na,North America,naslv,El Salvador,slv,9841420.0299,naant,ant,Netherlands Antilles
+2001,sa,South America,saven,Venezuela,ven,2875981.6440999997,naant,ant,Netherlands Antilles
+2001,na,North America,natto,Trinidad and Tobago,tto,9179677.9112,nabrb,brb,Barbados
+2001,as,Asia,askor,South Korea,kor,30375835.931999996,nacan,can,Canada
+2001,na,North America,nausa,United States,usa,10390628587.000002,nacan,can,Canada
+2001,oc,Oceania,ocaus,Australia,aus,2048.2538374,nacan,can,Canada
+2001,na,North America,nanic,Nicaragua,nic,1686.4827025,nacri,cri,Costa Rica
+2001,sa,South America,sabra,Brazil,bra,1469703.6612,nacym,cym,Cayman Islands
+2001,na,North America,nacri,Costa Rica,cri,16830,nagtm,gtm,Guatemala
+2001,na,North America,naslv,El Salvador,slv,59550.178681000005,nagtm,gtm,Guatemala
+2001,na,North America,nausa,United States,usa,100683960.29,nagtm,gtm,Guatemala
+2001,na,North America,nanic,Nicaragua,nic,65500,nahnd,hnd,Honduras
+2001,na,North America,nausa,United States,usa,9487836.747799998,nalca,lca,Saint Lucia
+2001,af,Africa,afciv,Cote d'Ivoire,civ,44224960.019,namex,mex,Mexico
+2001,as,Asia,asind,India,ind,136224945,namex,mex,Mexico
+2001,as,Asia,asisr,Israel,isr,24378889,namex,mex,Mexico
+2001,as,Asia,asjpn,Japan,jpn,148980663.40999997,namex,mex,Mexico
+2001,eu,Europe,euesp,Spain,esp,1056859462.4999999,namex,mex,Mexico
+2001,eu,Europe,eufra,France,fra,5647325.087100001,namex,mex,Mexico
+2001,eu,Europe,eugbr,United Kingdom,gbr,117361543.79,namex,mex,Mexico
+2001,eu,Europe,euita,Italy,ita,15955698.109000001,namex,mex,Mexico
+2001,eu,Europe,euprt,Portugal,prt,90261508.571,namex,mex,Mexico
+2001,na,North America,naant,Netherlands Antilles,ant,820304468,namex,mex,Mexico
+2001,na,North America,nacan,Canada,can,194125632.67,namex,mex,Mexico
+2001,na,North America,nacri,Costa Rica,cri,8175788.903899999,namex,mex,Mexico
+2001,na,North America,nadom,Dominican Republic,dom,198617214.84,namex,mex,Mexico
+2001,na,North America,najam,Jamaica,jam,80185355.91499999,namex,mex,Mexico
+2001,na,North America,nanic,Nicaragua,nic,43398101.668000005,namex,mex,Mexico
+2001,na,North America,naslv,El Salvador,slv,49799368.403,namex,mex,Mexico
+2001,na,North America,nausa,United States,usa,8908509570.3,namex,mex,Mexico
+2001,as,Asia,asidn,Indonesia,idn,22568995.044999998,nanic,nic,Nicaragua
+2001,na,North America,nagtm,Guatemala,gtm,8201.3871471,nanic,nic,Nicaragua
+2001,as,Asia,askor,South Korea,kor,8387001.378700001,napan,pan,Panama
+2001,na,North America,nausa,United States,usa,2562.9155015,napan,pan,Panama
+2001,na,North America,nacan,Canada,can,2303451.8055,natto,tto,Trinidad and Tobago
+2001,na,North America,nausa,United States,usa,486636511.27,natto,tto,Trinidad and Tobago
+2001,af,Africa,afnga,Nigeria,nga,4297.540950299999,nausa,usa,United States
+2001,as,Asia,asbrn,Brunei,brn,13034.082245999998,nausa,usa,United States
+2001,as,Asia,asisr,Israel,isr,123997.99999999999,nausa,usa,United States
+2001,as,Asia,asjpn,Japan,jpn,47309.426085,nausa,usa,United States
+2001,as,Asia,askor,South Korea,kor,45236.99999999999,nausa,usa,United States
+2001,as,Asia,asomn,Oman,omn,19115.847836,nausa,usa,United States
+2001,as,Asia,assgp,Singapore,sgp,33018,nausa,usa,United States
+2001,as,Asia,astha,Thailand,tha,18748364.968000002,nausa,usa,United States
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,58050.801473,nausa,usa,United States
+2001,eu,Europe,eudnk,Denmark,dnk,1455.583476,nausa,usa,United States
+2001,eu,Europe,eufra,France,fra,5521.3410535,nausa,usa,United States
+2001,eu,Europe,eugbr,United Kingdom,gbr,37070,nausa,usa,United States
+2001,eu,Europe,euirl,Ireland,irl,13976924.904,nausa,usa,United States
+2001,eu,Europe,euita,Italy,ita,4605874.657500001,nausa,usa,United States
+2001,eu,Europe,eumda,Moldova,mda,35209.290365,nausa,usa,United States
+2001,eu,Europe,eunld,Netherlands,nld,46121.789555,nausa,usa,United States
+2001,na,North America,nacan,Canada,can,187402105.9,nausa,usa,United States
+2001,na,North America,nacri,Costa Rica,cri,38676.037235,nausa,usa,United States
+2001,na,North America,nadom,Dominican Republic,dom,173970.18646,nausa,usa,United States
+2001,na,North America,nagtm,Guatemala,gtm,384458.42815,nausa,usa,United States
+2001,na,North America,nahnd,Honduras,hnd,14777.000000000002,nausa,usa,United States
+2001,na,North America,nakna,Saint Kitts and Nevis,kna,105411.03494,nausa,usa,United States
+2001,na,North America,namex,Mexico,mex,92940,nausa,usa,United States
+2001,na,North America,natca,Turks and Caicos Islands,tca,28397.13493,nausa,usa,United States
+2001,oc,Oceania,ocaus,Australia,aus,3534.9188586,nausa,usa,United States
+2001,sa,South America,sabra,Brazil,bra,36228045.268,nausa,usa,United States
+2001,sa,South America,saecu,Ecuador,ecu,1118.7750716,nausa,usa,United States
+2001,sa,South America,saguy,Guyana,guy,2028.3958716,nausa,usa,United States
+2001,sa,South America,sasur,Suriname,sur,3556,nausa,usa,United States
+2001,sa,South America,saven,Venezuela,ven,34168237.703999996,nausa,usa,United States
+2001,af,Africa,afzaf,South Africa,zaf,40982522.226,ocaus,aus,Australia
+2001,as,Asia,asbgd,Bangladesh,bgd,19840,ocaus,aus,Australia
+2001,as,Asia,aschn,China,chn,154572759.95000002,ocaus,aus,Australia
+2001,as,Asia,asidn,Indonesia,idn,31639029.239,ocaus,aus,Australia
+2001,as,Asia,asjpn,Japan,jpn,465703661.33000004,ocaus,aus,Australia
+2001,as,Asia,askor,South Korea,kor,753160586.29,ocaus,aus,Australia
+2001,as,Asia,asmmr,Burma,mmr,6714062,ocaus,aus,Australia
+2001,as,Asia,asmys,Malaysia,mys,8819008.736,ocaus,aus,Australia
+2001,as,Asia,asphl,Philippines,phl,51715677.511,ocaus,aus,Australia
+2001,as,Asia,assgp,Singapore,sgp,797453374.51,ocaus,aus,Australia
+2001,as,Asia,astha,Thailand,tha,71582741.74900001,ocaus,aus,Australia
+2001,as,Asia,asxxb,Chinese Taipei,,449811377.00000006,ocaus,aus,Australia
+2001,na,North America,nacan,Canada,can,24946726.449,ocaus,aus,Australia
+2001,na,North America,nausa,United States,usa,377977811.75,ocaus,aus,Australia
+2001,oc,Oceania,ocnzl,New Zealand,nzl,111839721.66,ocaus,aus,Australia
+2001,as,Asia,aschn,China,chn,5472467,ocnzl,nzl,New Zealand
+2001,as,Asia,asjpn,Japan,jpn,49931292,ocnzl,nzl,New Zealand
+2001,as,Asia,askor,South Korea,kor,7179444,ocnzl,nzl,New Zealand
+2001,na,North America,nausa,United States,usa,6440390,ocnzl,nzl,New Zealand
+2001,oc,Oceania,ocaus,Australia,aus,206299487.12,ocnzl,nzl,New Zealand
+2001,as,Asia,aschn,China,chn,16628578.233000001,ocpng,png,Papua New Guinea
+2001,as,Asia,astha,Thailand,tha,30832465.877,ocpng,png,Papua New Guinea
+2001,oc,Oceania,ocaus,Australia,aus,339761272.85999995,ocpng,png,Papua New Guinea
+2001,oc,Oceania,ocnzl,New Zealand,nzl,28504898.942,ocpng,png,Papua New Guinea
+2001,as,Asia,aschn,China,chn,21903777.676,saarg,arg,Argentina
+2001,as,Asia,askor,South Korea,kor,101239462.05,saarg,arg,Argentina
+2001,eu,Europe,euesp,Spain,esp,10658882.165000001,saarg,arg,Argentina
+2001,eu,Europe,eufra,France,fra,1812195.1678,saarg,arg,Argentina
+2001,na,North America,nabhs,Bahamas,bhs,8173070,saarg,arg,Argentina
+2001,na,North America,nausa,United States,usa,436780759.12,saarg,arg,Argentina
+2001,oc,Oceania,ocaus,Australia,aus,9707379.619900001,saarg,arg,Argentina
+2001,sa,South America,sabra,Brazil,bra,490163632.13000005,saarg,arg,Argentina
+2001,sa,South America,sachl,Chile,chl,1242794672,saarg,arg,Argentina
+2001,sa,South America,sacol,Colombia,col,13752557.788999999,saarg,arg,Argentina
+2001,sa,South America,saper,Peru,per,23612446.564,saarg,arg,Argentina
+2001,sa,South America,sapry,Paraguay,pry,18641636.827000003,saarg,arg,Argentina
+2001,sa,South America,saury,Uruguay,ury,26295428.049000002,saarg,arg,Argentina
+2001,na,North America,nausa,United States,usa,5679483.0342,sabol,bol,Bolivia
+2001,sa,South America,saarg,Argentina,arg,3543627.5556,sabol,bol,Bolivia
+2001,sa,South America,sabra,Brazil,bra,45092558.213999994,sabol,bol,Bolivia
+2001,sa,South America,sapry,Paraguay,pry,755962,sabol,bol,Bolivia
+2001,sa,South America,saury,Uruguay,ury,170100,sabol,bol,Bolivia
+2001,as,Asia,asare,United Arab Emirates,are,112227231,sabra,bra,Brazil
+2001,as,Asia,aschn,China,chn,39847335,sabra,bra,Brazil
+2001,as,Asia,asjpn,Japan,jpn,1432.8403213000001,sabra,bra,Brazil
+2001,as,Asia,asprk,North Korea,prk,18594915,sabra,bra,Brazil
+2001,eu,Europe,eudeu,Germany,deu,16346105.925,sabra,bra,Brazil
+2001,eu,Europe,euesp,Spain,esp,3494847.3227,sabra,bra,Brazil
+2001,eu,Europe,eufra,France,fra,81171531.69,sabra,bra,Brazil
+2001,eu,Europe,eugbr,United Kingdom,gbr,15823683.809999999,sabra,bra,Brazil
+2001,eu,Europe,euita,Italy,ita,22246755.828,sabra,bra,Brazil
+2001,eu,Europe,eunld,Netherlands,nld,7211579.000000001,sabra,bra,Brazil
+2001,eu,Europe,euprt,Portugal,prt,28986891.582,sabra,bra,Brazil
+2001,na,North America,naant,Netherlands Antilles,ant,19199100,sabra,bra,Brazil
+2001,na,North America,nalca,Saint Lucia,lca,174230217,sabra,bra,Brazil
+2001,na,North America,natto,Trinidad and Tobago,tto,121678698.06,sabra,bra,Brazil
+2001,na,North America,nausa,United States,usa,54091145.47999999,sabra,bra,Brazil
+2001,sa,South America,saarg,Argentina,arg,94001780.333,sabra,bra,Brazil
+2001,sa,South America,sachl,Chile,chl,81107667.865,sabra,bra,Brazil
+2001,sa,South America,sapry,Paraguay,pry,1657.5226582,sabra,bra,Brazil
+2001,na,North America,nausa,United States,usa,1947169.4601,sachl,chl,Chile
+2001,eu,Europe,eunld,Netherlands,nld,8967991.965200001,sacol,col,Colombia
+2001,na,North America,naant,Netherlands Antilles,ant,10126757,sacol,col,Colombia
+2001,na,North America,nacan,Canada,can,21289130.511000004,sacol,col,Colombia
+2001,na,North America,nacri,Costa Rica,cri,7654955.727600001,sacol,col,Colombia
+2001,na,North America,napan,Panama,pan,76518625.14400001,sacol,col,Colombia
+2001,na,North America,natto,Trinidad and Tobago,tto,153535306.9,sacol,col,Colombia
+2001,na,North America,nausa,United States,usa,2311208936.6,sacol,col,Colombia
+2001,sa,South America,saarg,Argentina,arg,7843572.1876,sacol,col,Colombia
+2001,sa,South America,sabra,Brazil,bra,16484396.118,sacol,col,Colombia
+2001,sa,South America,saper,Peru,per,20979306.482,sacol,col,Colombia
+2001,as,Asia,asjpn,Japan,jpn,38618857.701,saecu,ecu,Ecuador
+2001,as,Asia,askor,South Korea,kor,245044656.28000003,saecu,ecu,Ecuador
+2001,as,Asia,assgp,Singapore,sgp,6076315.169600001,saecu,ecu,Ecuador
+2001,as,Asia,astha,Thailand,tha,12778719.126,saecu,ecu,Ecuador
+2001,as,Asia,asxxb,Chinese Taipei,,6645820,saecu,ecu,Ecuador
+2001,na,North America,najam,Jamaica,jam,7820915.5395,saecu,ecu,Ecuador
+2001,na,North America,napan,Panama,pan,231455015.85,saecu,ecu,Ecuador
+2001,na,North America,naslv,El Salvador,slv,80991177.55,saecu,ecu,Ecuador
+2001,na,North America,nausa,United States,usa,831554522.21,saecu,ecu,Ecuador
+2001,sa,South America,sachl,Chile,chl,28930753.928,saecu,ecu,Ecuador
+2001,sa,South America,saper,Peru,per,261076869.6,saecu,ecu,Ecuador
+2001,sa,South America,saven,Venezuela,ven,332631.82,saecu,ecu,Ecuador
+2001,as,Asia,askor,South Korea,kor,12492442.849,saper,per,Peru
+2001,na,North America,nausa,United States,usa,39914720.369,saper,per,Peru
+2001,sa,South America,sachl,Chile,chl,65733882.52300001,saper,per,Peru
+2001,sa,South America,sabra,Brazil,bra,76190,sapry,pry,Paraguay
+2001,na,North America,natto,Trinidad and Tobago,tto,11556625.761,sasur,sur,Suriname
+2001,af,Africa,afciv,Cote d'Ivoire,civ,17416162.691,saven,ven,Venezuela
+2001,as,Asia,aschn,China,chn,36109963.898,saven,ven,Venezuela
+2001,as,Asia,asind,India,ind,457606000,saven,ven,Venezuela
+2001,as,Asia,askor,South Korea,kor,25179140.725,saven,ven,Venezuela
+2001,eu,Europe,eublx,Belgium-Luxembourg,blx,87695823.611,saven,ven,Venezuela
+2001,eu,Europe,eudeu,Germany,deu,182302135.14999998,saven,ven,Venezuela
+2001,eu,Europe,euesp,Spain,esp,379098109.55,saven,ven,Venezuela
+2001,eu,Europe,eufra,France,fra,119567927.41,saven,ven,Venezuela
+2001,eu,Europe,eugbr,United Kingdom,gbr,108931000,saven,ven,Venezuela
+2001,eu,Europe,euita,Italy,ita,15065847.843000002,saven,ven,Venezuela
+2001,eu,Europe,eunld,Netherlands,nld,70216977.005,saven,ven,Venezuela
+2001,eu,Europe,euprt,Portugal,prt,108567135.92999999,saven,ven,Venezuela
+2001,eu,Europe,euswe,Sweden,swe,112318406.64000002,saven,ven,Venezuela
+2001,na,North America,naabw,Aruba,abw,20148888,saven,ven,Venezuela
+2001,na,North America,naant,Netherlands Antilles,ant,1363690582,saven,ven,Venezuela
+2001,na,North America,nabhs,Bahamas,bhs,14471516.887,saven,ven,Venezuela
+2001,na,North America,nacan,Canada,can,568064620.3399999,saven,ven,Venezuela
+2001,na,North America,nacri,Costa Rica,cri,26915450.175,saven,ven,Venezuela
+2001,na,North America,nacub,Cuba,cub,298708892.82,saven,ven,Venezuela
+2001,na,North America,nadom,Dominican Republic,dom,76020313.388,saven,ven,Venezuela
+2001,na,North America,nagtm,Guatemala,gtm,138542925.77,saven,ven,Venezuela
+2001,na,North America,najam,Jamaica,jam,70390461.829,saven,ven,Venezuela
+2001,na,North America,nalca,Saint Lucia,lca,50904672.99999999,saven,ven,Venezuela
+2001,na,North America,nanic,Nicaragua,nic,124660301.04,saven,ven,Venezuela
+2001,na,North America,napan,Panama,pan,101002358.23,saven,ven,Venezuela
+2001,na,North America,naslv,El Salvador,slv,14006138.665000001,saven,ven,Venezuela
+2001,na,North America,natto,Trinidad and Tobago,tto,394193308.64,saven,ven,Venezuela
+2001,na,North America,nausa,United States,usa,9500003138.3,saven,ven,Venezuela
+2001,sa,South America,sabra,Brazil,bra,161996094.17,saven,ven,Venezuela
+2001,sa,South America,sachl,Chile,chl,37813382.352,saven,ven,Venezuela
+2001,sa,South America,saper,Peru,per,106991198.31,saven,ven,Venezuela
+2001,sa,South America,saury,Uruguay,ury,153903098.06,saven,ven,Venezuela
